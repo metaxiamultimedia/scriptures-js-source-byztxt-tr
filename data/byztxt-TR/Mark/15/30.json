@@ -1,0 +1,115 @@
+{
+  "text": "σωσον σεαυτον και καταβα απο του σταυρου",
+  "words": [
+    {
+      "position": 1,
+      "text": "σωσον",
+      "lemma": [
+        "G4982"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G4982",
+      "metadata": {},
+      "gematria": {
+        "standard": 1320,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "σεαυτον",
+      "lemma": [
+        "G4572"
+      ],
+      "morph": "robinson:F-2ASM",
+      "strongs": "G4572",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "καταβα",
+      "lemma": [
+        "G2597"
+      ],
+      "morph": "robinson:V-2AAM-2S-ATT",
+      "strongs": "G2597",
+      "metadata": {},
+      "gematria": {
+        "standard": 325,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "σταυρου",
+      "lemma": [
+        "G4716"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4716",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5094,
+    "ordinal": 110,
+    "reduced": 117
+  }
+}

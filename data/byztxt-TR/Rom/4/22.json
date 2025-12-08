@@ -1,0 +1,100 @@
+{
+  "text": "διο και ελογισθη αυτω εις δικαιοσυνην",
+  "words": [
+    {
+      "position": 1,
+      "text": "διο",
+      "lemma": [
+        "G1352"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1352",
+      "metadata": {},
+      "gematria": {
+        "standard": 84,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "ελογισθη",
+      "lemma": [
+        "G3049"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G3049",
+      "metadata": {},
+      "gematria": {
+        "standard": 335,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "δικαιοσυνην",
+      "lemma": [
+        "G1343"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1343",
+      "metadata": {},
+      "gematria": {
+        "standard": 823,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2989,
+    "ordinal": 130,
+    "reduced": 118
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "text": "ην και εισηγαγον διαδεxαμενοι οι πατερες ημων μετα ιησου εν τη κατασχεσει των εθνων ων εxωσεν ο θεος απο προσωπου των πατερων ημων εως των ημερων δαβιδ",
+  "words": [
+    {
+      "position": 1,
+      "text": "ην",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "εισηγαγον",
+      "lemma": [
+        "G1521"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G1521",
+      "metadata": {},
+      "gematria": {
+        "standard": 350,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "διαδεxαμενοι",
+      "lemma": [
+        "G1237"
+      ],
+      "morph": "robinson:V-ADP-NPM",
+      "strongs": "G1237",
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 66,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "πατερες",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "κατασχεσει",
+      "lemma": [
+        "G2697"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2697",
+      "metadata": {},
+      "gematria": {
+        "standard": 1342,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "εθνων",
+      "lemma": [
+        "G1484"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G1484",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 15,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 15,
+      "text": "ων",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GPN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "εxωσεν",
+      "lemma": [
+        "G1856"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1856",
+      "metadata": {},
+      "gematria": {
+        "standard": 1060,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "προσωπου",
+      "lemma": [
+        "G4383"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G4383",
+      "metadata": {},
+      "gematria": {
+        "standard": 1800,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 21,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "πατερων",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1336,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 23,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "εως",
+      "lemma": [
+        "G2193"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2193",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 25,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 26,
+      "text": "ημερων",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 1003,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 27,
+      "text": "δαβιδ",
+      "lemma": [
+        "G1138"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1138",
+      "metadata": {},
+      "gematria": {
+        "standard": 21,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17889,
+    "ordinal": 431,
+    "reduced": 555
+  }
+}

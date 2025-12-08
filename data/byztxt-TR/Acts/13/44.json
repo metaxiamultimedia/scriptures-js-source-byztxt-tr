@@ -1,0 +1,220 @@
+{
+  "text": "τω δε ερχομενω σαββατω σχεδον πασα η πολις συνηχθη ακουσαι τον λογον του θεου",
+  "words": [
+    {
+      "position": 1,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ερχομενω",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-PNP-DSN",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 1670,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 4,
+      "text": "σαββατω",
+      "lemma": [
+        "G4521"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G4521",
+      "metadata": {},
+      "gematria": {
+        "standard": 1306,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "σχεδον",
+      "lemma": [
+        "G4975"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4975",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "πασα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "πολις",
+      "lemma": [
+        "G4172"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4172",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "συνηχθη",
+      "lemma": [
+        "G4863"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G4863",
+      "metadata": {},
+      "gematria": {
+        "standard": 1275,
+        "ordinal": 28,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "ακουσαι",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9568,
+    "ordinal": 210,
+    "reduced": 289
+  }
+}

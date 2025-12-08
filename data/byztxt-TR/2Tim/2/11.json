@@ -1,0 +1,130 @@
+{
+  "text": "πιστος ο λογος ει γαρ συναπεθανομεν και συζησομεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "πιστος",
+      "lemma": [
+        "G4103"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G4103",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "λογος",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 6,
+      "text": "συναπεθανομεν",
+      "lemma": [
+        "G4880"
+      ],
+      "morph": "robinson:V-2AAI-1P",
+      "strongs": "G4880",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 91,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "συζησομεν",
+      "lemma": [
+        "G4800"
+      ],
+      "morph": "robinson:V-FAI-1P",
+      "strongs": "G4800",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3394,
+    "ordinal": 188,
+    "reduced": 172
+  }
+}

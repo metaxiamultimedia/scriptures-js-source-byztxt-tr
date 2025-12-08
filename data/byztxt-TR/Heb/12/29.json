@@ -1,0 +1,115 @@
+{
+  "text": "και γαρ ο θεος ημων πυρ καταναλισκον",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "πυρ",
+      "lemma": [
+        "G4442"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G4442",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "καταναλισκον",
+      "lemma": [
+        "G2654"
+      ],
+      "morph": "robinson:V-PAP-NSN",
+      "strongs": "G2654",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2720,
+    "ordinal": 117,
+    "reduced": 110
+  }
+}

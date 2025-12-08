@@ -1,0 +1,70 @@
+{
+  "text": "κηρυxαι ενιαυτον κυριου δεκτον",
+  "words": [
+    {
+      "position": 1,
+      "text": "κηρυxαι",
+      "lemma": [
+        "G2784"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G2784",
+      "metadata": {},
+      "gematria": {
+        "standard": 539,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "ενιαυτον",
+      "lemma": [
+        "G1763"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G1763",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "δεκτον",
+      "lemma": [
+        "G1184"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G1184",
+      "metadata": {},
+      "gematria": {
+        "standard": 449,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2874,
+    "ordinal": 99,
+    "reduced": 93
+  }
+}

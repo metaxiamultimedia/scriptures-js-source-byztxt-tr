@@ -1,0 +1,100 @@
+{
+  "text": "και περιεβλεπετο ιδειν την τουτο ποιησασαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "περιεβλεπετο",
+      "lemma": [
+        "G4017"
+      ],
+      "morph": "robinson:V-IMI-3S",
+      "strongs": "G4017",
+      "metadata": {},
+      "gematria": {
+        "standard": 692,
+        "ordinal": 78,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιδειν",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 79,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "ποιησασαν",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-AAP-ASF",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2920,
+    "ordinal": 165,
+    "reduced": 148
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "text": "εσχατος εχθρος καταργειται ο θανατος",
+  "words": [
+    {
+      "position": 1,
+      "text": "εσχατος",
+      "lemma": [
+        "G2078"
+      ],
+      "morph": "robinson:A-NSM-S",
+      "strongs": "G2078",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "εχθρος",
+      "lemma": [
+        "G2190"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G2190",
+      "metadata": {},
+      "gematria": {
+        "standard": 984,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "καταργειται",
+      "lemma": [
+        "G2673"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G2673",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 66,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "θανατος",
+      "lemma": [
+        "G2288"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2288",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3812,
+    "ordinal": 144,
+    "reduced": 113
+  }
+}

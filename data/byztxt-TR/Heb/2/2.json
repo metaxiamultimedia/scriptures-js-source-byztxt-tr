@@ -1,0 +1,265 @@
+{
+  "text": "ει γαρ ο δι αγγελων λαληθεις λογος εγενετο βεβαιος και πασα παραβασις και παρακοη ελαβεν ενδικον μισθαποδοσιαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "δι",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 3,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 5,
+      "text": "αγγελων",
+      "lemma": [
+        "G32"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G32",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "λαληθεις",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-APP-NSM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 293,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "λογος",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "εγενετο",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 9,
+      "text": "βεβαιος",
+      "lemma": [
+        "G949"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G949",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "πασα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "παραβασις",
+      "lemma": [
+        "G3847"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3847",
+      "metadata": {},
+      "gematria": {
+        "standard": 595,
+        "ordinal": 45,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "παρακοη",
+      "lemma": [
+        "G3876"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3876",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "ελαβεν",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "ενδικον",
+      "lemma": [
+        "G1738"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G1738",
+      "metadata": {},
+      "gematria": {
+        "standard": 209,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 17,
+      "text": "μισθαποδοσιαν",
+      "lemma": [
+        "G3405"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3405",
+      "metadata": {},
+      "gematria": {
+        "standard": 745,
+        "ordinal": 91,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4755,
+    "ordinal": 383,
+    "reduced": 327
+  }
+}

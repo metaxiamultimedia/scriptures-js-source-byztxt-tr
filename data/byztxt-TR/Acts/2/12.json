@@ -1,0 +1,220 @@
+{
+  "text": "εxισταντο δε παντες και διηπορουν αλλος προς αλλον λεγοντες τι αν θελοι τουτο ειναι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εxισταντο",
+      "lemma": [
+        "G1839"
+      ],
+      "morph": "robinson:V-IMI-3P",
+      "strongs": "G1839",
+      "metadata": {},
+      "gematria": {
+        "standard": 936,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "παντες",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "διηπορουν",
+      "lemma": [
+        "G1280"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G1280",
+      "metadata": {},
+      "gematria": {
+        "standard": 792,
+        "ordinal": 45,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 6,
+      "text": "αλλος",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 331,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "αλλον",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-NSN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "αν",
+      "lemma": [
+        "G302"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G302",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "θελοι",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAO-3S",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 124,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "ειναι",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5730,
+    "ordinal": 238,
+    "reduced": 267
+  }
+}

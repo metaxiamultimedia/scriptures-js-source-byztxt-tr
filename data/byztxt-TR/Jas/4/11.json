@@ -1,0 +1,415 @@
+{
+  "text": "μη καταλαλειτε αλληλων αδελφοι ο καταλαλων αδελφου και κρινων τον αδελφον αυτου καταλαλει νομου και κρινει νομον ει δε νομον κρινεις ουκ ει ποιητης νομου αλλα κριτης",
+  "words": [
+    {
+      "position": 1,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "καταλαλειτε",
+      "lemma": [
+        "G2635"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G2635",
+      "metadata": {},
+      "gematria": {
+        "standard": 703,
+        "ordinal": 66,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "αλληλων",
+      "lemma": [
+        "G240"
+      ],
+      "morph": "robinson:C-GPM",
+      "strongs": "G240",
+      "metadata": {},
+      "gematria": {
+        "standard": 949,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "καταλαλων",
+      "lemma": [
+        "G2635"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2635",
+      "metadata": {},
+      "gematria": {
+        "standard": 1233,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "αδελφου",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "κρινων",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "αδελφον",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "καταλαλει",
+      "lemma": [
+        "G2635"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2635",
+      "metadata": {},
+      "gematria": {
+        "standard": 398,
+        "ordinal": 45,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "νομου",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 16,
+      "text": "κρινει",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "νομον",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 19,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "νομον",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "κρινεις",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 395,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 23,
+      "text": "ει",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 24,
+      "text": "ποιητης",
+      "lemma": [
+        "G4163"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4163",
+      "metadata": {},
+      "gematria": {
+        "standard": 676,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 25,
+      "text": "νομου",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 26,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 27,
+      "text": "κριτης",
+      "lemma": [
+        "G2923"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2923",
+      "metadata": {},
+      "gematria": {
+        "standard": 638,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12689,
+    "ordinal": 509,
+    "reduced": 512
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "text": "χαιρειν μετα χαιροντων και κλαιειν μετα κλαιοντων",
+  "words": [
+    {
+      "position": 1,
+      "text": "χαιρειν",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 776,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "χαιροντων",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-PAP-GPM",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 1981,
+        "ordinal": 45,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "κλαιειν",
+      "lemma": [
+        "G2799"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G2799",
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "κλαιοντων",
+      "lemma": [
+        "G2799"
+      ],
+      "morph": "robinson:V-PAP-GPM",
+      "strongs": "G2799",
+      "metadata": {},
+      "gematria": {
+        "standard": 1331,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4937,
+    "ordinal": 172,
+    "reduced": 140
+  }
+}

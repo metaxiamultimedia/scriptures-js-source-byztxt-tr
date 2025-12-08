@@ -1,0 +1,85 @@
+{
+  "text": "τυχικον δε απεστειλα εις εφεσον",
+  "words": [
+    {
+      "position": 1,
+      "text": "τυχικον",
+      "lemma": [
+        "G5190"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5190",
+      "metadata": {},
+      "gematria": {
+        "standard": 1450,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "απεστειλα",
+      "lemma": [
+        "G649"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G649",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "εφεσον",
+      "lemma": [
+        "G2181"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2181",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3136,
+    "ordinal": 103,
+    "reduced": 103
+  }
+}

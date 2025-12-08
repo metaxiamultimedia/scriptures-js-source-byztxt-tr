@@ -1,0 +1,250 @@
+{
+  "text": "εκουσιως γαρ αμαρτανοντων ημων μετα το λαβειν την επιγνωσιν της αληθειας ουκετι περι αμαρτιων απολειπεται θυσια",
+  "words": [
+    {
+      "position": 1,
+      "text": "εκουσιως",
+      "lemma": [
+        "G1596"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1596",
+      "metadata": {},
+      "gematria": {
+        "standard": 1705,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "αμαρτανοντων",
+      "lemma": [
+        "G264"
+      ],
+      "morph": "robinson:V-PAP-GPM",
+      "strongs": "G264",
+      "metadata": {},
+      "gematria": {
+        "standard": 1763,
+        "ordinal": 78,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 4,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "λαβειν",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "επιγνωσιν",
+      "lemma": [
+        "G1922"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1922",
+      "metadata": {},
+      "gematria": {
+        "standard": 1208,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "αληθειας",
+      "lemma": [
+        "G225"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G225",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "ουκετι",
+      "lemma": [
+        "G3765"
+      ],
+      "morph": "robinson:ADV-N",
+      "strongs": "G3765",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "αμαρτιων",
+      "lemma": [
+        "G266"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G266",
+      "metadata": {},
+      "gematria": {
+        "standard": 1302,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "απολειπεται",
+      "lemma": [
+        "G620"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G620",
+      "metadata": {},
+      "gematria": {
+        "standard": 592,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 16,
+      "text": "θυσια",
+      "lemma": [
+        "G2378"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2378",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11136,
+    "ordinal": 405,
+    "reduced": 363
+  }
+}

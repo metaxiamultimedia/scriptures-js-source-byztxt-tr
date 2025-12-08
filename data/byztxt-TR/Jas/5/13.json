@@ -1,0 +1,130 @@
+{
+  "text": "κακοπαθει τις εν υμιν προσευχεσθω ευθυμει τις ψαλλετω",
+  "words": [
+    {
+      "position": 1,
+      "text": "κακοπαθει",
+      "lemma": [
+        "G2553"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2553",
+      "metadata": {},
+      "gematria": {
+        "standard": 216,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NSM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "προσευχεσθω",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-PNM-3S",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 2469,
+        "ordinal": 66,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 6,
+      "text": "ευθυμει",
+      "lemma": [
+        "G2114"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2114",
+      "metadata": {},
+      "gematria": {
+        "standard": 869,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NSM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "ψαλλετω",
+      "lemma": [
+        "G5567"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G5567",
+      "metadata": {},
+      "gematria": {
+        "standard": 1866,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6995,
+    "ordinal": 192,
+    "reduced": 191
+  }
+}

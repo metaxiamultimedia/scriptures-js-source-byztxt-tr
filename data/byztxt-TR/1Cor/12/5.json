@@ -1,0 +1,130 @@
+{
+  "text": "και διαιρεσεις διακονιων εισιν και ο αυτος κυριος",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "διαιρεσεις",
+      "lemma": [
+        "G1243"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G1243",
+      "metadata": {},
+      "gematria": {
+        "standard": 545,
+        "ordinal": 55,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "διακονιων",
+      "lemma": [
+        "G1248"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G1248",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "εισιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτος",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-NSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "κυριος",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3738,
+    "ordinal": 164,
+    "reduced": 120
+  }
+}

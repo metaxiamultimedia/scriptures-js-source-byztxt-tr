@@ -1,0 +1,70 @@
+{
+  "text": "φασκοντες ειναι σοφοι εμωρανθησαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "φασκοντες",
+      "lemma": [
+        "G5335"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G5335",
+      "metadata": {},
+      "gematria": {
+        "standard": 1346,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "ειναι",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "σοφοι",
+      "lemma": [
+        "G4680"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4680",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "εμωρανθησαν",
+      "lemma": [
+        "G3471"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G3471",
+      "metadata": {},
+      "gematria": {
+        "standard": 1264,
+        "ordinal": 66,
+        "reduced": 49
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3536,
+    "ordinal": 141,
+    "reduced": 116
+  }
+}

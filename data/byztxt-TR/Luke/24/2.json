@@ -1,0 +1,130 @@
+{
+  "text": "ευρον δε τον λιθον αποκεκυλισμενον απο του μνημειου",
+  "words": [
+    {
+      "position": 1,
+      "text": "ευρον",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "λιθον",
+      "lemma": [
+        "G3037"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3037",
+      "metadata": {},
+      "gematria": {
+        "standard": 169,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "αποκεκυλισμενον",
+      "lemma": [
+        "G617"
+      ],
+      "morph": "robinson:V-RPP-ASM",
+      "strongs": "G617",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 120,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 6,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "μνημειου",
+      "lemma": [
+        "G3419"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G3419",
+      "metadata": {},
+      "gematria": {
+        "standard": 623,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3818,
+    "ordinal": 207,
+    "reduced": 200
+  }
+}

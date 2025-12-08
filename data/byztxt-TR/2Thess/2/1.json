@@ -1,0 +1,265 @@
+{
+  "text": "ερωτωμεν δε υμας αδελφοι υπερ της παρουσιας του κυριου ημων ιησου χριστου και ημων επισυναγωγης επ αυτον",
+  "words": [
+    {
+      "position": 1,
+      "text": "ερωτωμεν",
+      "lemma": [
+        "G2065"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G2065",
+      "metadata": {},
+      "gematria": {
+        "standard": 2100,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "υπερ",
+      "lemma": [
+        "G5228"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5228",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "παρουσιας",
+      "lemma": [
+        "G3952"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3952",
+      "metadata": {},
+      "gematria": {
+        "standard": 1062,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "επισυναγωγης",
+      "lemma": [
+        "G1997"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1997",
+      "metadata": {},
+      "gematria": {
+        "standard": 1760,
+        "ordinal": 78,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 16,
+      "text": "επ",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 17,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14156,
+    "ordinal": 330,
+    "reduced": 359
+  }
+}

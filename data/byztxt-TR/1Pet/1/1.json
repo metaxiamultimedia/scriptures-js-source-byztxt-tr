@@ -1,0 +1,205 @@
+{
+  "text": "πετρος αποστολος ιησου χριστου εκλεκτοις παρεπιδημοις διασπορας ποντου γαλατιας καππαδοκιας ασιας και βιθυνιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "πετρος",
+      "lemma": [
+        "G4074"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4074",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "αποστολος",
+      "lemma": [
+        "G652"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G652",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "εκλεκτοις",
+      "lemma": [
+        "G1588"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G1588",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "παρεπιδημοις",
+      "lemma": [
+        "G3927"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G3927",
+      "metadata": {},
+      "gematria": {
+        "standard": 608,
+        "ordinal": 78,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 7,
+      "text": "διασπορας",
+      "lemma": [
+        "G1290"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1290",
+      "metadata": {},
+      "gematria": {
+        "standard": 666,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "ποντου",
+      "lemma": [
+        "G4195"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4195",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 9,
+      "text": "γαλατιας",
+      "lemma": [
+        "G1053"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1053",
+      "metadata": {},
+      "gematria": {
+        "standard": 546,
+        "ordinal": 36,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "καππαδοκιας",
+      "lemma": [
+        "G2587"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2587",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 66,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "ασιας",
+      "lemma": [
+        "G773"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G773",
+      "metadata": {},
+      "gematria": {
+        "standard": 412,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "βιθυνιας",
+      "lemma": [
+        "G978"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G978",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9206,
+    "ordinal": 457,
+    "reduced": 341
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "text": "πασαι ουν αι γενεαι απο αβρααμ εως δαβιδ γενεαι δεκατεσσαρες και απο δαβιδ εως της μετοικεσιας βαβυλωνος γενεαι δεκατεσσαρες και απο της μετοικεσιας βαβυλωνος εως του χριστου γενεαι δεκατεσσαρες",
+  "words": [
+    {
+      "position": 1,
+      "text": "πασαι",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 292,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "αι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 4,
+      "text": "γενεαι",
+      "lemma": [
+        "G1074"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G1074",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "αβρααμ",
+      "lemma": [
+        "G11"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G11",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "εως",
+      "lemma": [
+        "G2193"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2193",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "δαβιδ",
+      "lemma": [
+        "G1138"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1138",
+      "metadata": {},
+      "gematria": {
+        "standard": 21,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "γενεαι",
+      "lemma": [
+        "G1074"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G1074",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "δεκατεσσαρες",
+      "lemma": [
+        "G1180"
+      ],
+      "morph": "robinson:A-NPF",
+      "strongs": "G1180",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "δαβιδ",
+      "lemma": [
+        "G1138"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1138",
+      "metadata": {},
+      "gematria": {
+        "standard": 21,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "εως",
+      "lemma": [
+        "G2193"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2193",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "μετοικεσιας",
+      "lemma": [
+        "G3350"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3350",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 66,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "βαβυλωνος",
+      "lemma": [
+        "G897"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G897",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 18,
+      "text": "γενεαι",
+      "lemma": [
+        "G1074"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G1074",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 19,
+      "text": "δεκατεσσαρες",
+      "lemma": [
+        "G1180"
+      ],
+      "morph": "robinson:A-NPF",
+      "strongs": "G1180",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 20,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 21,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 23,
+      "text": "μετοικεσιας",
+      "lemma": [
+        "G3350"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3350",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 66,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 24,
+      "text": "βαβυλωνος",
+      "lemma": [
+        "G897"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G897",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 25,
+      "text": "εως",
+      "lemma": [
+        "G2193"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2193",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 26,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 27,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 28,
+      "text": "γενεαι",
+      "lemma": [
+        "G1074"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G1074",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 29,
+      "text": "δεκατεσσαρες",
+      "lemma": [
+        "G1180"
+      ],
+      "morph": "robinson:A-NPF",
+      "strongs": "G1180",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16257,
+    "ordinal": 709,
+    "reduced": 543
+  }
+}

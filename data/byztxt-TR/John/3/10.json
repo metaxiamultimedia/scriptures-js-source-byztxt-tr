@@ -1,0 +1,250 @@
+{
+  "text": "απεκριθη ο ιησους και ειπεν αυτω συ ει ο διδασκαλος του ισραηλ και ταυτα ου γινωσκεις",
+  "words": [
+    {
+      "position": 1,
+      "text": "απεκριθη",
+      "lemma": [
+        "G611"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G611",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "συ",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "ει",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "διδασκαλος",
+      "lemma": [
+        "G1320"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G1320",
+      "metadata": {},
+      "gematria": {
+        "standard": 540,
+        "ordinal": 55,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 11,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "ισραηλ",
+      "lemma": [
+        "G2474"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2474",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "ταυτα",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-APN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "γινωσκεις",
+      "lemma": [
+        "G1097"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G1097",
+      "metadata": {},
+      "gematria": {
+        "standard": 1298,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8018,
+    "ordinal": 247,
+    "reduced": 242
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "text": "ποιησατε ουν καρπους αxιους της μετανοιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "ποιησατε",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-AAM-2P",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 674,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "καρπους",
+      "lemma": [
+        "G2590"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G2590",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "αxιους",
+      "lemma": [
+        "G514"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G514",
+      "metadata": {},
+      "gematria": {
+        "standard": 681,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "μετανοιας",
+      "lemma": [
+        "G3341"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3341",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3931,
+    "ordinal": 136,
+    "reduced": 133
+  }
+}

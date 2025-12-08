@@ -1,0 +1,250 @@
+{
+  "text": "και επλησθησαν απαντες πνευματος αγιου και ηρxαντο λαλειν ετεραις γλωσσαις καθως το πνευμα εδιδου αυτοις αποφθεγγεσθαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "επλησθησαν",
+      "lemma": [
+        "G4130"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G4130",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 55,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 3,
+      "text": "απαντες",
+      "lemma": [
+        "G537"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G537",
+      "metadata": {},
+      "gematria": {
+        "standard": 637,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "πνευματος",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 1146,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "αγιου",
+      "lemma": [
+        "G40"
+      ],
+      "morph": "robinson:A-GSN",
+      "strongs": "G40",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "ηρxαντο",
+      "lemma": [
+        "G756"
+      ],
+      "morph": "robinson:V-AMI-3P",
+      "strongs": "G756",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "λαλειν",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "ετεραις",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-DPF",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "γλωσσαις",
+      "lemma": [
+        "G1100"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G1100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1444,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "καθως",
+      "lemma": [
+        "G2531"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2531",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "πνευμα",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 14,
+      "text": "εδιδου",
+      "lemma": [
+        "G1325"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1325",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "αποφθεγγεσθαι",
+      "lemma": [
+        "G669"
+      ],
+      "morph": "robinson:V-PNN",
+      "strongs": "G669",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 91,
+        "reduced": 59
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9986,
+    "ordinal": 433,
+    "reduced": 383
+  }
+}

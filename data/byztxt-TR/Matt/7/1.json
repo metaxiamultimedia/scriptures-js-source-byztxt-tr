@@ -1,0 +1,85 @@
+{
+  "text": "μη κρινετε ινα μη κριθητε",
+  "words": [
+    {
+      "position": 1,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "κρινετε",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "κριθητε",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-APS-2P",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 452,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1099,
+    "ordinal": 68,
+    "reduced": 82
+  }
+}

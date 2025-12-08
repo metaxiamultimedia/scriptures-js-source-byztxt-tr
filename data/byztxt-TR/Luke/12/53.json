@@ -1,0 +1,400 @@
+{
+  "text": "διαμερισθησεται πατηρ εφ υιω και υιος επι πατρι μητηρ επι θυγατρι και θυγατηρ επι μητρι πενθερα επι την νυμφην αυτης και νυμφη επι την πενθεραν αυτης",
+  "words": [
+    {
+      "position": 1,
+      "text": "διαμερισθησεται",
+      "lemma": [
+        "G1266"
+      ],
+      "morph": "robinson:V-FPI-3S",
+      "strongs": "G1266",
+      "metadata": {},
+      "gematria": {
+        "standard": 903,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 2,
+      "text": "πατηρ",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "εφ",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "υιω",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "υιος",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "πατρι",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 491,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "μητηρ",
+      "lemma": [
+        "G3384"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3384",
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "θυγατρι",
+      "lemma": [
+        "G2364"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2364",
+      "metadata": {},
+      "gematria": {
+        "standard": 823,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "θυγατηρ",
+      "lemma": [
+        "G2364"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2364",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "μητρι",
+      "lemma": [
+        "G3384"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G3384",
+      "metadata": {},
+      "gematria": {
+        "standard": 458,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "πενθερα",
+      "lemma": [
+        "G3994"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3994",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 17,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "νυμφην",
+      "lemma": [
+        "G3565"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3565",
+      "metadata": {},
+      "gematria": {
+        "standard": 1048,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 20,
+      "text": "αυτης",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 21,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 22,
+      "text": "νυμφη",
+      "lemma": [
+        "G3565"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3565",
+      "metadata": {},
+      "gematria": {
+        "standard": 998,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 24,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 25,
+      "text": "πενθεραν",
+      "lemma": [
+        "G3994"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3994",
+      "metadata": {},
+      "gematria": {
+        "standard": 300,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 26,
+      "text": "αυτης",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12534,
+    "ordinal": 445,
+    "reduced": 492
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "text": "ινα φανερωσω αυτο ως δει με λαλησαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "φανερωσω",
+      "lemma": [
+        "G5319"
+      ],
+      "morph": "robinson:V-AAS-1S",
+      "strongs": "G5319",
+      "metadata": {},
+      "gematria": {
+        "standard": 2456,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτο",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "δει",
+      "lemma": [
+        "G1163"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1163",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "με",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "λαλησαι",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4632,
+    "ordinal": 92,
+    "reduced": 105
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "text": "ελπιζω δε οτι γνωσεσθε οτι ημεις ουκ εσμεν αδοκιμοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "ελπιζω",
+      "lemma": [
+        "G1679"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G1679",
+      "metadata": {},
+      "gematria": {
+        "standard": 932,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "γνωσεσθε",
+      "lemma": [
+        "G1097"
+      ],
+      "morph": "robinson:V-FDI-2P",
+      "strongs": "G1097",
+      "metadata": {},
+      "gematria": {
+        "standard": 1272,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ημεις",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 263,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "εσμεν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 300,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "αδοκιμοι",
+      "lemma": [
+        "G96"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G96",
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4251,
+    "ordinal": 144,
+    "reduced": 183
+  }
+}

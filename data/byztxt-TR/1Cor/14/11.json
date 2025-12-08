@@ -1,0 +1,280 @@
+{
+  "text": "εαν ουν μη ειδω την δυναμιν της φωνης εσομαι τω λαλουντι βαρβαρος και ο λαλων εν εμοι βαρβαρος",
+  "words": [
+    {
+      "position": 1,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "ειδω",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAS-1S",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 819,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "δυναμιν",
+      "lemma": [
+        "G1411"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1411",
+      "metadata": {},
+      "gematria": {
+        "standard": 555,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "φωνης",
+      "lemma": [
+        "G5456"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G5456",
+      "metadata": {},
+      "gematria": {
+        "standard": 1558,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "εσομαι",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-FDI-1S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 326,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "λαλουντι",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAP-DSM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 891,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 12,
+      "text": "βαρβαρος",
+      "lemma": [
+        "G915"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G915",
+      "metadata": {},
+      "gematria": {
+        "standard": 476,
+        "ordinal": 36,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "λαλων",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "εμοι",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "βαρβαρος",
+      "lemma": [
+        "G915"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G915",
+      "metadata": {},
+      "gematria": {
+        "standard": 476,
+        "ordinal": 36,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8883,
+    "ordinal": 247,
+    "reduced": 288
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "text": "ουκ οιδατε οτι οι τα ιερα εργαζομενοι εκ του ιερου εσθιουσιν οι τω θυσιαστηριω προσεδρευοντες τω θυσιαστηριω συμμεριζονται",
+  "words": [
+    {
+      "position": 1,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "οιδατε",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAI-2P",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιερα",
+      "lemma": [
+        "G2413"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G2413",
+      "metadata": {},
+      "gematria": {
+        "standard": 116,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "εργαζομενοι",
+      "lemma": [
+        "G2038"
+      ],
+      "morph": "robinson:V-PNP-NPM",
+      "strongs": "G2038",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 66,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "εκ",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιερου",
+      "lemma": [
+        "G2411"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G2411",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "εσθιουσιν",
+      "lemma": [
+        "G2068"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G2068",
+      "metadata": {},
+      "gematria": {
+        "standard": 954,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "θυσιαστηριω",
+      "lemma": [
+        "G2379"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G2379",
+      "metadata": {},
+      "gematria": {
+        "standard": 2038,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 15,
+      "text": "προσεδρευοντες",
+      "lemma": [
+        "G4332"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G4332",
+      "metadata": {},
+      "gematria": {
+        "standard": 1589,
+        "ordinal": 105,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 16,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "θυσιαστηριω",
+      "lemma": [
+        "G2379"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G2379",
+      "metadata": {},
+      "gematria": {
+        "standard": 2038,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 18,
+      "text": "συμμεριζονται",
+      "lemma": [
+        "G4829"
+      ],
+      "morph": "robinson:V-PNI-3P",
+      "strongs": "G4829",
+      "metadata": {},
+      "gematria": {
+        "standard": 1233,
+        "ordinal": 91,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13630,
+    "ordinal": 521,
+    "reduced": 400
+  }
+}

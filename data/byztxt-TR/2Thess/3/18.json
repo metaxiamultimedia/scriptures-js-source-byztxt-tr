@@ -1,0 +1,291 @@
+{
+  "text": "η χαρις του κυριου ημων ιησου χριστου μετα παντων υμων αμην προς θεσσαλονικεις δευτερα εγραφη απο αθηνων",
+  "words": [
+    {
+      "position": 1,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "χαρις",
+      "lemma": [
+        "G5485"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G5485",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "παντων",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "αμην",
+      "lemma": [
+        "G281"
+      ],
+      "morph": "robinson:HEB",
+      "strongs": "G281",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "θεσσαλονικεις",
+      "lemma": [
+        "G2331"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G2331",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 810,
+        "ordinal": 91,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 14,
+      "text": "δευτερα",
+      "lemma": [
+        "G1208"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G1208",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 815,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "εγραφη",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-2API-3S",
+      "strongs": "G1125",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 617,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "αθηνων",
+      "lemma": [
+        "G116"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G116",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 918,
+        "ordinal": 21,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8971,
+    "ordinal": 147,
+    "reduced": 205
+  },
+  "metadata": {
+    "has_colophon": true,
+    "colophon_word_range": [
+      12,
+      17
+    ],
+    "colophon_type": "subscription"
+  }
+}

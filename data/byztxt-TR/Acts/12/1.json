@@ -1,0 +1,265 @@
+{
+  "text": "κατ εκεινον δε τον καιρον επεβαλεν ηρωδης ο βασιλευς τας χειρας κακωσαι τινας των απο της εκκλησιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "κατ",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "εκεινον",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-ASM",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 210,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "καιρον",
+      "lemma": [
+        "G2540"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2540",
+      "metadata": {},
+      "gematria": {
+        "standard": 251,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "επεβαλεν",
+      "lemma": [
+        "G1911"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G1911",
+      "metadata": {},
+      "gematria": {
+        "standard": 178,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "ηρωδης",
+      "lemma": [
+        "G2264"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2264",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "βασιλευς",
+      "lemma": [
+        "G935"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G935",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 36,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "τας",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "χειρας",
+      "lemma": [
+        "G5495"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G5495",
+      "metadata": {},
+      "gematria": {
+        "standard": 916,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "κακωσαι",
+      "lemma": [
+        "G2559"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G2559",
+      "metadata": {},
+      "gematria": {
+        "standard": 1052,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "τινας",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-APM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 561,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 17,
+      "text": "εκκλησιας",
+      "lemma": [
+        "G1577"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1577",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8760,
+    "ordinal": 291,
+    "reduced": 291
+  }
+}

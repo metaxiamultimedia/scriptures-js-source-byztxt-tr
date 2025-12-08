@@ -1,0 +1,325 @@
+{
+  "text": "αλλ υπαγετε ειπατε τοις μαθηταις αυτου και τω πετρω οτι προαγει υμας εις την γαλιλαιαν εκει αυτον οψεσθε καθως ειπεν υμιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "αλλ",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "υπαγετε",
+      "lemma": [
+        "G5217"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G5217",
+      "metadata": {},
+      "gematria": {
+        "standard": 794,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ειπατε",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAM-2P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "μαθηταις",
+      "lemma": [
+        "G3101"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G3101",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "πετρω",
+      "lemma": [
+        "G4074"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G4074",
+      "metadata": {},
+      "gematria": {
+        "standard": 1285,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "προαγει",
+      "lemma": [
+        "G4254"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G4254",
+      "metadata": {},
+      "gematria": {
+        "standard": 269,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 14,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "γαλιλαιαν",
+      "lemma": [
+        "G1056"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1056",
+      "metadata": {},
+      "gematria": {
+        "standard": 136,
+        "ordinal": 45,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "εκει",
+      "lemma": [
+        "G1563"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1563",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 17,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "οψεσθε",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-FDI-2P",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 989,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 19,
+      "text": "καθως",
+      "lemma": [
+        "G2531"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2531",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 20,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 21,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11521,
+    "ordinal": 327,
+    "reduced": 379
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "text": "αδελφοι προσευχεσθε περι ημων",
+  "words": [
+    {
+      "position": 1,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσευχεσθε",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-PNM-2P",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 1674,
+        "ordinal": 66,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 3,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3387,
+    "ordinal": 114,
+    "reduced": 120
+  }
+}

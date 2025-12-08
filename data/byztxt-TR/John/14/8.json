@@ -1,0 +1,175 @@
+{
+  "text": "λεγει αυτω φιλιππος κυριε δειxον ημιν τον πατερα και αρκει ημιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "φιλιππος",
+      "lemma": [
+        "G5376"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5376",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "κυριε",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "δειxον",
+      "lemma": [
+        "G1166"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G1166",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "ημιν",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "πατερα",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "αρκει",
+      "lemma": [
+        "G714"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G714",
+      "metadata": {},
+      "gematria": {
+        "standard": 136,
+        "ordinal": 15,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "ημιν",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4498,
+    "ordinal": 159,
+    "reduced": 187
+  }
+}

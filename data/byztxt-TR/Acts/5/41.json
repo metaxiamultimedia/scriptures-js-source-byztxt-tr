@@ -1,0 +1,250 @@
+{
+  "text": "οι μεν ουν επορευοντο χαιροντες απο προσωπου του συνεδριου οτι υπερ του ονοματος αυτου κατηxιωθησαν ατιμασθηναι",
+  "words": [
+    {
+      "position": 1,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "επορευοντο",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-INI-3P",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 55,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 5,
+      "text": "χαιροντες",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 1336,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "προσωπου",
+      "lemma": [
+        "G4383"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G4383",
+      "metadata": {},
+      "gematria": {
+        "standard": 1800,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 8,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "συνεδριου",
+      "lemma": [
+        "G4892"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G4892",
+      "metadata": {},
+      "gematria": {
+        "standard": 1239,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "υπερ",
+      "lemma": [
+        "G5228"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5228",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "ονοματος",
+      "lemma": [
+        "G3686"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G3686",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 14,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "κατηxιωθησαν",
+      "lemma": [
+        "G2661"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G2661",
+      "metadata": {},
+      "gematria": {
+        "standard": 1407,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 16,
+      "text": "ατιμασθηναι",
+      "lemma": [
+        "G818"
+      ],
+      "morph": "robinson:V-APN",
+      "strongs": "G818",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 66,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12885,
+    "ordinal": 413,
+    "reduced": 411
+  }
+}

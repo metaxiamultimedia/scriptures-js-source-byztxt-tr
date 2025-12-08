@@ -1,0 +1,250 @@
+{
+  "text": "συνεπεμψαμεν δε μετ αυτου τον αδελφον ου ο επαινος εν τω ευαγγελιω δια πασων των εκκλησιων",
+  "words": [
+    {
+      "position": 1,
+      "text": "συνεπεμψαμεν",
+      "lemma": [
+        "G4842"
+      ],
+      "morph": "robinson:V-AAI-1P",
+      "strongs": "G4842",
+      "metadata": {},
+      "gematria": {
+        "standard": 1576,
+        "ordinal": 78,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "μετ",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "αδελφον",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "ου",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "επαινος",
+      "lemma": [
+        "G1868"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G1868",
+      "metadata": {},
+      "gematria": {
+        "standard": 416,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ευαγγελιω",
+      "lemma": [
+        "G2098"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G2098",
+      "metadata": {},
+      "gematria": {
+        "standard": 1257,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 13,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "πασων",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GPF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 1131,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "εκκλησιων",
+      "lemma": [
+        "G1577"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G1577",
+      "metadata": {},
+      "gematria": {
+        "standard": 1143,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10988,
+    "ordinal": 291,
+    "reduced": 323
+  }
+}

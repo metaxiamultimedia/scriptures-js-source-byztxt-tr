@@ -1,0 +1,400 @@
+{
+  "text": "και δια τουτο διαθηκης καινης μεσιτης εστιν οπως θανατου γενομενου εις απολυτρωσιν των επι τη πρωτη διαθηκη παραβασεων την επαγγελιαν λαβωσιν οι κεκλημενοι της αιωνιου κληρονομιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "διαθηκης",
+      "lemma": [
+        "G1242"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1242",
+      "metadata": {},
+      "gematria": {
+        "standard": 260,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "καινης",
+      "lemma": [
+        "G2537"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G2537",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "μεσιτης",
+      "lemma": [
+        "G3316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3316",
+      "metadata": {},
+      "gematria": {
+        "standard": 763,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "οπως",
+      "lemma": [
+        "G3704"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3704",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "θανατου",
+      "lemma": [
+        "G2288"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2288",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "γενομενου",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADP-GSM",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 693,
+        "ordinal": 45,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 11,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "απολυτρωσιν",
+      "lemma": [
+        "G629"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G629",
+      "metadata": {},
+      "gematria": {
+        "standard": 2041,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 13,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "πρωτη",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-DSF-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "διαθηκη",
+      "lemma": [
+        "G1242"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1242",
+      "metadata": {},
+      "gematria": {
+        "standard": 60,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 18,
+      "text": "παραβασεων",
+      "lemma": [
+        "G3847"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G3847",
+      "metadata": {},
+      "gematria": {
+        "standard": 1240,
+        "ordinal": 55,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 19,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "επαγγελιαν",
+      "lemma": [
+        "G1860"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1860",
+      "metadata": {},
+      "gematria": {
+        "standard": 188,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 21,
+      "text": "λαβωσιν",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-2AAS-3P",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 1093,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 22,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 23,
+      "text": "κεκλημενοι",
+      "lemma": [
+        "G2564"
+      ],
+      "morph": "robinson:V-RPP-NPM",
+      "strongs": "G2564",
+      "metadata": {},
+      "gematria": {
+        "standard": 258,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 24,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 25,
+      "text": "αιωνιου",
+      "lemma": [
+        "G166"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G166",
+      "metadata": {},
+      "gematria": {
+        "standard": 1341,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 26,
+      "text": "κληρονομιας",
+      "lemma": [
+        "G2817"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2817",
+      "metadata": {},
+      "gematria": {
+        "standard": 599,
+        "ordinal": 66,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16559,
+    "ordinal": 642,
+    "reduced": 620
+  }
+}

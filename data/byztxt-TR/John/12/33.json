@@ -1,0 +1,130 @@
+{
+  "text": "τουτο δε ελεγεν σημαινων ποιω θανατω ημελλεν αποθνησκειν",
+  "words": [
+    {
+      "position": 1,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ελεγεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "σημαινων",
+      "lemma": [
+        "G4591"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G4591",
+      "metadata": {},
+      "gematria": {
+        "standard": 1159,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "ποιω",
+      "lemma": [
+        "G4169"
+      ],
+      "morph": "robinson:I-DSM",
+      "strongs": "G4169",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "θανατω",
+      "lemma": [
+        "G2288"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2288",
+      "metadata": {},
+      "gematria": {
+        "standard": 1161,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "ημελλεν",
+      "lemma": [
+        "G3195"
+      ],
+      "morph": "robinson:V-IAI-3S-ATT",
+      "strongs": "G3195",
+      "metadata": {},
+      "gematria": {
+        "standard": 168,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "αποθνησκειν",
+      "lemma": [
+        "G599"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G599",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 66,
+        "reduced": 53
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5198,
+    "ordinal": 200,
+    "reduced": 230
+  }
+}

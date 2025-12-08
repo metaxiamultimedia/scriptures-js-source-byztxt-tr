@@ -1,0 +1,280 @@
+{
+  "text": "και σωματα επουρανια και σωματα επιγεια αλλ ετερα μεν η των επουρανιων δοxα ετερα δε η των επιγειων",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "σωματα",
+      "lemma": [
+        "G4983"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G4983",
+      "metadata": {},
+      "gematria": {
+        "standard": 1342,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "επουρανια",
+      "lemma": [
+        "G2032"
+      ],
+      "morph": "robinson:A-NPN",
+      "strongs": "G2032",
+      "metadata": {},
+      "gematria": {
+        "standard": 717,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "σωματα",
+      "lemma": [
+        "G4983"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G4983",
+      "metadata": {},
+      "gematria": {
+        "standard": 1342,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "επιγεια",
+      "lemma": [
+        "G1919"
+      ],
+      "morph": "robinson:A-NPN",
+      "strongs": "G1919",
+      "metadata": {},
+      "gematria": {
+        "standard": 114,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "αλλ",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "ετερα",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "επουρανιων",
+      "lemma": [
+        "G2032"
+      ],
+      "morph": "robinson:A-GPN",
+      "strongs": "G2032",
+      "metadata": {},
+      "gematria": {
+        "standard": 1566,
+        "ordinal": 55,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 13,
+      "text": "δοxα",
+      "lemma": [
+        "G1391"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1391",
+      "metadata": {},
+      "gematria": {
+        "standard": 75,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "ετερα",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "επιγειων",
+      "lemma": [
+        "G1919"
+      ],
+      "morph": "robinson:A-GPN",
+      "strongs": "G1919",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9484,
+    "ordinal": 283,
+    "reduced": 304
+  }
+}

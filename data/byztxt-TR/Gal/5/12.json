@@ -1,0 +1,100 @@
+{
+  "text": "οφελον και αποκοψονται οι αναστατουντες υμας",
+  "words": [
+    {
+      "position": 1,
+      "text": "οφελον",
+      "lemma": [
+        "G3785"
+      ],
+      "morph": "robinson:V-2AAI-1S",
+      "strongs": "G3785",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "αποκοψονται",
+      "lemma": [
+        "G609"
+      ],
+      "morph": "robinson:V-FMI-3P",
+      "strongs": "G609",
+      "metadata": {},
+      "gematria": {
+        "standard": 1372,
+        "ordinal": 66,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 4,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "αναστατουντες",
+      "lemma": [
+        "G387"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G387",
+      "metadata": {},
+      "gematria": {
+        "standard": 1878,
+        "ordinal": 91,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4727,
+    "ordinal": 197,
+    "reduced": 146
+  }
+}

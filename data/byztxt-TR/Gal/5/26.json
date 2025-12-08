@@ -1,0 +1,115 @@
+{
+  "text": "μη γινωμεθα κενοδοxοι αλληλους προκαλουμενοι αλληλοις φθονουντες",
+  "words": [
+    {
+      "position": 1,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "γινωμεθα",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-PNS-1P",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 918,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "κενοδοxοι",
+      "lemma": [
+        "G2755"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G2755",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "αλληλους",
+      "lemma": [
+        "G240"
+      ],
+      "morph": "robinson:C-APM",
+      "strongs": "G240",
+      "metadata": {},
+      "gematria": {
+        "standard": 769,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "προκαλουμενοι",
+      "lemma": [
+        "G4292"
+      ],
+      "morph": "robinson:V-PMP-NPM",
+      "strongs": "G4292",
+      "metadata": {},
+      "gematria": {
+        "standard": 946,
+        "ordinal": 91,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "αλληλοις",
+      "lemma": [
+        "G240"
+      ],
+      "morph": "robinson:C-DPM",
+      "strongs": "G240",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "φθονουντες",
+      "lemma": [
+        "G5354"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G5354",
+      "metadata": {},
+      "gematria": {
+        "standard": 1654,
+        "ordinal": 55,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5013,
+    "ordinal": 293,
+    "reduced": 252
+  }
+}

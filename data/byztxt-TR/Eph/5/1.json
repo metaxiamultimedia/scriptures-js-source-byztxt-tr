@@ -1,0 +1,130 @@
+{
+  "text": "γινεσθε ουν μιμηται του θεου ως τεκνα αγαπητα",
+  "words": [
+    {
+      "position": 1,
+      "text": "γινεσθε",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-PNM-2P",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "μιμηται",
+      "lemma": [
+        "G3402"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G3402",
+      "metadata": {},
+      "gematria": {
+        "standard": 409,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "τεκνα",
+      "lemma": [
+        "G5043"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G5043",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "αγαπητα",
+      "lemma": [
+        "G27"
+      ],
+      "morph": "robinson:A-NPN",
+      "strongs": "G27",
+      "metadata": {},
+      "gematria": {
+        "standard": 394,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4235,
+    "ordinal": 124,
+    "reduced": 158
+  }
+}

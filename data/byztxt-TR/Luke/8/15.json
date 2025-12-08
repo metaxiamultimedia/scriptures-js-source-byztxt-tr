@@ -1,0 +1,340 @@
+{
+  "text": "το δε εν τη καλη γη ουτοι εισιν οιτινες εν καρδια καλη και αγαθη ακουσαντες τον λογον κατεχουσιν και καρποφορουσιν εν υπομονη",
+  "words": [
+    {
+      "position": 1,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "καλη",
+      "lemma": [
+        "G2570"
+      ],
+      "morph": "robinson:A-DSF",
+      "strongs": "G2570",
+      "metadata": {},
+      "gematria": {
+        "standard": 59,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "γη",
+      "lemma": [
+        "G1093"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1093",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ουτοι",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NPM",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "εισιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "οιτινες",
+      "lemma": [
+        "G3748"
+      ],
+      "morph": "robinson:R-NPM",
+      "strongs": "G3748",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "καρδια",
+      "lemma": [
+        "G2588"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2588",
+      "metadata": {},
+      "gematria": {
+        "standard": 136,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "καλη",
+      "lemma": [
+        "G2570"
+      ],
+      "morph": "robinson:A-DSF",
+      "strongs": "G2570",
+      "metadata": {},
+      "gematria": {
+        "standard": 59,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "αγαθη",
+      "lemma": [
+        "G18"
+      ],
+      "morph": "robinson:A-DSF",
+      "strongs": "G18",
+      "metadata": {},
+      "gematria": {
+        "standard": 22,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "ακουσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "κατεχουσιν",
+      "lemma": [
+        "G2722"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G2722",
+      "metadata": {},
+      "gematria": {
+        "standard": 1656,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 19,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 20,
+      "text": "καρποφορουσιν",
+      "lemma": [
+        "G2592"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G2592",
+      "metadata": {},
+      "gematria": {
+        "standard": 1671,
+        "ordinal": 91,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 21,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "υπομονη",
+      "lemma": [
+        "G5281"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G5281",
+      "metadata": {},
+      "gematria": {
+        "standard": 718,
+        "ordinal": 28,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8906,
+    "ordinal": 397,
+    "reduced": 401
+  }
+}

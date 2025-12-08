@@ -1,0 +1,145 @@
+{
+  "text": "εγω δε οτι την αληθειαν λεγω ου πιστευετε μοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "αληθειαν",
+      "lemma": [
+        "G225"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G225",
+      "metadata": {},
+      "gematria": {
+        "standard": 114,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "λεγω",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "πιστευετε",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 9,
+      "text": "μοι",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4402,
+    "ordinal": 121,
+    "reduced": 163
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "text": "ου πασα σαρx η αυτη σαρx αλλα αλλη μεν σαρx ανθρωπων αλλη δε σαρx κτηνων αλλη δε ιχθυων αλλη δε πτηνων",
+  "words": [
+    {
+      "position": 1,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πασα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "σαρx",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "αυτη",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-NSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "σαρx",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "αλλη",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 69,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "σαρx",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "ανθρωπων",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 12,
+      "text": "αλλη",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 69,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "σαρx",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "κτηνων",
+      "lemma": [
+        "G2934"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G2934",
+      "metadata": {},
+      "gematria": {
+        "standard": 1228,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 16,
+      "text": "αλλη",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 69,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "ιχθυων",
+      "lemma": [
+        "G2486"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G2486",
+      "metadata": {},
+      "gematria": {
+        "standard": 1869,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 19,
+      "text": "αλλη",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 69,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "πτηνων",
+      "lemma": [
+        "G4421"
+      ],
+      "morph": "robinson:A-GPN",
+      "strongs": "G4421",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 21,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9408,
+    "ordinal": 212,
+    "reduced": 318
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "text": "ασυνετους ασυνθετους αστοργους ασπονδους ανελεημονας",
+  "words": [
+    {
+      "position": 1,
+      "text": "ασυνετους",
+      "lemma": [
+        "G801"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G801",
+      "metadata": {},
+      "gematria": {
+        "standard": 1626,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 2,
+      "text": "ασυνθετους",
+      "lemma": [
+        "G802"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G802",
+      "metadata": {},
+      "gematria": {
+        "standard": 1635,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 3,
+      "text": "αστοργους",
+      "lemma": [
+        "G794"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G794",
+      "metadata": {},
+      "gematria": {
+        "standard": 1344,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ασπονδους",
+      "lemma": [
+        "G786"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G786",
+      "metadata": {},
+      "gematria": {
+        "standard": 1075,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανελεημονας",
+      "lemma": [
+        "G415"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G415",
+      "metadata": {},
+      "gematria": {
+        "standard": 460,
+        "ordinal": 66,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6140,
+    "ordinal": 256,
+    "reduced": 191
+  }
+}

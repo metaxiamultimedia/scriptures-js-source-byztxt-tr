@@ -1,0 +1,190 @@
+{
+  "text": "λεγων τουτο το αιμα της διαθηκης ης ενετειλατο προς υμας ο θεος",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγων",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "αιμα",
+      "lemma": [
+        "G129"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G129",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "διαθηκης",
+      "lemma": [
+        "G1242"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1242",
+      "metadata": {},
+      "gematria": {
+        "standard": 260,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "ης",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "ενετειλατο",
+      "lemma": [
+        "G1781"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G1781",
+      "metadata": {},
+      "gematria": {
+        "standard": 776,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5647,
+    "ordinal": 174,
+    "reduced": 220
+  }
+}

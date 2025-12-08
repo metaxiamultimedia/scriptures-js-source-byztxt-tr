@@ -1,0 +1,325 @@
+{
+  "text": "προσελθων δε και ο τα δυο ταλαντα λαβων ειπεν κυριε δυο ταλαντα μοι παρεδωκας ιδε αλλα δυο ταλαντα εκερδησα επ αυτοις",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσελθων",
+      "lemma": [
+        "G4334"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G4334",
+      "metadata": {},
+      "gematria": {
+        "standard": 1344,
+        "ordinal": 45,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "δυο",
+      "lemma": [
+        "G1417"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1417",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ταλαντα",
+      "lemma": [
+        "G5007"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G5007",
+      "metadata": {},
+      "gematria": {
+        "standard": 683,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "λαβων",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 883,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "κυριε",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "δυο",
+      "lemma": [
+        "G1417"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1417",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "ταλαντα",
+      "lemma": [
+        "G5007"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G5007",
+      "metadata": {},
+      "gematria": {
+        "standard": 683,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "μοι",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "παρεδωκας",
+      "lemma": [
+        "G3860"
+      ],
+      "morph": "robinson:V-AAI-2S",
+      "strongs": "G3860",
+      "metadata": {},
+      "gematria": {
+        "standard": 1211,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 15,
+      "text": "ιδε",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "αλλα",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "δυο",
+      "lemma": [
+        "G1417"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1417",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "ταλαντα",
+      "lemma": [
+        "G5007"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G5007",
+      "metadata": {},
+      "gematria": {
+        "standard": 683,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 19,
+      "text": "εκερδησα",
+      "lemma": [
+        "G2770"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G2770",
+      "metadata": {},
+      "gematria": {
+        "standard": 343,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "επ",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 21,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9615,
+    "ordinal": 332,
+    "reduced": 345
+  }
+}

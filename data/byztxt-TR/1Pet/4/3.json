@@ -1,0 +1,355 @@
+{
+  "text": "αρκετος γαρ ημιν ο παρεληλυθως χρονος του βιου το θελημα των εθνων κατεργασασθαι πεπορευμενους εν ασελγειαις επιθυμιαις οινοφλυγιαις κωμοις ποτοις και αθεμιτοις ειδωλολατρειαις",
+  "words": [
+    {
+      "position": 1,
+      "text": "αρκετος",
+      "lemma": [
+        "G713"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G713",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ημιν",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "παρεληλυθως",
+      "lemma": [
+        "G3928"
+      ],
+      "morph": "robinson:V-2RAP-NSM",
+      "strongs": "G3928",
+      "metadata": {},
+      "gematria": {
+        "standard": 1663,
+        "ordinal": 66,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 6,
+      "text": "χρονος",
+      "lemma": [
+        "G5550"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5550",
+      "metadata": {},
+      "gematria": {
+        "standard": 1090,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "βιου",
+      "lemma": [
+        "G979"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G979",
+      "metadata": {},
+      "gematria": {
+        "standard": 482,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "θελημα",
+      "lemma": [
+        "G2307"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G2307",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "εθνων",
+      "lemma": [
+        "G1484"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G1484",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 15,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "κατεργασασθαι",
+      "lemma": [
+        "G2716"
+      ],
+      "morph": "robinson:V-ADN",
+      "strongs": "G2716",
+      "metadata": {},
+      "gematria": {
+        "standard": 851,
+        "ordinal": 91,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "πεπορευμενους",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-RNP-APM",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1505,
+        "ordinal": 91,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 15,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "ασελγειαις",
+      "lemma": [
+        "G766"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G766",
+      "metadata": {},
+      "gematria": {
+        "standard": 465,
+        "ordinal": 55,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "επιθυμιαις",
+      "lemma": [
+        "G1939"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G1939",
+      "metadata": {},
+      "gematria": {
+        "standard": 765,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 18,
+      "text": "οινοφλυγιαις",
+      "lemma": [
+        "G3632"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G3632",
+      "metadata": {},
+      "gematria": {
+        "standard": 1354,
+        "ordinal": 78,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 19,
+      "text": "κωμοις",
+      "lemma": [
+        "G2970"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G2970",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 20,
+      "text": "ποτοις",
+      "lemma": [
+        "G4224"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G4224",
+      "metadata": {},
+      "gematria": {
+        "standard": 730,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 22,
+      "text": "αθεμιτοις",
+      "lemma": [
+        "G111"
+      ],
+      "morph": "robinson:A-DPF",
+      "strongs": "G111",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 23,
+      "text": "ειδωλολατρειαις",
+      "lemma": [
+        "G1495"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G1495",
+      "metadata": {},
+      "gematria": {
+        "standard": 1576,
+        "ordinal": 120,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16627,
+    "ordinal": 779,
+    "reduced": 589
+  }
+}

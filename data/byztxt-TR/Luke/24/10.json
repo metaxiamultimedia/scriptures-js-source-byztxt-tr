@@ -1,0 +1,325 @@
+{
+  "text": "ησαν δε η μαγδαληνη μαρια και ιωαννα και μαρια ιακωβου και αι λοιπαι συν αυταις αι ελεγον προς τους αποστολους ταυτα",
+  "words": [
+    {
+      "position": 1,
+      "text": "ησαν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "μαγδαληνη",
+      "lemma": [
+        "G3094"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3094",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 45,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "μαρια",
+      "lemma": [
+        "G3137"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3137",
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 15,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιωαννα",
+      "lemma": [
+        "G2489"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2489",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "μαρια",
+      "lemma": [
+        "G3137"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3137",
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 15,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιακωβου",
+      "lemma": [
+        "G2385"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2385",
+      "metadata": {},
+      "gematria": {
+        "standard": 1303,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "αι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 13,
+      "text": "λοιπαι",
+      "lemma": [
+        "G3062"
+      ],
+      "morph": "robinson:A-NPF",
+      "strongs": "G3062",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "συν",
+      "lemma": [
+        "G4862"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4862",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "αυταις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "αι",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NPF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 17,
+      "text": "ελεγον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "αποστολους",
+      "lemma": [
+        "G652"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G652",
+      "metadata": {},
+      "gematria": {
+        "standard": 1421,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 21,
+      "text": "ταυτα",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-APN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8824,
+    "ordinal": 321,
+    "reduced": 310
+  }
+}

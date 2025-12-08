@@ -1,0 +1,130 @@
+{
+  "text": "συ ουν κακοπαθησον ως καλος στρατιωτης ιησου χριστου",
+  "words": [
+    {
+      "position": 1,
+      "text": "συ",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "κακοπαθησον",
+      "lemma": [
+        "G2553"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G2553",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 66,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 4,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "καλος",
+      "lemma": [
+        "G2570"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G2570",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "στρατιωτης",
+      "lemma": [
+        "G4757"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4757",
+      "metadata": {},
+      "gematria": {
+        "standard": 2219,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7557,
+    "ordinal": 191,
+    "reduced": 177
+  }
+}

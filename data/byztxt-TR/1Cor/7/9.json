@@ -1,0 +1,175 @@
+{
+  "text": "ει δε ουκ εγκρατευονται γαμησατωσαν κρεισσον γαρ εστιν γαμησαι η πυρουσθαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "εγκρατευονται",
+      "lemma": [
+        "G1467"
+      ],
+      "morph": "robinson:V-PNI-3P",
+      "strongs": "G1467",
+      "metadata": {},
+      "gematria": {
+        "standard": 1265,
+        "ordinal": 91,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "γαμησατωσαν",
+      "lemma": [
+        "G1060"
+      ],
+      "morph": "robinson:V-AAM-3P",
+      "strongs": "G1060",
+      "metadata": {},
+      "gematria": {
+        "standard": 1604,
+        "ordinal": 66,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "κρεισσον",
+      "lemma": [
+        "G2908"
+      ],
+      "morph": "robinson:A-NSN-C",
+      "strongs": "G2908",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 8,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "γαμησαι",
+      "lemma": [
+        "G1060"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G1060",
+      "metadata": {},
+      "gematria": {
+        "standard": 263,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "πυρουσθαι",
+      "lemma": [
+        "G4448"
+      ],
+      "morph": "robinson:V-PPN",
+      "strongs": "G4448",
+      "metadata": {},
+      "gematria": {
+        "standard": 1270,
+        "ordinal": 45,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6248,
+    "ordinal": 300,
+    "reduced": 218
+  }
+}

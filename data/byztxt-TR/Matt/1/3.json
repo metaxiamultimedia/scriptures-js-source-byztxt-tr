@@ -1,0 +1,325 @@
+{
+  "text": "ιουδας δε εγεννησεν τον φαρες και τον ζαρα εκ της θαμαρ φαρες δε εγεννησεν τον εσρωμ εσρωμ δε εγεννησεν τον αραμ",
+  "words": [
+    {
+      "position": 1,
+      "text": "ιουδας",
+      "lemma": [
+        "G2455"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2455",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εγεννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1080",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "φαρες",
+      "lemma": [
+        "G5329"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G5329",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ζαρα",
+      "lemma": [
+        "G2196"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2196",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "εκ",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "θαμαρ",
+      "lemma": [
+        "G2283"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2283",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "φαρες",
+      "lemma": [
+        "G5329"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G5329",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "εγεννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1080",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 15,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "εσρωμ",
+      "lemma": [
+        "G2074"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2074",
+      "metadata": {},
+      "gematria": {
+        "standard": 1145,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "εσρωμ",
+      "lemma": [
+        "G2074"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2074",
+      "metadata": {},
+      "gematria": {
+        "standard": 1145,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "εγεννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1080",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 20,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 21,
+      "text": "αραμ",
+      "lemma": [
+        "G689"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G689",
+      "metadata": {},
+      "gematria": {
+        "standard": 142,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8388,
+    "ordinal": 299,
+    "reduced": 360
+  }
+}

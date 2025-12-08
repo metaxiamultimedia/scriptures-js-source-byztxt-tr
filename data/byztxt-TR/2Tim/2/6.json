@@ -1,0 +1,130 @@
+{
+  "text": "τον κοπιωντα γεωργον δει πρωτον των καρπων μεταλαμβανειν",
+  "words": [
+    {
+      "position": 1,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "κοπιωντα",
+      "lemma": [
+        "G2872"
+      ],
+      "morph": "robinson:V-PAP-ASM",
+      "strongs": "G2872",
+      "metadata": {},
+      "gematria": {
+        "standard": 1331,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "γεωργον",
+      "lemma": [
+        "G1092"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G1092",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "δει",
+      "lemma": [
+        "G1163"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1163",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρωτον",
+      "lemma": [
+        "G4412"
+      ],
+      "morph": "robinson:ADV-S",
+      "strongs": "G4412",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "καρπων",
+      "lemma": [
+        "G2590"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G2590",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "μεταλαμβανειν",
+      "lemma": [
+        "G3335"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G3335",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 91,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6937,
+    "ordinal": 215,
+    "reduced": 205
+  }
+}

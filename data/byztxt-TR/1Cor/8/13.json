@@ -1,0 +1,310 @@
+{
+  "text": "διοπερ ει βρωμα σκανδαλιζει τον αδελφον μου ου μη φαγω κρεα εις τον αιωνα ινα μη τον αδελφον μου σκανδαλισω",
+  "words": [
+    {
+      "position": 1,
+      "text": "διοπερ",
+      "lemma": [
+        "G1355"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1355",
+      "metadata": {},
+      "gematria": {
+        "standard": 269,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "βρωμα",
+      "lemma": [
+        "G1033"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G1033",
+      "metadata": {},
+      "gematria": {
+        "standard": 943,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "σκανδαλιζει",
+      "lemma": [
+        "G4624"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G4624",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 66,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "αδελφον",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "φαγω",
+      "lemma": [
+        "G5315"
+      ],
+      "morph": "robinson:V-2AAS-1S",
+      "strongs": "G5315",
+      "metadata": {},
+      "gematria": {
+        "standard": 1304,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "κρεα",
+      "lemma": [
+        "G2907"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G2907",
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 10,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "αιωνα",
+      "lemma": [
+        "G165"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G165",
+      "metadata": {},
+      "gematria": {
+        "standard": 862,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "αδελφον",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "σκανδαλισω",
+      "lemma": [
+        "G4624"
+      ],
+      "morph": "robinson:V-AAS-1S",
+      "strongs": "G4624",
+      "metadata": {},
+      "gematria": {
+        "standard": 1316,
+        "ordinal": 55,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9615,
+    "ordinal": 302,
+    "reduced": 336
+  }
+}

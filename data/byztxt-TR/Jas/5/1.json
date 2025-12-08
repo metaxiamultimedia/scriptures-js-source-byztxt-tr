@@ -1,0 +1,190 @@
+{
+  "text": "αγε νυν οι πλουσιοι κλαυσατε ολολυζοντες επι ταις ταλαιπωριαις υμων ταις επερχομεναις",
+  "words": [
+    {
+      "position": 1,
+      "text": "αγε",
+      "lemma": [
+        "G71"
+      ],
+      "morph": "robinson:V-PAM-2S",
+      "strongs": "G71",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "νυν",
+      "lemma": [
+        "G3568"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3568",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "πλουσιοι",
+      "lemma": [
+        "G4145"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4145",
+      "metadata": {},
+      "gematria": {
+        "standard": 870,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "κλαυσατε",
+      "lemma": [
+        "G2799"
+      ],
+      "morph": "robinson:V-AAM-2P",
+      "strongs": "G2799",
+      "metadata": {},
+      "gematria": {
+        "standard": 957,
+        "ordinal": 36,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "ολολυζοντες",
+      "lemma": [
+        "G3649"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3649",
+      "metadata": {},
+      "gematria": {
+        "standard": 1232,
+        "ordinal": 66,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 7,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "ταις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "ταλαιπωριαις",
+      "lemma": [
+        "G5004"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G5004",
+      "metadata": {},
+      "gematria": {
+        "standard": 1543,
+        "ordinal": 78,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "ταις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "επερχομεναις",
+      "lemma": [
+        "G1904"
+      ],
+      "morph": "robinson:V-PNP-DPF",
+      "strongs": "G1904",
+      "metadata": {},
+      "gematria": {
+        "standard": 1166,
+        "ordinal": 78,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8764,
+    "ordinal": 345,
+    "reduced": 268
+  }
+}

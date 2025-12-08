@@ -1,0 +1,100 @@
+{
+  "text": "αντελαβετο ισραηλ παιδος αυτου μνησθηναι ελεους",
+  "words": [
+    {
+      "position": 1,
+      "text": "αντελαβετο",
+      "lemma": [
+        "G482"
+      ],
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": "G482",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "ισραηλ",
+      "lemma": [
+        "G2474"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2474",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "παιδος",
+      "lemma": [
+        "G3816"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3816",
+      "metadata": {},
+      "gematria": {
+        "standard": 365,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "μνησθηναι",
+      "lemma": [
+        "G3403"
+      ],
+      "morph": "robinson:V-APN",
+      "strongs": "G3403",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 6,
+      "text": "ελεους",
+      "lemma": [
+        "G1656"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G1656",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3735,
+    "ordinal": 178,
+    "reduced": 162
+  }
+}

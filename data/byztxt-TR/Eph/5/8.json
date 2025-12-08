@@ -1,0 +1,205 @@
+{
+  "text": "ητε γαρ ποτε σκοτος νυν δε φως εν κυριω ως τεκνα φωτος περιπατειτε",
+  "words": [
+    {
+      "position": 1,
+      "text": "ητε",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-2P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ποτε",
+      "lemma": [
+        "G4218"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G4218",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "σκοτος",
+      "lemma": [
+        "G4655"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G4655",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "νυν",
+      "lemma": [
+        "G3568"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3568",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "φως",
+      "lemma": [
+        "G5457"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G5457",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "κυριω",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "τεκνα",
+      "lemma": [
+        "G5043"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G5043",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "φωτος",
+      "lemma": [
+        "G5457"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G5457",
+      "metadata": {},
+      "gematria": {
+        "standard": 1870,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "περιπατειτε",
+      "lemma": [
+        "G4043"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G4043",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 66,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9268,
+    "ordinal": 175,
+    "reduced": 223
+  }
+}

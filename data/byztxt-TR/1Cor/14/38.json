@@ -1,0 +1,85 @@
+{
+  "text": "ει δε τις αγνοει αγνοειτω",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NSM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "αγνοει",
+      "lemma": [
+        "G50"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G50",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "αγνοειτω",
+      "lemma": [
+        "G50"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G50",
+      "metadata": {},
+      "gematria": {
+        "standard": 1239,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1912,
+    "ordinal": 69,
+    "reduced": 76
+  }
+}

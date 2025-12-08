@@ -1,0 +1,145 @@
+{
+  "text": "και μακαριος εστιν ος εαν μη σκανδαλισθη εν εμοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "μακαριος",
+      "lemma": [
+        "G3107"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G3107",
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 36,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "σκανδαλισθη",
+      "lemma": [
+        "G4624"
+      ],
+      "morph": "robinson:V-APS-3S",
+      "strongs": "G4624",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 66,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "εμοι",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2125,
+    "ordinal": 148,
+    "reduced": 136
+  }
+}

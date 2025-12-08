@@ -1,0 +1,115 @@
+{
+  "text": "δια πιστεως γαρ περιπατουμεν ου δια ειδους",
+  "words": [
+    {
+      "position": 1,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "πιστεως",
+      "lemma": [
+        "G4102"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4102",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 4,
+      "text": "περιπατουμεν",
+      "lemma": [
+        "G4043"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G4043",
+      "metadata": {},
+      "gematria": {
+        "standard": 1141,
+        "ordinal": 78,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 5,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "ειδους",
+      "lemma": [
+        "G1491"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G1491",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4029,
+    "ordinal": 148,
+    "reduced": 132
+  }
+}

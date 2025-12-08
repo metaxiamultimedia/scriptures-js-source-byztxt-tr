@@ -1,0 +1,85 @@
+{
+  "text": "παντα δε ταυτα αρχη ωδινων",
+  "words": [
+    {
+      "position": 1,
+      "text": "παντα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ταυτα",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NPN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "αρχη",
+      "lemma": [
+        "G746"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G746",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ωδινων",
+      "lemma": [
+        "G5604"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G5604",
+      "metadata": {},
+      "gematria": {
+        "standard": 1714,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3866,
+    "ordinal": 64,
+    "reduced": 86
+  }
+}

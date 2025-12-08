@@ -1,0 +1,115 @@
+{
+  "text": "και καταχθεντες εις συρακουσας επεμειναμεν ημερας τρεις",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "καταχθεντες",
+      "lemma": [
+        "G2609"
+      ],
+      "morph": "robinson:V-APP-NPM",
+      "strongs": "G2609",
+      "metadata": {},
+      "gematria": {
+        "standard": 1491,
+        "ordinal": 66,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 3,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "συρακουσας",
+      "lemma": [
+        "G4946"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G4946",
+      "metadata": {},
+      "gematria": {
+        "standard": 1592,
+        "ordinal": 55,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "επεμειναμεν",
+      "lemma": [
+        "G1961"
+      ],
+      "morph": "robinson:V-AAI-1P",
+      "strongs": "G1961",
+      "metadata": {},
+      "gematria": {
+        "standard": 291,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 6,
+      "text": "ημερας",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "τρεις",
+      "lemma": [
+        "G5140"
+      ],
+      "morph": "robinson:A-APF",
+      "strongs": "G5140",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4589,
+    "ordinal": 235,
+    "reduced": 161
+  }
+}

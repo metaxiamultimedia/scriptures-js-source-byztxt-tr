@@ -1,0 +1,130 @@
+{
+  "text": "τουτο δε λεγω κατα συγγνωμην ου κατ επιταγην",
+  "words": [
+    {
+      "position": 1,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "λεγω",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "συγγνωμην",
+      "lemma": [
+        "G4774"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4774",
+      "metadata": {},
+      "gematria": {
+        "standard": 1554,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατ",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "επιταγην",
+      "lemma": [
+        "G2003"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2003",
+      "metadata": {},
+      "gematria": {
+        "standard": 457,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5111,
+    "ordinal": 128,
+    "reduced": 152
+  }
+}

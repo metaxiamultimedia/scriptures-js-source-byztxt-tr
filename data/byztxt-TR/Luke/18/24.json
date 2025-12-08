@@ -1,0 +1,310 @@
+{
+  "text": "ιδων δε αυτον ο ιησους περιλυπον γενομενον ειπεν πως δυσκολως οι τα χρηματα εχοντες εισελευσονται εις την βασιλειαν του θεου",
+  "words": [
+    {
+      "position": 1,
+      "text": "ιδων",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "περιλυπον",
+      "lemma": [
+        "G4036"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G4036",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "γενομενον",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADP-ASM",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 343,
+        "ordinal": 45,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "πως",
+      "lemma": [
+        "G4459"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4459",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "δυσκολως",
+      "lemma": [
+        "G1423"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1423",
+      "metadata": {},
+      "gematria": {
+        "standard": 1724,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "χρηματα",
+      "lemma": [
+        "G5536"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G5536",
+      "metadata": {},
+      "gematria": {
+        "standard": 1050,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "εχοντες",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1230,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "εισελευσονται",
+      "lemma": [
+        "G1525"
+      ],
+      "morph": "robinson:V-FDI-3P",
+      "strongs": "G1525",
+      "metadata": {},
+      "gematria": {
+        "standard": 1286,
+        "ordinal": 91,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 16,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "βασιλειαν",
+      "lemma": [
+        "G932"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G932",
+      "metadata": {},
+      "gematria": {
+        "standard": 309,
+        "ordinal": 45,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12857,
+    "ordinal": 423,
+    "reduced": 437
+  }
+}

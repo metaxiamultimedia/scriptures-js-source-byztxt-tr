@@ -1,0 +1,205 @@
+{
+  "text": "ιωσιας δε εγεννησεν τον ιεχονιαν και τους αδελφους αυτου επι της μετοικεσιας βαβυλωνος",
+  "words": [
+    {
+      "position": 1,
+      "text": "ιωσιας",
+      "lemma": [
+        "G2502"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2502",
+      "metadata": {},
+      "gematria": {
+        "standard": 1221,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εγεννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1080",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ιεχονιαν",
+      "lemma": [
+        "G2423"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2423",
+      "metadata": {},
+      "gematria": {
+        "standard": 796,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "αδελφους",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "μετοικεσιας",
+      "lemma": [
+        "G3350"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3350",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 66,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 13,
+      "text": "βαβυλωνος",
+      "lemma": [
+        "G897"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G897",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9223,
+    "ordinal": 301,
+    "reduced": 277
+  }
+}

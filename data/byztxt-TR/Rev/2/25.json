@@ -1,0 +1,130 @@
+{
+  "text": "πλην ο εχετε κρατησατε αχρις ου αν ηxω",
+  "words": [
+    {
+      "position": 1,
+      "text": "πλην",
+      "lemma": [
+        "G4133"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4133",
+      "metadata": {},
+      "gematria": {
+        "standard": 168,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "εχετε",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "κρατησατε",
+      "lemma": [
+        "G2902"
+      ],
+      "morph": "robinson:V-AAM-2P",
+      "strongs": "G2902",
+      "metadata": {},
+      "gematria": {
+        "standard": 935,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "αχρις",
+      "lemma": [
+        "G891"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G891",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ου",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "αν",
+      "lemma": [
+        "G302"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G302",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "ηxω",
+      "lemma": [
+        "G2240"
+      ],
+      "morph": "robinson:V-AAS-1S",
+      "strongs": "G2240",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 3,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4328,
+    "ordinal": 95,
+    "reduced": 125
+  }
+}

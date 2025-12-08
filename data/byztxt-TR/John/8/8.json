@@ -1,0 +1,130 @@
+{
+  "text": "και παλιν κατω κυψας εγραφεν εις την γην",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "παλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3825",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατω",
+      "lemma": [
+        "G2736"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2736",
+      "metadata": {},
+      "gematria": {
+        "standard": 1121,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "κυψας",
+      "lemma": [
+        "G2955"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G2955",
+      "metadata": {},
+      "gematria": {
+        "standard": 1321,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "εγραφεν",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1125",
+      "metadata": {},
+      "gematria": {
+        "standard": 664,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "γην",
+      "lemma": [
+        "G1093"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1093",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3942,
+    "ordinal": 92,
+    "reduced": 117
+  }
+}

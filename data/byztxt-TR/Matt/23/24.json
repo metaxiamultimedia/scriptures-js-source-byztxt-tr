@@ -1,0 +1,160 @@
+{
+  "text": "οδηγοι τυφλοι οι διυλιζοντες τον κωνωπα την δε καμηλον καταπινοντες",
+  "words": [
+    {
+      "position": 1,
+      "text": "οδηγοι",
+      "lemma": [
+        "G3595"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G3595",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "τυφλοι",
+      "lemma": [
+        "G5185"
+      ],
+      "morph": "robinson:A-VPM",
+      "strongs": "G5185",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "διυλιζοντες",
+      "lemma": [
+        "G1368"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G1368",
+      "metadata": {},
+      "gematria": {
+        "standard": 1086,
+        "ordinal": 66,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "κωνωπα",
+      "lemma": [
+        "G2971"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2971",
+      "metadata": {},
+      "gematria": {
+        "standard": 1751,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "καμηλον",
+      "lemma": [
+        "G2574"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2574",
+      "metadata": {},
+      "gematria": {
+        "standard": 219,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "καταπινοντες",
+      "lemma": [
+        "G2666"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G2666",
+      "metadata": {},
+      "gematria": {
+        "standard": 1087,
+        "ordinal": 78,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6485,
+    "ordinal": 253,
+    "reduced": 248
+  }
+}

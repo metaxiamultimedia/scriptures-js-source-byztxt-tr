@@ -1,0 +1,385 @@
+{
+  "text": "και αναστας επορευθη και ιδου ανηρ αιθιοψ ευνουχος δυναστης κανδακης της βασιλισσης αιθιοπων ος ην επι πασης της γαζης αυτης ος εληλυθει προσκυνησων εις ιερουσαλημ",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "αναστας",
+      "lemma": [
+        "G450"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G450",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 28,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "επορευθη",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-AOI-3S",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 36,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "ιδου",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ανηρ",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "αιθιοψ",
+      "lemma": [
+        "G128"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G128",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "ευνουχος",
+      "lemma": [
+        "G2135"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2135",
+      "metadata": {},
+      "gematria": {
+        "standard": 1795,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "δυναστης",
+      "lemma": [
+        "G1413"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G1413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1163,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "κανδακης",
+      "lemma": [
+        "G2582"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2582",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "βασιλισσης",
+      "lemma": [
+        "G938"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G938",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 55,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "αιθιοπων",
+      "lemma": [
+        "G128"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G128",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 14,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "πασης",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 19,
+      "text": "γαζης",
+      "lemma": [
+        "G1047"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1047",
+      "metadata": {},
+      "gematria": {
+        "standard": 219,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "αυτης",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 21,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "εληλυθει",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2LAI-3S",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 497,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 23,
+      "text": "προσκυνησων",
+      "lemma": [
+        "G4352"
+      ],
+      "morph": "robinson:V-FAP-NSM",
+      "strongs": "G4352",
+      "metadata": {},
+      "gematria": {
+        "standard": 1978,
+        "ordinal": 66,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 24,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 25,
+      "text": "ιερουσαλημ",
+      "lemma": [
+        "G2419"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2419",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14968,
+    "ordinal": 551,
+    "reduced": 550
+  }
+}

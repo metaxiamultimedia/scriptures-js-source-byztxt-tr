@@ -1,0 +1,85 @@
+{
+  "text": "και αφεντες αυτον παντες εφυγον",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "αφεντες",
+      "lemma": [
+        "G863"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G863",
+      "metadata": {},
+      "gematria": {
+        "standard": 1061,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "παντες",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "εφυγον",
+      "lemma": [
+        "G5343"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G5343",
+      "metadata": {},
+      "gematria": {
+        "standard": 1028,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3577,
+    "ordinal": 91,
+    "reduced": 103
+  }
+}

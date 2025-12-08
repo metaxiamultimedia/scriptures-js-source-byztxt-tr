@@ -1,0 +1,115 @@
+{
+  "text": "πλην καλως εποιησατε συγκοινωνησαντες μου τη θλιψει",
+  "words": [
+    {
+      "position": 1,
+      "text": "πλην",
+      "lemma": [
+        "G4133"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4133",
+      "metadata": {},
+      "gematria": {
+        "standard": 168,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "καλως",
+      "lemma": [
+        "G2573"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2573",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "εποιησατε",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-AAI-2P",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 679,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 4,
+      "text": "συγκοινωνησαντες",
+      "lemma": [
+        "G4790"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G4790",
+      "metadata": {},
+      "gematria": {
+        "standard": 2367,
+        "ordinal": 136,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 5,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "θλιψει",
+      "lemma": [
+        "G2347"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2347",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5847,
+    "ordinal": 236,
+    "reduced": 195
+  }
+}

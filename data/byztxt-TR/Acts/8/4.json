@@ -1,0 +1,130 @@
+{
+  "text": "οι μεν ουν διασπαρεντες διηλθον ευαγγελιζομενοι τον λογον",
+  "words": [
+    {
+      "position": 1,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "διασπαρεντες",
+      "lemma": [
+        "G1289"
+      ],
+      "morph": "robinson:V-2APP-NPM",
+      "strongs": "G1289",
+      "metadata": {},
+      "gematria": {
+        "standard": 956,
+        "ordinal": 78,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "διηλθον",
+      "lemma": [
+        "G1330"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G1330",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 6,
+      "text": "ευαγγελιζομενοι",
+      "lemma": [
+        "G2097"
+      ],
+      "morph": "robinson:V-PMP-NPM",
+      "strongs": "G2097",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 120,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 7,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3184,
+    "ordinal": 262,
+    "reduced": 214
+  }
+}

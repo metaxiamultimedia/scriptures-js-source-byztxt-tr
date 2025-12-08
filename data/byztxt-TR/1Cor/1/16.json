@@ -1,0 +1,205 @@
+{
+  "text": "εβαπτισα δε και τον στεφανα οικον λοιπον ουκ οιδα ει τινα αλλον εβαπτισα",
+  "words": [
+    {
+      "position": 1,
+      "text": "εβαπτισα",
+      "lemma": [
+        "G907"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G907",
+      "metadata": {},
+      "gematria": {
+        "standard": 599,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "στεφανα",
+      "lemma": [
+        "G4734"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4734",
+      "metadata": {},
+      "gematria": {
+        "standard": 1057,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "οικον",
+      "lemma": [
+        "G3624"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3624",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "λοιπον",
+      "lemma": [
+        "G3062"
+      ],
+      "morph": "robinson:A-ASN",
+      "strongs": "G3062",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "οιδα",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAI-1S",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "τινα",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-ASM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "αλλον",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "εβαπτισα",
+      "lemma": [
+        "G907"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G907",
+      "metadata": {},
+      "gematria": {
+        "standard": 599,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4377,
+    "ordinal": 195,
+    "reduced": 210
+  }
+}

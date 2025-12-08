@@ -1,0 +1,130 @@
+{
+  "text": "και πασα νησος εφυγεν και ορη ουχ ευρεθησαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "πασα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "νησος",
+      "lemma": [
+        "G3520"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3520",
+      "metadata": {},
+      "gematria": {
+        "standard": 528,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "εφυγεν",
+      "lemma": [
+        "G5343"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G5343",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "ορη",
+      "lemma": [
+        "G3735"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G3735",
+      "metadata": {},
+      "gematria": {
+        "standard": 178,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ουχ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "ευρεθησαν",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 778,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3861,
+    "ordinal": 115,
+    "reduced": 144
+  }
+}

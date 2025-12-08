@@ -1,0 +1,100 @@
+{
+  "text": "εν ταυτη γαρ εμαρτυρηθησαν οι πρεσβυτεροι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "ταυτη",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-DSF",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1009,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 4,
+      "text": "εμαρτυρηθησαν",
+      "lemma": [
+        "G3140"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G3140",
+      "metadata": {},
+      "gematria": {
+        "standard": 1222,
+        "ordinal": 91,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 5,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "πρεσβυτεροι",
+      "lemma": [
+        "G4245"
+      ],
+      "morph": "robinson:A-NPM-C",
+      "strongs": "G4245",
+      "metadata": {},
+      "gematria": {
+        "standard": 1272,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3742,
+    "ordinal": 184,
+    "reduced": 133
+  }
+}

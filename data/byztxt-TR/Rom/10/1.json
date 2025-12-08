@@ -1,0 +1,310 @@
+{
+  "text": "αδελφοι η μεν ευδοκια της εμης καρδιας και η δεησις η προς τον θεον υπερ του ισραηλ εστιν εις σωτηριαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ευδοκια",
+      "lemma": [
+        "G2107"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2107",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "εμης",
+      "lemma": [
+        "G1699"
+      ],
+      "morph": "robinson:S-1SGSF",
+      "strongs": "G1699",
+      "metadata": {},
+      "gematria": {
+        "standard": 253,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "καρδιας",
+      "lemma": [
+        "G2588"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2588",
+      "metadata": {},
+      "gematria": {
+        "standard": 336,
+        "ordinal": 28,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 10,
+      "text": "δεησις",
+      "lemma": [
+        "G1162"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1162",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεον",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 15,
+      "text": "υπερ",
+      "lemma": [
+        "G5228"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5228",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "ισραηλ",
+      "lemma": [
+        "G2474"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2474",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "σωτηριαν",
+      "lemma": [
+        "G4991"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4991",
+      "metadata": {},
+      "gematria": {
+        "standard": 1469,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7761,
+    "ordinal": 256,
+    "reduced": 318
+  }
+}

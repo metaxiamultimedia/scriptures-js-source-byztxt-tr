@@ -1,0 +1,205 @@
+{
+  "text": "η ουαι η δευτερα απηλθεν και ιδου η ουαι η τριτη ερχεται ταχυ",
+  "words": [
+    {
+      "position": 1,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουαι",
+      "lemma": [
+        "G3759"
+      ],
+      "morph": "robinson:N-OI",
+      "strongs": "G3759",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "δευτερα",
+      "lemma": [
+        "G1208"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G1208",
+      "metadata": {},
+      "gematria": {
+        "standard": 815,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "απηλθεν",
+      "lemma": [
+        "G565"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G565",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιδου",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "ουαι",
+      "lemma": [
+        "G3759"
+      ],
+      "morph": "robinson:N-OI",
+      "strongs": "G3759",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 13,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 14,
+      "text": "τριτη",
+      "lemma": [
+        "G5154"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G5154",
+      "metadata": {},
+      "gematria": {
+        "standard": 718,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ερχεται",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-PNI-3S",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "ταχυ",
+      "lemma": [
+        "G5035"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5035",
+      "metadata": {},
+      "gematria": {
+        "standard": 1301,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5547,
+    "ordinal": 149,
+    "reduced": 192
+  }
+}

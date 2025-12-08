@@ -1,0 +1,265 @@
+{
+  "text": "και λεγει μοι μη σφραγισης τους λογους της προφητειας του βιβλιου τουτου οτι ο καιρος εγγυς εστιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "μοι",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "σφραγισης",
+      "lemma": [
+        "G4972"
+      ],
+      "morph": "robinson:V-AAS-2S",
+      "strongs": "G4972",
+      "metadata": {},
+      "gematria": {
+        "standard": 1222,
+        "ordinal": 45,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "λογους",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "προφητειας",
+      "lemma": [
+        "G4394"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4394",
+      "metadata": {},
+      "gematria": {
+        "standard": 1274,
+        "ordinal": 55,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "βιβλιου",
+      "lemma": [
+        "G975"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G975",
+      "metadata": {},
+      "gematria": {
+        "standard": 524,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "τουτου",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-GSN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1540,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "καιρος",
+      "lemma": [
+        "G2540"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2540",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "εγγυς",
+      "lemma": [
+        "G1451"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1451",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9860,
+    "ordinal": 280,
+    "reduced": 293
+  }
+}

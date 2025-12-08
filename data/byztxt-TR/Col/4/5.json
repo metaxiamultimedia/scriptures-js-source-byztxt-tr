@@ -1,0 +1,145 @@
+{
+  "text": "εν σοφια περιπατειτε προς τους εxω τον καιρον εxαγοραζομενοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "σοφια",
+      "lemma": [
+        "G4678"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4678",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "περιπατειτε",
+      "lemma": [
+        "G4043"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G4043",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 66,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 4,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "εxω",
+      "lemma": [
+        "G1854"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1854",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "καιρον",
+      "lemma": [
+        "G2540"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2540",
+      "metadata": {},
+      "gematria": {
+        "standard": 251,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "εxαγοραζομενοι",
+      "lemma": [
+        "G1805"
+      ],
+      "morph": "robinson:V-PMP-NPM",
+      "strongs": "G1805",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 91,
+        "reduced": 54
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5060,
+    "ordinal": 225,
+    "reduced": 200
+  }
+}

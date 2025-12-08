@@ -1,0 +1,55 @@
+{
+  "text": "κακει ησαν ευαγγελιζομενοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "κακει",
+      "lemma": [
+        "G2546"
+      ],
+      "morph": "robinson:ADV-K",
+      "strongs": "G2546",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ησαν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ευαγγελιζομενοι",
+      "lemma": [
+        "G2097"
+      ],
+      "morph": "robinson:V-PMP-NPM",
+      "strongs": "G2097",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 120,
+        "reduced": 61
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1024,
+    "ordinal": 145,
+    "reduced": 88
+  }
+}

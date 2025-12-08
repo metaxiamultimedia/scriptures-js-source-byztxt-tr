@@ -1,0 +1,85 @@
+{
+  "text": "μητε διδοτε τοπον τω διαβολω",
+  "words": [
+    {
+      "position": 1,
+      "text": "μητε",
+      "lemma": [
+        "G3383"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3383",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "διδοτε",
+      "lemma": [
+        "G1325"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G1325",
+      "metadata": {},
+      "gematria": {
+        "standard": 393,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοπον",
+      "lemma": [
+        "G5117"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5117",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "διαβολω",
+      "lemma": [
+        "G1228"
+      ],
+      "morph": "robinson:A-DSM",
+      "strongs": "G1228",
+      "metadata": {},
+      "gematria": {
+        "standard": 917,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3333,
+    "ordinal": 77,
+    "reduced": 111
+  }
+}

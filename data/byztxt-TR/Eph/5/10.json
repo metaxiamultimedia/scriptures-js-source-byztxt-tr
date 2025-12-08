@@ -1,0 +1,100 @@
+{
+  "text": "δοκιμαζοντες τι εστιν ευαρεστον τω κυριω",
+  "words": [
+    {
+      "position": 1,
+      "text": "δοκιμαζοντες",
+      "lemma": [
+        "G1381"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G1381",
+      "metadata": {},
+      "gematria": {
+        "standard": 777,
+        "ordinal": 78,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 2,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-NSN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ευαρεστον",
+      "lemma": [
+        "G2101"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G2101",
+      "metadata": {},
+      "gematria": {
+        "standard": 1131,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "κυριω",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5213,
+    "ordinal": 159,
+    "reduced": 128
+  }
+}

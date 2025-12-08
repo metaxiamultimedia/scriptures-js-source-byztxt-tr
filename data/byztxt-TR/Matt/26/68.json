@@ -1,0 +1,145 @@
+{
+  "text": "λεγοντες προφητευσον ημιν χριστε τις εστιν ο παισας σε",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 2,
+      "text": "προφητευσον",
+      "lemma": [
+        "G4395"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G4395",
+      "metadata": {},
+      "gematria": {
+        "standard": 1783,
+        "ordinal": 66,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 3,
+      "text": "ημιν",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "χριστε",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1215,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "τις",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-NSM",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "παισας",
+      "lemma": [
+        "G3817"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G3817",
+      "metadata": {},
+      "gematria": {
+        "standard": 492,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "σε",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5611,
+    "ordinal": 179,
+    "reduced": 175
+  }
+}

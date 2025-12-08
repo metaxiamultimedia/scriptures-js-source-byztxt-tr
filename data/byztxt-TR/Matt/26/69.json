@@ -1,0 +1,325 @@
+{
+  "text": "ο δε πετρος εxω εκαθητο εν τη αυλη και προσηλθεν αυτω μια παιδισκη λεγουσα και συ ησθα μετα ιησου του γαλιλαιου",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πετρος",
+      "lemma": [
+        "G4074"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4074",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "εxω",
+      "lemma": [
+        "G1854"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1854",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "εκαθητο",
+      "lemma": [
+        "G2521"
+      ],
+      "morph": "robinson:V-INI-3S",
+      "strongs": "G2521",
+      "metadata": {},
+      "gematria": {
+        "standard": 413,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "αυλη",
+      "lemma": [
+        "G833"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G833",
+      "metadata": {},
+      "gematria": {
+        "standard": 439,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "προσηλθεν",
+      "lemma": [
+        "G4334"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G4334",
+      "metadata": {},
+      "gematria": {
+        "standard": 552,
+        "ordinal": 45,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 11,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "μια",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "παιδισκη",
+      "lemma": [
+        "G3814"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3814",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 14,
+      "text": "λεγουσα",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 16,
+      "text": "συ",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "ησθα",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-2S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 218,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 19,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 20,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "γαλιλαιου",
+      "lemma": [
+        "G1057"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G1057",
+      "metadata": {},
+      "gematria": {
+        "standard": 555,
+        "ordinal": 45,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9239,
+    "ordinal": 298,
+    "reduced": 356
+  }
+}

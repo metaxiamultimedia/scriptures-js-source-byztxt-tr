@@ -1,0 +1,280 @@
+{
+  "text": "ησαν δε προσκαρτερουντες τη διδαχη των αποστολων και τη κοινωνια και τη κλασει του αρτου και ταις προσευχαις",
+  "words": [
+    {
+      "position": 1,
+      "text": "ησαν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "προσκαρτερουντες",
+      "lemma": [
+        "G4342"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G4342",
+      "metadata": {},
+      "gematria": {
+        "standard": 2001,
+        "ordinal": 136,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 4,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "διδαχη",
+      "lemma": [
+        "G1322"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1322",
+      "metadata": {},
+      "gematria": {
+        "standard": 627,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "αποστολων",
+      "lemma": [
+        "G652"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G652",
+      "metadata": {},
+      "gematria": {
+        "standard": 1601,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "κοινωνια",
+      "lemma": [
+        "G2842"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2842",
+      "metadata": {},
+      "gematria": {
+        "standard": 1011,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "κλασει",
+      "lemma": [
+        "G2800"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2800",
+      "metadata": {},
+      "gematria": {
+        "standard": 266,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "αρτου",
+      "lemma": [
+        "G740"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G740",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "ταις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "προσευχαις",
+      "lemma": [
+        "G4335"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G4335",
+      "metadata": {},
+      "gematria": {
+        "standard": 1666,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11759,
+    "ordinal": 391,
+    "reduced": 329
+  }
+}

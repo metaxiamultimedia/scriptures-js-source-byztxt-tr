@@ -1,0 +1,250 @@
+{
+  "text": "και αναστας απο της προσευχης ελθων προς τους μαθητας αυτου ευρεν αυτους κοιμωμενους απο της λυπης",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "αναστας",
+      "lemma": [
+        "G450"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G450",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 28,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "προσευχης",
+      "lemma": [
+        "G4335"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4335",
+      "metadata": {},
+      "gematria": {
+        "standard": 1663,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 6,
+      "text": "ελθων",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 894,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "μαθητας",
+      "lemma": [
+        "G3101"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G3101",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "ευρεν",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "αυτους",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-APM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "κοιμωμενους",
+      "lemma": [
+        "G2837"
+      ],
+      "morph": "robinson:V-PPP-APM",
+      "strongs": "G2837",
+      "metadata": {},
+      "gematria": {
+        "standard": 1705,
+        "ordinal": 66,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 17,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 19,
+      "text": "λυπης",
+      "lemma": [
+        "G3077"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3077",
+      "metadata": {},
+      "gematria": {
+        "standard": 718,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12163,
+    "ordinal": 298,
+    "reduced": 346
+  }
+}

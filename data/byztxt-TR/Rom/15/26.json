@@ -1,0 +1,250 @@
+{
+  "text": "ευδοκησαν γαρ μακεδονια και αχαια κοινωνιαν τινα ποιησασθαι εις τους πτωχους των αγιων των εν ιερουσαλημ",
+  "words": [
+    {
+      "position": 1,
+      "text": "ευδοκησαν",
+      "lemma": [
+        "G2106"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G2106",
+      "metadata": {},
+      "gematria": {
+        "standard": 758,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "μακεδονια",
+      "lemma": [
+        "G3109"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3109",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "αχαια",
+      "lemma": [
+        "G882"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G882",
+      "metadata": {},
+      "gematria": {
+        "standard": 613,
+        "ordinal": 15,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "κοινωνιαν",
+      "lemma": [
+        "G2842"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2842",
+      "metadata": {},
+      "gematria": {
+        "standard": 1061,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "τινα",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-ASF",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "ποιησασθαι",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-AMN",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 589,
+        "ordinal": 55,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 10,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "πτωχους",
+      "lemma": [
+        "G4434"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G4434",
+      "metadata": {},
+      "gematria": {
+        "standard": 2450,
+        "ordinal": 28,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 12,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "αγιων",
+      "lemma": [
+        "G40"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G40",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "ιερουσαλημ",
+      "lemma": [
+        "G2419"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2419",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11436,
+    "ordinal": 356,
+    "reduced": 330
+  }
+}

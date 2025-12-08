@@ -1,0 +1,100 @@
+{
+  "text": "αδαμ γαρ πρωτος επλασθη ειτα ευα",
+  "words": [
+    {
+      "position": 1,
+      "text": "αδαμ",
+      "lemma": [
+        "G76"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G76",
+      "metadata": {},
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρωτος",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-NSM-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "επλασθη",
+      "lemma": [
+        "G4111"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G4111",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 28,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "ειτα",
+      "lemma": [
+        "G1534"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1534",
+      "metadata": {},
+      "gematria": {
+        "standard": 316,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "ευα",
+      "lemma": [
+        "G2096"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2096",
+      "metadata": {},
+      "gematria": {
+        "standard": 406,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2755,
+    "ordinal": 81,
+    "reduced": 100
+  }
+}

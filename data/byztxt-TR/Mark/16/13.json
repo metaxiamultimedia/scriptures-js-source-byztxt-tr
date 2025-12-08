@@ -1,0 +1,130 @@
+{
+  "text": "κακεινοι απελθοντες απηγγειλαν τοις λοιποις ουδε εκεινοις επιστευσαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "κακεινοι",
+      "lemma": [
+        "G2548"
+      ],
+      "morph": "robinson:D-NPM-K",
+      "strongs": "G2548",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "απελθοντες",
+      "lemma": [
+        "G565"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G565",
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 55,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "απηγγειλαν",
+      "lemma": [
+        "G518"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G518",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "λοιποις",
+      "lemma": [
+        "G3062"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G3062",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ουδε",
+      "lemma": [
+        "G3761"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3761",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "εκεινοις",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-DPM",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "επιστευσαν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1251,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4277,
+    "ordinal": 285,
+    "reduced": 236
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "text": "βιβλος γενεσεως ιησου χριστου υιου δαβιδ υιου αβρααμ",
+  "words": [
+    {
+      "position": 1,
+      "text": "βιβλος",
+      "lemma": [
+        "G976"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G976",
+      "metadata": {},
+      "gematria": {
+        "standard": 314,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "γενεσεως",
+      "lemma": [
+        "G1078"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1078",
+      "metadata": {},
+      "gematria": {
+        "standard": 1268,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "υιου",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "δαβιδ",
+      "lemma": [
+        "G1138"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1138",
+      "metadata": {},
+      "gematria": {
+        "standard": 21,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "υιου",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "αβρααμ",
+      "lemma": [
+        "G11"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G11",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5876,
+    "ordinal": 156,
+    "reduced": 152
+  }
+}

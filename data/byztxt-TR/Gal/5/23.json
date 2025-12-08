@@ -1,0 +1,130 @@
+{
+  "text": "πραοτης εγκρατεια κατα των τοιουτων ουκ εστιν νομος",
+  "words": [
+    {
+      "position": 1,
+      "text": "πραοτης",
+      "lemma": [
+        "G4240"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4240",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "εγκρατεια",
+      "lemma": [
+        "G1466"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1466",
+      "metadata": {},
+      "gematria": {
+        "standard": 445,
+        "ordinal": 45,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοιουτων",
+      "lemma": [
+        "G5108"
+      ],
+      "morph": "robinson:D-GPN",
+      "strongs": "G5108",
+      "metadata": {},
+      "gematria": {
+        "standard": 2000,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "νομος",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6161,
+    "ordinal": 161,
+    "reduced": 167
+  }
+}

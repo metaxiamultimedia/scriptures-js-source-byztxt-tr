@@ -1,0 +1,115 @@
+{
+  "text": "η τε θαλασσα ανεμου μεγαλου πνεοντος διηγειρετο",
+  "words": [
+    {
+      "position": 1,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G5037",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "θαλασσα",
+      "lemma": [
+        "G2281"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2281",
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "ανεμου",
+      "lemma": [
+        "G417"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G417",
+      "metadata": {},
+      "gematria": {
+        "standard": 566,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "μεγαλου",
+      "lemma": [
+        "G3173"
+      ],
+      "morph": "robinson:A-GSM",
+      "strongs": "G3173",
+      "metadata": {},
+      "gematria": {
+        "standard": 549,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "πνεοντος",
+      "lemma": [
+        "G4154"
+      ],
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": "G4154",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "διηγειρετο",
+      "lemma": [
+        "G1326"
+      ],
+      "morph": "robinson:V-IPI-3S",
+      "strongs": "G1326",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3210,
+    "ordinal": 172,
+    "reduced": 168
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "text": "αφηκεν την ιουδαιαν και απηλθεν παλιν εις την γαλιλαιαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "αφηκεν",
+      "lemma": [
+        "G863"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G863",
+      "metadata": {},
+      "gematria": {
+        "standard": 584,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιουδαιαν",
+      "lemma": [
+        "G2449"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2449",
+      "metadata": {},
+      "gematria": {
+        "standard": 546,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "απηλθεν",
+      "lemma": [
+        "G565"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G565",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "παλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3825",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "γαλιλαιαν",
+      "lemma": [
+        "G1056"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1056",
+      "metadata": {},
+      "gematria": {
+        "standard": 136,
+        "ordinal": 45,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2582,
+    "ordinal": 169,
+    "reduced": 170
+  }
+}

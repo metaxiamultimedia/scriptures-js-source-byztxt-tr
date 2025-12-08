@@ -1,0 +1,160 @@
+{
+  "text": "ειδεν δε και τινα χηραν πενιχραν βαλλουσαν εκει δυο λεπτα",
+  "words": [
+    {
+      "position": 1,
+      "text": "ειδεν",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "τινα",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-ASF",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "χηραν",
+      "lemma": [
+        "G5503"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5503",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "πενιχραν",
+      "lemma": [
+        "G3998"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G3998",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "βαλλουσαν",
+      "lemma": [
+        "G906"
+      ],
+      "morph": "robinson:V-PAP-ASF",
+      "strongs": "G906",
+      "metadata": {},
+      "gematria": {
+        "standard": 784,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "εκει",
+      "lemma": [
+        "G1563"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1563",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "δυο",
+      "lemma": [
+        "G1417"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1417",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "λεπτα",
+      "lemma": [
+        "G3016"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G3016",
+      "metadata": {},
+      "gematria": {
+        "standard": 416,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3844,
+    "ordinal": 161,
+    "reduced": 172
+  }
+}

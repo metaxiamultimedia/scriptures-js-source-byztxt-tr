@@ -1,0 +1,145 @@
+{
+  "text": "αλλα τουτο εστιν το ειρημενον δια του προφητου ιωηλ",
+  "words": [
+    {
+      "position": 1,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "ειρημενον",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-RPP-NSN-ATT",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 45,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 6,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "προφητου",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1528,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "ιωηλ",
+      "lemma": [
+        "G2493"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2493",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5636,
+    "ordinal": 146,
+    "reduced": 182
+  }
+}

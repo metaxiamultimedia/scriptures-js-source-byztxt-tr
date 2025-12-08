@@ -1,0 +1,340 @@
+{
+  "text": "οτι και χριστος απαx περι αμαρτιων επαθεν δικαιος υπερ αδικων ινα ημας προσαγαγη τω θεω θανατωθεις μεν σαρκι ζωοποιηθεις δε τω πνευματι",
+  "words": [
+    {
+      "position": 1,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "χριστος",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "απαx",
+      "lemma": [
+        "G530"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G530",
+      "metadata": {},
+      "gematria": {
+        "standard": 82,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "αμαρτιων",
+      "lemma": [
+        "G266"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G266",
+      "metadata": {},
+      "gematria": {
+        "standard": 1302,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "επαθεν",
+      "lemma": [
+        "G3958"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3958",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "δικαιος",
+      "lemma": [
+        "G1342"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G1342",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "υπερ",
+      "lemma": [
+        "G5228"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5228",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "αδικων",
+      "lemma": [
+        "G94"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G94",
+      "metadata": {},
+      "gematria": {
+        "standard": 885,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "ημας",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "προσαγαγη",
+      "lemma": [
+        "G4317"
+      ],
+      "morph": "robinson:V-2AAS-3S",
+      "strongs": "G4317",
+      "metadata": {},
+      "gematria": {
+        "standard": 466,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "θανατωθεις",
+      "lemma": [
+        "G2289"
+      ],
+      "morph": "robinson:V-APP-NSM",
+      "strongs": "G2289",
+      "metadata": {},
+      "gematria": {
+        "standard": 1385,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 17,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "σαρκι",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 331,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 19,
+      "text": "ζωοποιηθεις",
+      "lemma": [
+        "G2227"
+      ],
+      "morph": "robinson:V-APP-NSM",
+      "strongs": "G2227",
+      "metadata": {},
+      "gematria": {
+        "standard": 1269,
+        "ordinal": 66,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 20,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "πνευματι",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13170,
+    "ordinal": 426,
+    "reduced": 444
+  }
+}

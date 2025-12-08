@@ -1,0 +1,220 @@
+{
+  "text": "και ο αριθμος στρατευματων του ιππικου δυο μυριαδες μυριαδων και ηκουσα τον αριθμον αυτων",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "αριθμος",
+      "lemma": [
+        "G706"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G706",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "στρατευματων",
+      "lemma": [
+        "G4753"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G4753",
+      "metadata": {},
+      "gematria": {
+        "standard": 2497,
+        "ordinal": 78,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιππικου",
+      "lemma": [
+        "G2461"
+      ],
+      "morph": "robinson:A-GSN",
+      "strongs": "G2461",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "δυο",
+      "lemma": [
+        "G1417"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1417",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "μυριαδες",
+      "lemma": [
+        "G3461"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G3461",
+      "metadata": {},
+      "gematria": {
+        "standard": 760,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "μυριαδων",
+      "lemma": [
+        "G3461"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G3461",
+      "metadata": {},
+      "gematria": {
+        "standard": 1405,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "ηκουσα",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 699,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 12,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "αριθμον",
+      "lemma": [
+        "G706"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G706",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10088,
+    "ordinal": 301,
+    "reduced": 278
+  }
+}

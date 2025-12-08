@@ -1,0 +1,295 @@
+{
+  "text": "εις τουτο γαρ και κοπιωμεν και ονειδιζομεθα οτι ηλπικαμεν επι θεω ζωντι ος εστιν σωτηρ παντων ανθρωπων μαλιστα πιστων",
+  "words": [
+    {
+      "position": 1,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "κοπιωμεν",
+      "lemma": [
+        "G2872"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G2872",
+      "metadata": {},
+      "gematria": {
+        "standard": 1075,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "ονειδιζομεθα",
+      "lemma": [
+        "G3679"
+      ],
+      "morph": "robinson:V-PPI-1P",
+      "strongs": "G3679",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 78,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 8,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ηλπικαμεν",
+      "lemma": [
+        "G1679"
+      ],
+      "morph": "robinson:V-RAI-1P",
+      "strongs": "G1679",
+      "metadata": {},
+      "gematria": {
+        "standard": 244,
+        "ordinal": 45,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 10,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "ζωντι",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAP-DSM",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1167,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "σωτηρ",
+      "lemma": [
+        "G4990"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4990",
+      "metadata": {},
+      "gematria": {
+        "standard": 1408,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "παντων",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "ανθρωπων",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 18,
+      "text": "μαλιστα",
+      "lemma": [
+        "G3122"
+      ],
+      "morph": "robinson:ADV-S",
+      "strongs": "G3122",
+      "metadata": {},
+      "gematria": {
+        "standard": 582,
+        "ordinal": 28,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "πιστων",
+      "lemma": [
+        "G4103"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G4103",
+      "metadata": {},
+      "gematria": {
+        "standard": 1440,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13013,
+    "ordinal": 370,
+    "reduced": 413
+  }
+}

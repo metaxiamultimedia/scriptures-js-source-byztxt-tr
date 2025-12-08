@@ -1,0 +1,145 @@
+{
+  "text": "δια τουτο ουκ ηδυναντο πιστευειν οτι παλιν ειπεν ησαιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "ηδυναντο",
+      "lemma": [
+        "G1410"
+      ],
+      "morph": "robinson:V-INI-3P-ATT",
+      "strongs": "G1410",
+      "metadata": {},
+      "gematria": {
+        "standard": 883,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "πιστευειν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1060,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "παλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3825",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "ησαιας",
+      "lemma": [
+        "G2268"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2268",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4709,
+    "ordinal": 165,
+    "reduced": 182
+  }
+}

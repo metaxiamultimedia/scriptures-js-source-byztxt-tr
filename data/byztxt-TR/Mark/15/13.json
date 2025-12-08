@@ -1,0 +1,100 @@
+{
+  "text": "οι δε παλιν εκραxαν σταυρωσον αυτον",
+  "words": [
+    {
+      "position": 1,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "παλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3825",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "εκραxαν",
+      "lemma": [
+        "G2896"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G2896",
+      "metadata": {},
+      "gematria": {
+        "standard": 177,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "σταυρωσον",
+      "lemma": [
+        "G4717"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G4717",
+      "metadata": {},
+      "gematria": {
+        "standard": 2121,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3379,
+    "ordinal": 102,
+    "reduced": 103
+  }
+}

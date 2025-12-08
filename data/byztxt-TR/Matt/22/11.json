@@ -1,0 +1,220 @@
+{
+  "text": "εισελθων δε ο βασιλευς θεασασθαι τους ανακειμενους ειδεν εκει ανθρωπον ουκ ενδεδυμενον ενδυμα γαμου",
+  "words": [
+    {
+      "position": 1,
+      "text": "εισελθων",
+      "lemma": [
+        "G1525"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G1525",
+      "metadata": {},
+      "gematria": {
+        "standard": 1109,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "βασιλευς",
+      "lemma": [
+        "G935"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G935",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 36,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεασασθαι",
+      "lemma": [
+        "G2300"
+      ],
+      "morph": "robinson:V-ADN",
+      "strongs": "G2300",
+      "metadata": {},
+      "gematria": {
+        "standard": 436,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ανακειμενους",
+      "lemma": [
+        "G345"
+      ],
+      "morph": "robinson:V-PNP-APM",
+      "strongs": "G345",
+      "metadata": {},
+      "gematria": {
+        "standard": 852,
+        "ordinal": 78,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "ειδεν",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "εκει",
+      "lemma": [
+        "G1563"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1563",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "ανθρωπον",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 11,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "ενδεδυμενον",
+      "lemma": [
+        "G1746"
+      ],
+      "morph": "robinson:V-RMP-ASM",
+      "strongs": "G1746",
+      "metadata": {},
+      "gematria": {
+        "standard": 683,
+        "ordinal": 66,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 13,
+      "text": "ενδυμα",
+      "lemma": [
+        "G1742"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G1742",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "γαμου",
+      "lemma": [
+        "G1062"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G1062",
+      "metadata": {},
+      "gematria": {
+        "standard": 514,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7755,
+    "ordinal": 378,
+    "reduced": 348
+  }
+}

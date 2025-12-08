@@ -1,0 +1,235 @@
+{
+  "text": "εν δε τω λαλησαι ηρωτα αυτον φαρισαιος τις οπως αριστηση παρ αυτω εισελθων δε ανεπεσεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "λαλησαι",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "ηρωτα",
+      "lemma": [
+        "G2065"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G2065",
+      "metadata": {},
+      "gematria": {
+        "standard": 1209,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "φαρισαιος",
+      "lemma": [
+        "G5330"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5330",
+      "metadata": {},
+      "gematria": {
+        "standard": 1092,
+        "ordinal": 45,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NSM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "οπως",
+      "lemma": [
+        "G3704"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3704",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "αριστηση",
+      "lemma": [
+        "G709"
+      ],
+      "morph": "robinson:V-AAS-3S",
+      "strongs": "G709",
+      "metadata": {},
+      "gematria": {
+        "standard": 827,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "παρ",
+      "lemma": [
+        "G3844"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3844",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "εισελθων",
+      "lemma": [
+        "G1525"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G1525",
+      "metadata": {},
+      "gematria": {
+        "standard": 1109,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ανεπεσεν",
+      "lemma": [
+        "G377"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G377",
+      "metadata": {},
+      "gematria": {
+        "standard": 396,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10249,
+    "ordinal": 255,
+    "reduced": 277
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "text": "εστιν δε εν τοις ιεροσολυμοις επι τη προβατικη κολυμβηθρα η επιλεγομενη εβραιστι βηθεσδα πεντε στοας εχουσα",
+  "words": [
+    {
+      "position": 1,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "ιεροσολυμοις",
+      "lemma": [
+        "G2414"
+      ],
+      "morph": "robinson:N-DPN",
+      "strongs": "G2414",
+      "metadata": {},
+      "gematria": {
+        "standard": 1205,
+        "ordinal": 78,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "προβατικη",
+      "lemma": [
+        "G4262"
+      ],
+      "morph": "robinson:A-DSF",
+      "strongs": "G4262",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 9,
+      "text": "κολυμβηθρα",
+      "lemma": [
+        "G2861"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2861",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 55,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "επιλεγομενη",
+      "lemma": [
+        "G1951"
+      ],
+      "morph": "robinson:V-PPP-NSF",
+      "strongs": "G1951",
+      "metadata": {},
+      "gematria": {
+        "standard": 306,
+        "ordinal": 66,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 12,
+      "text": "εβραιστι",
+      "lemma": [
+        "G1447"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1447",
+      "metadata": {},
+      "gematria": {
+        "standard": 628,
+        "ordinal": 36,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "βηθεσδα",
+      "lemma": [
+        "G964"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G964",
+      "metadata": {},
+      "gematria": {
+        "standard": 229,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 14,
+      "text": "πεντε",
+      "lemma": [
+        "G4002"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G4002",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 15,
+      "text": "στοας",
+      "lemma": [
+        "G4745"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G4745",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "εχουσα",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7746,
+    "ordinal": 400,
+    "reduced": 366
+  }
+}

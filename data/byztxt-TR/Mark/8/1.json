@@ -1,0 +1,310 @@
+{
+  "text": "εν εκειναις ταις ημεραις παμπολλου οχλου οντος και μη εχοντων τι φαγωσιν προσκαλεσαμενος ο ιησους τους μαθητας αυτου λεγει αυτοις",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "εκειναις",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-DPF",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "ταις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ημεραις",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "παμπολλου",
+      "lemma": [
+        "G3827"
+      ],
+      "morph": "robinson:A-GSM",
+      "strongs": "G3827",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 45,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 6,
+      "text": "οχλου",
+      "lemma": [
+        "G3793"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3793",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "οντος",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "εχοντων",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAP-GPM",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1875,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-ASN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "φαγωσιν",
+      "lemma": [
+        "G5315"
+      ],
+      "morph": "robinson:V-2AAS-3P",
+      "strongs": "G5315",
+      "metadata": {},
+      "gematria": {
+        "standard": 1564,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "προσκαλεσαμενος",
+      "lemma": [
+        "G4341"
+      ],
+      "morph": "robinson:V-ADP-NSM",
+      "strongs": "G4341",
+      "metadata": {},
+      "gematria": {
+        "standard": 1072,
+        "ordinal": 120,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 14,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "μαθητας",
+      "lemma": [
+        "G3101"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G3101",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 20,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13484,
+    "ordinal": 451,
+    "reduced": 425
+  }
+}

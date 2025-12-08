@@ -1,0 +1,220 @@
+{
+  "text": "αλλοι ελεγον ταυτα τα ρηματα ουκ εστιν δαιμονιζομενου μη δαιμονιον δυναται τυφλων οφθαλμους ανοιγειν",
+  "words": [
+    {
+      "position": 1,
+      "text": "αλλοι",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 141,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "ελεγον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ταυτα",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NPN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "ρηματα",
+      "lemma": [
+        "G4487"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G4487",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "δαιμονιζομενου",
+      "lemma": [
+        "G1139"
+      ],
+      "morph": "robinson:V-PNP-GSM",
+      "strongs": "G1139",
+      "metadata": {},
+      "gematria": {
+        "standard": 827,
+        "ordinal": 105,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 9,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "δαιμονιον",
+      "lemma": [
+        "G1140"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G1140",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "δυναται",
+      "lemma": [
+        "G1410"
+      ],
+      "morph": "robinson:V-PNI-3S",
+      "strongs": "G1410",
+      "metadata": {},
+      "gematria": {
+        "standard": 766,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "τυφλων",
+      "lemma": [
+        "G5185"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G5185",
+      "metadata": {},
+      "gematria": {
+        "standard": 2080,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "οφθαλμους",
+      "lemma": [
+        "G3788"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G3788",
+      "metadata": {},
+      "gematria": {
+        "standard": 1320,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 14,
+      "text": "ανοιγειν",
+      "lemma": [
+        "G455"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G455",
+      "metadata": {},
+      "gematria": {
+        "standard": 199,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8657,
+    "ordinal": 379,
+    "reduced": 332
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "text": "και λαλησαντες εν περγη τον λογον κατεβησαν εις ατταλειαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "λαλησαντες",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 55,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "περγη",
+      "lemma": [
+        "G4011"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4011",
+      "metadata": {},
+      "gematria": {
+        "standard": 196,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατεβησαν",
+      "lemma": [
+        "G2597"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G2597",
+      "metadata": {},
+      "gematria": {
+        "standard": 587,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "ατταλειαν",
+      "lemma": [
+        "G825"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G825",
+      "metadata": {},
+      "gematria": {
+        "standard": 698,
+        "ordinal": 45,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3250,
+    "ordinal": 196,
+    "reduced": 172
+  }
+}

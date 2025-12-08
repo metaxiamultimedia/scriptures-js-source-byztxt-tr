@@ -1,0 +1,100 @@
+{
+  "text": "και ουτως μακροθυμησας επετυχεν της επαγγελιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουτως",
+      "lemma": [
+        "G3779"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3779",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "μακροθυμησας",
+      "lemma": [
+        "G3114"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G3114",
+      "metadata": {},
+      "gematria": {
+        "standard": 1089,
+        "ordinal": 78,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 4,
+      "text": "επετυχεν",
+      "lemma": [
+        "G2013"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2013",
+      "metadata": {},
+      "gematria": {
+        "standard": 1445,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "επαγγελιας",
+      "lemma": [
+        "G1860"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1860",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5181,
+    "ordinal": 196,
+    "reduced": 159
+  }
+}

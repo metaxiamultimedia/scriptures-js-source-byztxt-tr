@@ -1,0 +1,265 @@
+{
+  "text": "και οι εμποροι της γης κλαιουσιν και πενθουσιν επ αυτη οτι τον γομον αυτων ουδεις αγοραζει ουκετι",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "εμποροι",
+      "lemma": [
+        "G1713"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G1713",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "γης",
+      "lemma": [
+        "G1093"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1093",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "κλαιουσιν",
+      "lemma": [
+        "G2799"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G2799",
+      "metadata": {},
+      "gematria": {
+        "standard": 791,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "πενθουσιν",
+      "lemma": [
+        "G3996"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G3996",
+      "metadata": {},
+      "gematria": {
+        "standard": 874,
+        "ordinal": 45,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "επ",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "αυτη",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "γομον",
+      "lemma": [
+        "G1117"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G1117",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 14,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "ουδεις",
+      "lemma": [
+        "G3762"
+      ],
+      "morph": "robinson:A-NSM-N",
+      "strongs": "G3762",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "αγοραζει",
+      "lemma": [
+        "G59"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G59",
+      "metadata": {},
+      "gematria": {
+        "standard": 197,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "ουκετι",
+      "lemma": [
+        "G3765"
+      ],
+      "morph": "robinson:ADV-N",
+      "strongs": "G3765",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7970,
+    "ordinal": 278,
+    "reduced": 320
+  }
+}

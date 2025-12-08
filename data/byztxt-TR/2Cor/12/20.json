@@ -1,0 +1,370 @@
+{
+  "text": "φοβουμαι γαρ μηπως ελθων ουχ οιους θελω ευρω υμας καγω ευρεθω υμιν οιον ου θελετε μηπως ερεις ζηλοι θυμοι εριθειαι καταλαλιαι ψιθυρισμοι φυσιωσεις ακαταστασιαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "φοβουμαι",
+      "lemma": [
+        "G5399"
+      ],
+      "morph": "robinson:V-PNI-1S",
+      "strongs": "G5399",
+      "metadata": {},
+      "gematria": {
+        "standard": 1093,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "μηπως",
+      "lemma": [
+        "G3381"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3381",
+      "metadata": {},
+      "gematria": {
+        "standard": 1128,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ελθων",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 894,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ουχ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "οιους",
+      "lemma": [
+        "G3634"
+      ],
+      "morph": "robinson:K-APM",
+      "strongs": "G3634",
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "θελω",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 844,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "ευρω",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-2AAS-1S",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "καγω",
+      "lemma": [
+        "G2504"
+      ],
+      "morph": "robinson:P-1NS-K",
+      "strongs": "G2504",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "ευρεθω",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-APS-1S",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 1319,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "οιον",
+      "lemma": [
+        "G3634"
+      ],
+      "morph": "robinson:K-ASM",
+      "strongs": "G3634",
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "θελετε",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "μηπως",
+      "lemma": [
+        "G3381"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3381",
+      "metadata": {},
+      "gematria": {
+        "standard": 1128,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "ερεις",
+      "lemma": [
+        "G2054"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G2054",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "ζηλοι",
+      "lemma": [
+        "G2205"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G2205",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 19,
+      "text": "θυμοι",
+      "lemma": [
+        "G2372"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G2372",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 20,
+      "text": "εριθειαι",
+      "lemma": [
+        "G2052"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G2052",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 21,
+      "text": "καταλαλιαι",
+      "lemma": [
+        "G2636"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G2636",
+      "metadata": {},
+      "gematria": {
+        "standard": 404,
+        "ordinal": 55,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "ψιθυρισμοι",
+      "lemma": [
+        "G5587"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G5587",
+      "metadata": {},
+      "gematria": {
+        "standard": 1549,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 23,
+      "text": "φυσιωσεις",
+      "lemma": [
+        "G5450"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G5450",
+      "metadata": {},
+      "gematria": {
+        "standard": 2325,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 24,
+      "text": "ακαταστασιαι",
+      "lemma": [
+        "G181"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G181",
+      "metadata": {},
+      "gematria": {
+        "standard": 1045,
+        "ordinal": 78,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 19071,
+    "ordinal": 527,
+    "reduced": 531
+  }
+}

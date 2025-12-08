@@ -1,0 +1,220 @@
+{
+  "text": "και σχηματι ευρεθεις ως ανθρωπος εταπεινωσεν εαυτον γενομενος υπηκοος μεχρι θανατου θανατου δε σταυρου",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "σχηματι",
+      "lemma": [
+        "G4976"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G4976",
+      "metadata": {},
+      "gematria": {
+        "standard": 1159,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "ευρεθεις",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-APP-NSM",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 734,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 6,
+      "text": "εταπεινωσεν",
+      "lemma": [
+        "G5013"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G5013",
+      "metadata": {},
+      "gematria": {
+        "standard": 1506,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 7,
+      "text": "εαυτον",
+      "lemma": [
+        "G1438"
+      ],
+      "morph": "robinson:F-3ASM",
+      "strongs": "G1438",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "γενομενος",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADP-NSM",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "υπηκοος",
+      "lemma": [
+        "G5255"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G5255",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 28,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "μεχρι",
+      "lemma": [
+        "G3360"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3360",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "θανατου",
+      "lemma": [
+        "G2288"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2288",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "θανατου",
+      "lemma": [
+        "G2288"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2288",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "σταυρου",
+      "lemma": [
+        "G4716"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4716",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11804,
+    "ordinal": 371,
+    "reduced": 374
+  }
+}

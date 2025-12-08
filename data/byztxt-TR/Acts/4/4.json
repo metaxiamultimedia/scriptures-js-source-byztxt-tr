@@ -1,0 +1,250 @@
+{
+  "text": "πολλοι δε των ακουσαντων τον λογον επιστευσαν και εγενηθη ο αριθμος των ανδρων ωσει χιλιαδες πεντε",
+  "words": [
+    {
+      "position": 1,
+      "text": "πολλοι",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ακουσαντων",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAP-GPM",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1892,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "επιστευσαν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1251,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "εγενηθη",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-AOI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 88,
+        "ordinal": 28,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "αριθμος",
+      "lemma": [
+        "G706"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G706",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "ανδρων",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "ωσει",
+      "lemma": [
+        "G5616"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5616",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "χιλιαδες",
+      "lemma": [
+        "G5505"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G5505",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "πεντε",
+      "lemma": [
+        "G4002"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G4002",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10324,
+    "ordinal": 312,
+    "reduced": 352
+  }
+}

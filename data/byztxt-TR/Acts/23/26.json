@@ -1,0 +1,115 @@
+{
+  "text": "κλαυδιος λυσιας τω κρατιστω ηγεμονι φηλικι χαιρειν",
+  "words": [
+    {
+      "position": 1,
+      "text": "κλαυδιος",
+      "lemma": [
+        "G2804"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2804",
+      "metadata": {},
+      "gematria": {
+        "standard": 735,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "λυσιας",
+      "lemma": [
+        "G3079"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3079",
+      "metadata": {},
+      "gematria": {
+        "standard": 841,
+        "ordinal": 21,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "κρατιστω",
+      "lemma": [
+        "G2903"
+      ],
+      "morph": "robinson:A-DSM-S",
+      "strongs": "G2903",
+      "metadata": {},
+      "gematria": {
+        "standard": 1731,
+        "ordinal": 36,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ηγεμονι",
+      "lemma": [
+        "G2232"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2232",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "φηλικι",
+      "lemma": [
+        "G5344"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5344",
+      "metadata": {},
+      "gematria": {
+        "standard": 578,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "χαιρειν",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 776,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5947,
+    "ordinal": 173,
+    "reduced": 142
+  }
+}

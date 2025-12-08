@@ -1,0 +1,310 @@
+{
+  "text": "ειτα το τελος οταν παραδω την βασιλειαν τω θεω και πατρι οταν καταργηση πασαν αρχην και πασαν εxουσιαν και δυναμιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ειτα",
+      "lemma": [
+        "G1534"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1534",
+      "metadata": {},
+      "gematria": {
+        "standard": 316,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "τελος",
+      "lemma": [
+        "G5056"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G5056",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "οταν",
+      "lemma": [
+        "G3752"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3752",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "παραδω",
+      "lemma": [
+        "G3860"
+      ],
+      "morph": "robinson:V-2AAS-3S",
+      "strongs": "G3860",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "βασιλειαν",
+      "lemma": [
+        "G932"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G932",
+      "metadata": {},
+      "gematria": {
+        "standard": 309,
+        "ordinal": 45,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "πατρι",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 491,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "οταν",
+      "lemma": [
+        "G3752"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3752",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "καταργηση",
+      "lemma": [
+        "G2673"
+      ],
+      "morph": "robinson:V-AAS-3S",
+      "strongs": "G2673",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "πασαν",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "αρχην",
+      "lemma": [
+        "G746"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G746",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "πασαν",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "εxουσιαν",
+      "lemma": [
+        "G1849"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1849",
+      "metadata": {},
+      "gematria": {
+        "standard": 736,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 20,
+      "text": "δυναμιν",
+      "lemma": [
+        "G1411"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1411",
+      "metadata": {},
+      "gematria": {
+        "standard": 555,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9639,
+    "ordinal": 308,
+    "reduced": 324
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "text": "εαν δε αλλω αποκαλυφθη καθημενω ο πρωτος σιγατω",
+  "words": [
+    {
+      "position": 1,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αλλω",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-DSM",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "αποκαλυφθη",
+      "lemma": [
+        "G601"
+      ],
+      "morph": "robinson:V-APS-3S",
+      "strongs": "G601",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 55,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 5,
+      "text": "καθημενω",
+      "lemma": [
+        "G2521"
+      ],
+      "morph": "robinson:V-PNP-DSM",
+      "strongs": "G2521",
+      "metadata": {},
+      "gematria": {
+        "standard": 933,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρωτος",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-NSM-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "σιγατω",
+      "lemma": [
+        "G4601"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G4601",
+      "metadata": {},
+      "gematria": {
+        "standard": 1314,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5912,
+    "ordinal": 153,
+    "reduced": 179
+  }
+}

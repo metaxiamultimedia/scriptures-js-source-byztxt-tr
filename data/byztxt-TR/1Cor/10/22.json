@@ -1,0 +1,130 @@
+{
+  "text": "η παραζηλουμεν τον κυριον μη ισχυροτεροι αυτου εσμεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "παραζηλουμεν",
+      "lemma": [
+        "G3863"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G3863",
+      "metadata": {},
+      "gematria": {
+        "standard": 792,
+        "ordinal": 78,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 3,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "κυριον",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ισχυροτεροι",
+      "lemma": [
+        "G2478"
+      ],
+      "morph": "robinson:A-NPM-C",
+      "strongs": "G2478",
+      "metadata": {},
+      "gematria": {
+        "standard": 1865,
+        "ordinal": 66,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "εσμεν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 300,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5254,
+    "ordinal": 205,
+    "reduced": 187
+  }
+}

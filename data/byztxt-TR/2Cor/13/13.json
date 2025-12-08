@@ -1,0 +1,97 @@
+{
+  "text": "(13:12) ασπαζονται υμας οι αγιοι παντες",
+  "words": [
+    {
+      "position": 1,
+      "text": "(13:12)",
+      "lemma": null,
+      "morph": null,
+      "metadata": {},
+      "gematria": {
+        "standard": 0,
+        "ordinal": 0,
+        "reduced": 0
+      }
+    },
+    {
+      "position": 2,
+      "text": "ασπαζονται",
+      "lemma": [
+        "G782"
+      ],
+      "morph": "robinson:V-PNI-3P",
+      "strongs": "G782",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "αγιοι",
+      "lemma": [
+        "G40"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G40",
+      "metadata": {},
+      "gematria": {
+        "standard": 94,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "παντες",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2171,
+    "ordinal": 104,
+    "reduced": 92
+  }
+}

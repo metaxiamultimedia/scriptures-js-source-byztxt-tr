@@ -1,0 +1,100 @@
+{
+  "text": "εγω ειμι ο αρτος της ζωης",
+  "words": [
+    {
+      "position": 1,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "ειμι",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "αρτος",
+      "lemma": [
+        "G740"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G740",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "ζωης",
+      "lemma": [
+        "G2222"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2222",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3137,
+    "ordinal": 48,
+    "reduced": 86
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "text": "οταν δε νηστευητε μη γινεσθε ωσπερ οι υποκριται σκυθρωποι αφανιζουσιν γαρ τα προσωπα αυτων οπως φανωσιν τοις ανθρωποις νηστευοντες αμην λεγω υμιν οτι απεχουσιν τον μισθον αυτων",
+  "words": [
+    {
+      "position": 1,
+      "text": "οταν",
+      "lemma": [
+        "G3752"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3752",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "νηστευητε",
+      "lemma": [
+        "G3522"
+      ],
+      "morph": "robinson:V-PAS-2P",
+      "strongs": "G3522",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "γινεσθε",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-PNM-2P",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "ωσπερ",
+      "lemma": [
+        "G5618"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5618",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "υποκριται",
+      "lemma": [
+        "G5273"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G5273",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "σκυθρωποι",
+      "lemma": [
+        "G4659"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4659",
+      "metadata": {},
+      "gematria": {
+        "standard": 1689,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "αφανιζουσιν",
+      "lemma": [
+        "G853"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G853",
+      "metadata": {},
+      "gematria": {
+        "standard": 1299,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 12,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "προσωπα",
+      "lemma": [
+        "G4383"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G4383",
+      "metadata": {},
+      "gematria": {
+        "standard": 1331,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "οπως",
+      "lemma": [
+        "G3704"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3704",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "φανωσιν",
+      "lemma": [
+        "G5316"
+      ],
+      "morph": "robinson:V-2APS-3P",
+      "strongs": "G5316",
+      "metadata": {},
+      "gematria": {
+        "standard": 1611,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "ανθρωποις",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1320,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 19,
+      "text": "νηστευοντες",
+      "lemma": [
+        "G3522"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3522",
+      "metadata": {},
+      "gematria": {
+        "standard": 1588,
+        "ordinal": 66,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 20,
+      "text": "αμην",
+      "lemma": [
+        "G281"
+      ],
+      "morph": "robinson:HEB",
+      "strongs": "G281",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 21,
+      "text": "λεγω",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 22,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "απεχουσιν",
+      "lemma": [
+        "G568"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G568",
+      "metadata": {},
+      "gematria": {
+        "standard": 1416,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 25,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 26,
+      "text": "μισθον",
+      "lemma": [
+        "G3408"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3408",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 27,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 22399,
+    "ordinal": 597,
+    "reduced": 637
+  }
+}

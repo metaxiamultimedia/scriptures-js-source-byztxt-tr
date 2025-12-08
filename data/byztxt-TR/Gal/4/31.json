@@ -1,0 +1,145 @@
+{
+  "text": "αρα αδελφοι ουκ εσμεν παιδισκης τεκνα αλλα της ελευθερας",
+  "words": [
+    {
+      "position": 1,
+      "text": "αρα",
+      "lemma": [
+        "G686"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G686",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 6,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 2,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "εσμεν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 300,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "παιδισκης",
+      "lemma": [
+        "G3814"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3814",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "τεκνα",
+      "lemma": [
+        "G5043"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G5043",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "ελευθερας",
+      "lemma": [
+        "G1658"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G1658",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3746,
+    "ordinal": 176,
+    "reduced": 164
+  }
+}

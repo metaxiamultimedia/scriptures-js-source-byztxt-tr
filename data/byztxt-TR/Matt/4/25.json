@@ -1,0 +1,280 @@
+{
+  "text": "και ηκολουθησαν αυτω οχλοι πολλοι απο της γαλιλαιας και δεκαπολεως και ιεροσολυμων και ιουδαιας και περαν του ιορδανου",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ηκολουθησαν",
+      "lemma": [
+        "G190"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G190",
+      "metadata": {},
+      "gematria": {
+        "standard": 866,
+        "ordinal": 66,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "οχλοι",
+      "lemma": [
+        "G3793"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G3793",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "πολλοι",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "γαλιλαιας",
+      "lemma": [
+        "G1056"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1056",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 45,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "δεκαπολεως",
+      "lemma": [
+        "G1179"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1179",
+      "metadata": {},
+      "gematria": {
+        "standard": 1215,
+        "ordinal": 55,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "ιεροσολυμων",
+      "lemma": [
+        "G2414"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G2414",
+      "metadata": {},
+      "gematria": {
+        "standard": 1775,
+        "ordinal": 66,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "ιουδαιας",
+      "lemma": [
+        "G2449"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2449",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 36,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 16,
+      "text": "περαν",
+      "lemma": [
+        "G4008"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4008",
+      "metadata": {},
+      "gematria": {
+        "standard": 236,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "ιορδανου",
+      "lemma": [
+        "G2446"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2446",
+      "metadata": {},
+      "gematria": {
+        "standard": 705,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9934,
+    "ordinal": 413,
+    "reduced": 367
+  }
+}

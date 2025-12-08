@@ -1,0 +1,115 @@
+{
+  "text": "και διαπερασαντες ηλθον εις την γην γεννησαρετ",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "διαπερασαντες",
+      "lemma": [
+        "G1276"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G1276",
+      "metadata": {},
+      "gematria": {
+        "standard": 957,
+        "ordinal": 91,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "ηλθον",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 15,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "γην",
+      "lemma": [
+        "G1093"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1093",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "γεννησαρετ",
+      "lemma": [
+        "G1082"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1082",
+      "metadata": {},
+      "gematria": {
+        "standard": 722,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2511,
+    "ordinal": 185,
+    "reduced": 153
+  }
+}

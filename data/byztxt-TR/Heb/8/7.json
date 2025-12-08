@@ -1,0 +1,190 @@
+{
+  "text": "ει γαρ η πρωτη εκεινη ην αμεμπτος ουκ αν δευτερας εζητειτο τοπος",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρωτη",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-NSF-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "εκεινη",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-NSF",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "αμεμπτος",
+      "lemma": [
+        "G273"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G273",
+      "metadata": {},
+      "gematria": {
+        "standard": 736,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "αν",
+      "lemma": [
+        "G302"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G302",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "δευτερας",
+      "lemma": [
+        "G1208"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G1208",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "εζητειτο",
+      "lemma": [
+        "G2212"
+      ],
+      "morph": "robinson:V-IPI-3S",
+      "strongs": "G2212",
+      "metadata": {},
+      "gematria": {
+        "standard": 705,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοπος",
+      "lemma": [
+        "G5117"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5117",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5288,
+    "ordinal": 181,
+    "reduced": 230
+  }
+}

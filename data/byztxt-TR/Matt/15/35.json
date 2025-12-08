@@ -1,0 +1,130 @@
+{
+  "text": "και εκελευσεν τοις οχλοις αναπεσειν επι την γην",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "εκελευσεν",
+      "lemma": [
+        "G2753"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2753",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "οχλοις",
+      "lemma": [
+        "G3793"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G3793",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "αναπεσειν",
+      "lemma": [
+        "G377"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G377",
+      "metadata": {},
+      "gematria": {
+        "standard": 402,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "γην",
+      "lemma": [
+        "G1093"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1093",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3227,
+    "ordinal": 145,
+    "reduced": 158
+  }
+}

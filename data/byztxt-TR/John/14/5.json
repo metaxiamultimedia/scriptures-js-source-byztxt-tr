@@ -1,0 +1,220 @@
+{
+  "text": "λεγει αυτω θωμας κυριε ουκ οιδαμεν που υπαγεις και πως δυναμεθα την οδον ειδεναι",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "θωμας",
+      "lemma": [
+        "G2381"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2381",
+      "metadata": {},
+      "gematria": {
+        "standard": 1050,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "κυριε",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "οιδαμεν",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAI-1P",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 180,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "που",
+      "lemma": [
+        "G4226"
+      ],
+      "morph": "robinson:ADV-I",
+      "strongs": "G4226",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "υπαγεις",
+      "lemma": [
+        "G5217"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G5217",
+      "metadata": {},
+      "gematria": {
+        "standard": 699,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "πως",
+      "lemma": [
+        "G4459"
+      ],
+      "morph": "robinson:ADV-I",
+      "strongs": "G4459",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "δυναμεθα",
+      "lemma": [
+        "G1410"
+      ],
+      "morph": "robinson:V-PNI-1P",
+      "strongs": "G1410",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "οδον",
+      "lemma": [
+        "G3598"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3598",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "ειδεναι",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAN",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7316,
+    "ordinal": 215,
+    "reduced": 269
+  }
+}

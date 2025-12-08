@@ -1,0 +1,100 @@
+{
+  "text": "τοσαυτα επαθετε εικη ειγε και εικη",
+  "words": [
+    {
+      "position": 1,
+      "text": "τοσαυτα",
+      "lemma": [
+        "G5118"
+      ],
+      "morph": "robinson:D-APN",
+      "strongs": "G5118",
+      "metadata": {},
+      "gematria": {
+        "standard": 1272,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "επαθετε",
+      "lemma": [
+        "G3958"
+      ],
+      "morph": "robinson:V-2AAI-2P",
+      "strongs": "G3958",
+      "metadata": {},
+      "gematria": {
+        "standard": 405,
+        "ordinal": 28,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "εικη",
+      "lemma": [
+        "G1500"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1500",
+      "metadata": {},
+      "gematria": {
+        "standard": 43,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ειγε",
+      "lemma": [
+        "G1489"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1489",
+      "metadata": {},
+      "gematria": {
+        "standard": 23,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "εικη",
+      "lemma": [
+        "G1500"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1500",
+      "metadata": {},
+      "gematria": {
+        "standard": 43,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1817,
+    "ordinal": 92,
+    "reduced": 107
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "text": "εαν γαρ προσευχωμαι γλωσση το πνευμα μου προσευχεται ο δε νους μου ακαρπος εστιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "προσευχωμαι",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-PNS-1S",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 2306,
+        "ordinal": 66,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "γλωσση",
+      "lemma": [
+        "G1100"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1241,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "πνευμα",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "προσευχεται",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-PNI-3S",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 1771,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "νους",
+      "lemma": [
+        "G3563"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3563",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ακαρπος",
+      "lemma": [
+        "G175"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G175",
+      "metadata": {},
+      "gematria": {
+        "standard": 472,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9280,
+    "ordinal": 258,
+    "reduced": 271
+  }
+}

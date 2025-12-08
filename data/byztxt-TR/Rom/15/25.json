@@ -1,0 +1,130 @@
+{
+  "text": "νυνι δε πορευομαι εις ιερουσαλημ διακονων τοις αγιοις",
+  "words": [
+    {
+      "position": 1,
+      "text": "νυνι",
+      "lemma": [
+        "G3570"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3570",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πορευομαι",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-PNI-1S",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 776,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "ιερουσαλημ",
+      "lemma": [
+        "G2419"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2419",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "διακονων",
+      "lemma": [
+        "G1247"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G1247",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "αγιοις",
+      "lemma": [
+        "G40"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G40",
+      "metadata": {},
+      "gematria": {
+        "standard": 294,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4253,
+    "ordinal": 186,
+    "reduced": 167
+  }
+}

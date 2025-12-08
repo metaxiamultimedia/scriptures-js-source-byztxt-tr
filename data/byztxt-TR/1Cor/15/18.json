@@ -1,0 +1,115 @@
+{
+  "text": "αρα και οι κοιμηθεντες εν χριστω απωλοντο",
+  "words": [
+    {
+      "position": 1,
+      "text": "αρα",
+      "lemma": [
+        "G686"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G686",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 6,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "κοιμηθεντες",
+      "lemma": [
+        "G2837"
+      ],
+      "morph": "robinson:V-APP-NPM",
+      "strongs": "G2837",
+      "metadata": {},
+      "gematria": {
+        "standard": 717,
+        "ordinal": 66,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 5,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "χριστω",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 2010,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "απωλοντο",
+      "lemma": [
+        "G622"
+      ],
+      "morph": "robinson:V-2AMI-3P",
+      "strongs": "G622",
+      "metadata": {},
+      "gematria": {
+        "standard": 1401,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4396,
+    "ordinal": 141,
+    "reduced": 139
+  }
+}

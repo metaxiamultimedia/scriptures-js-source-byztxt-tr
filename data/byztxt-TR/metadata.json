@@ -1,0 +1,10 @@
+{
+  "abbreviation": "TR",
+  "name": "Textus Receptus (Robinson)",
+  "language": "Greek",
+  "license": "Public Domain",
+  "source": "byztxt",
+  "urls": [
+    "https://github.com/byztxt/greektext-textus-receptus"
+  ]
+}

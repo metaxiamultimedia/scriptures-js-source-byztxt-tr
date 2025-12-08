@@ -1,0 +1,145 @@
+{
+  "text": "αλλα τιμιω αιματι ως αμνου αμωμου και ασπιλου χριστου",
+  "words": [
+    {
+      "position": 1,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "τιμιω",
+      "lemma": [
+        "G5093"
+      ],
+      "morph": "robinson:A-DSN",
+      "strongs": "G5093",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "αιματι",
+      "lemma": [
+        "G129"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G129",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 21,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "αμνου",
+      "lemma": [
+        "G286"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G286",
+      "metadata": {},
+      "gematria": {
+        "standard": 561,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "αμωμου",
+      "lemma": [
+        "G299"
+      ],
+      "morph": "robinson:A-GSM",
+      "strongs": "G299",
+      "metadata": {},
+      "gematria": {
+        "standard": 1351,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "ασπιλου",
+      "lemma": [
+        "G784"
+      ],
+      "morph": "robinson:A-GSM",
+      "strongs": "G784",
+      "metadata": {},
+      "gematria": {
+        "standard": 791,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6998,
+    "ordinal": 147,
+    "reduced": 149
+  }
+}

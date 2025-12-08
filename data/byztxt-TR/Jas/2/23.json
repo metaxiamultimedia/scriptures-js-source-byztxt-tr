@@ -1,0 +1,310 @@
+{
+  "text": "και επληρωθη η γραφη η λεγουσα επιστευσεν δε αβρααμ τω θεω και ελογισθη αυτω εις δικαιοσυνην και φιλος θεου εκληθη",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "επληρωθη",
+      "lemma": [
+        "G4137"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G4137",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 36,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 3,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "γραφη",
+      "lemma": [
+        "G1124"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1124",
+      "metadata": {},
+      "gematria": {
+        "standard": 612,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "λεγουσα",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "επιστευσεν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1255,
+        "ordinal": 55,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "αβρααμ",
+      "lemma": [
+        "G11"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G11",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "ελογισθη",
+      "lemma": [
+        "G3049"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G3049",
+      "metadata": {},
+      "gematria": {
+        "standard": 335,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 16,
+      "text": "δικαιοσυνην",
+      "lemma": [
+        "G1343"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1343",
+      "metadata": {},
+      "gematria": {
+        "standard": 823,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 17,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 18,
+      "text": "φιλος",
+      "lemma": [
+        "G5384"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G5384",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 20,
+      "text": "εκληθη",
+      "lemma": [
+        "G2564"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G2564",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10041,
+    "ordinal": 351,
+    "reduced": 393
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "text": "ευτονως γαρ τοις ιουδαιοις διακατηλεγχετο δημοσια επιδεικνυς δια των γραφων ειναι τον χριστον ιησουν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ευτονως",
+      "lemma": [
+        "G2159"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2159",
+      "metadata": {},
+      "gematria": {
+        "standard": 1825,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιουδαιοις",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "διακατηλεγχετο",
+      "lemma": [
+        "G1246"
+      ],
+      "morph": "robinson:V-INI-3S",
+      "strongs": "G1246",
+      "metadata": {},
+      "gematria": {
+        "standard": 1357,
+        "ordinal": 105,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 6,
+      "text": "δημοσια",
+      "lemma": [
+        "G1219"
+      ],
+      "morph": "robinson:A-DSF",
+      "strongs": "G1219",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "επιδεικνυς",
+      "lemma": [
+        "G1925"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G1925",
+      "metadata": {},
+      "gematria": {
+        "standard": 784,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 8,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "γραφων",
+      "lemma": [
+        "G1124"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G1124",
+      "metadata": {},
+      "gematria": {
+        "standard": 1454,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "ειναι",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "χριστον",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "ιησουν",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10941,
+    "ordinal": 380,
+    "reduced": 321
+  }
+}

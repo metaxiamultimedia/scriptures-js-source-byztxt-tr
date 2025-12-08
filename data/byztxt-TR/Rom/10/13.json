@@ -1,0 +1,145 @@
+{
+  "text": "πας γαρ ος αν επικαλεσηται το ονομα κυριου σωθησεται",
+  "words": [
+    {
+      "position": 1,
+      "text": "πας",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "αν",
+      "lemma": [
+        "G302"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G302",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "επικαλεσηται",
+      "lemma": [
+        "G1941"
+      ],
+      "morph": "robinson:V-AMS-3S",
+      "strongs": "G1941",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 78,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "ονομα",
+      "lemma": [
+        "G3686"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G3686",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "σωθησεται",
+      "lemma": [
+        "G4982"
+      ],
+      "morph": "robinson:V-FPI-3S",
+      "strongs": "G4982",
+      "metadata": {},
+      "gematria": {
+        "standard": 1533,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4510,
+    "ordinal": 180,
+    "reduced": 163
+  }
+}

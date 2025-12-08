@@ -1,0 +1,250 @@
+{
+  "text": "ελεγxιν δε εσχεν ιδιας παρανομιας υποζυγιον αφωνον εν ανθρωπου φωνη φθεγxαμενον εκωλυσεν την του προφητου παραφρονιαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ελεγxιν",
+      "lemma": [
+        "G1649"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1649",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εσχεν",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιδιας",
+      "lemma": [
+        "G2398"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G2398",
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 15,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "παρανομιας",
+      "lemma": [
+        "G3892"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3892",
+      "metadata": {},
+      "gematria": {
+        "standard": 553,
+        "ordinal": 55,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "υποζυγιον",
+      "lemma": [
+        "G5268"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G5268",
+      "metadata": {},
+      "gematria": {
+        "standard": 1090,
+        "ordinal": 45,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 7,
+      "text": "αφωνον",
+      "lemma": [
+        "G880"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G880",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "ανθρωπου",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "φωνη",
+      "lemma": [
+        "G5456"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G5456",
+      "metadata": {},
+      "gematria": {
+        "standard": 1358,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "φθεγxαμενον",
+      "lemma": [
+        "G5350"
+      ],
+      "morph": "robinson:V-ANP-NSN",
+      "strongs": "G5350",
+      "metadata": {},
+      "gematria": {
+        "standard": 733,
+        "ordinal": 55,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 12,
+      "text": "εκωλυσεν",
+      "lemma": [
+        "G2967"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2967",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "προφητου",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1528,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 16,
+      "text": "παραφρονιαν",
+      "lemma": [
+        "G3913"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3913",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 66,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13096,
+    "ordinal": 429,
+    "reduced": 442
+  }
+}

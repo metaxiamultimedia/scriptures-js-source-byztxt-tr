@@ -1,0 +1,145 @@
+{
+  "text": "αι γυναικες τοις ιδιοις ανδρασιν υποτασσεσθε ως τω κυριω",
+  "words": [
+    {
+      "position": 1,
+      "text": "αι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 2,
+      "text": "γυναικες",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιδιοις",
+      "lemma": [
+        "G2398"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G2398",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανδρασιν",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 416,
+        "ordinal": 36,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "υποτασσεσθε",
+      "lemma": [
+        "G5293"
+      ],
+      "morph": "robinson:V-PMM-2P",
+      "strongs": "G5293",
+      "metadata": {},
+      "gematria": {
+        "standard": 1470,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 7,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "κυριω",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6900,
+    "ordinal": 193,
+    "reduced": 159
+  }
+}

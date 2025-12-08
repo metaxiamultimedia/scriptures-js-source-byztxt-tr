@@ -1,0 +1,175 @@
+{
+  "text": "εαν δε και αθλη τις ου στεφανουται εαν μη νομιμως αθληση",
+  "words": [
+    {
+      "position": 1,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "αθλη",
+      "lemma": [
+        "G118"
+      ],
+      "morph": "robinson:V-PAS-3S",
+      "strongs": "G118",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NSM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "στεφανουται",
+      "lemma": [
+        "G4737"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G4737",
+      "metadata": {},
+      "gematria": {
+        "standard": 1837,
+        "ordinal": 66,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 8,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "νομιμως",
+      "lemma": [
+        "G3545"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3545",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "αθληση",
+      "lemma": [
+        "G118"
+      ],
+      "morph": "robinson:V-AAS-3S",
+      "strongs": "G118",
+      "metadata": {},
+      "gematria": {
+        "standard": 256,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4531,
+    "ordinal": 158,
+    "reduced": 184
+  }
+}

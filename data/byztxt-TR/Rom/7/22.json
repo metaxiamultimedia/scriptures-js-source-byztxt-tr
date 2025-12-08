@@ -1,0 +1,160 @@
+{
+  "text": "συνηδομαι γαρ τω νομω του θεου κατα τον εσω ανθρωπον",
+  "words": [
+    {
+      "position": 1,
+      "text": "συνηδομαι",
+      "lemma": [
+        "G4913"
+      ],
+      "morph": "robinson:V-PNI-1S",
+      "strongs": "G4913",
+      "metadata": {},
+      "gematria": {
+        "standard": 783,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "νομω",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "εσω",
+      "lemma": [
+        "G2080"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2080",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "ανθρωπον",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7108,
+    "ordinal": 138,
+    "reduced": 196
+  }
+}

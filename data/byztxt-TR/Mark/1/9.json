@@ -1,0 +1,304 @@
+{
+  "text": "και εγενετο εν εκειναις ταις ημεραις ηλθεν ιησους απο ναζαρετ ναζαρεθ της γαλιλαιας και εβαπτισθη υπο ιωαννου εις τον ιορδανην",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "εγενετο",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "εκειναις",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-DPF",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "ταις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "ημεραις",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "ηλθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "ναζαρετ",
+      "lemma": null,
+      "morph": null,
+      "metadata": {},
+      "gematria": {
+        "standard": 464,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "ναζαρεθ",
+      "lemma": null,
+      "morph": null,
+      "metadata": {},
+      "gematria": {
+        "standard": 173,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 15,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "γαλιλαιας",
+      "lemma": [
+        "G1056"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1056",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 45,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 18,
+      "text": "εβαπτισθη",
+      "lemma": [
+        "G907"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G907",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 19,
+      "text": "υπο",
+      "lemma": [
+        "G5259"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5259",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 20,
+      "text": "ιωαννου",
+      "lemma": [
+        "G2491"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2491",
+      "metadata": {},
+      "gematria": {
+        "standard": 1381,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 21,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 22,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "ιορδανην",
+      "lemma": [
+        "G2446"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2446",
+      "metadata": {},
+      "gematria": {
+        "standard": 293,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7777,
+    "ordinal": 393,
+    "reduced": 397
+  }
+}

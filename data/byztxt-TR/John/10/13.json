@@ -1,0 +1,220 @@
+{
+  "text": "ο δε μισθωτος φευγει οτι μισθωτος εστιν και ου μελει αυτω περι των προβατων",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "μισθωτος",
+      "lemma": [
+        "G3411"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3411",
+      "metadata": {},
+      "gematria": {
+        "standard": 1629,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "φευγει",
+      "lemma": [
+        "G5343"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G5343",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "μισθωτος",
+      "lemma": [
+        "G3411"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3411",
+      "metadata": {},
+      "gematria": {
+        "standard": 1629,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 7,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "μελει",
+      "lemma": [
+        "G3199"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3199",
+      "metadata": {},
+      "gematria": {
+        "standard": 90,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "προβατων",
+      "lemma": [
+        "G4263"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G4263",
+      "metadata": {},
+      "gematria": {
+        "standard": 1403,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10045,
+    "ordinal": 204,
+    "reduced": 253
+  }
+}

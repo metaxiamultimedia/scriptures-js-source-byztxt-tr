@@ -1,0 +1,115 @@
+{
+  "text": "και δωσω αυτω τον αστερα τον πρωινον",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "δωσω",
+      "lemma": [
+        "G1325"
+      ],
+      "morph": "robinson:V-FAI-1S",
+      "strongs": "G1325",
+      "metadata": {},
+      "gematria": {
+        "standard": 1804,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "αστερα",
+      "lemma": [
+        "G792"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G792",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 21,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρωινον",
+      "lemma": [
+        "G4407"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G4407",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5943,
+    "ordinal": 87,
+    "reduced": 120
+  }
+}

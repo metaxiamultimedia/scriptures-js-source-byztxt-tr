@@ -1,0 +1,145 @@
+{
+  "text": "εχω ουν καυχησιν εν χριστω ιησου τα προς θεον",
+  "words": [
+    {
+      "position": 1,
+      "text": "εχω",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1405,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "καυχησιν",
+      "lemma": [
+        "G2746"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2746",
+      "metadata": {},
+      "gematria": {
+        "standard": 1289,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "χριστω",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 2010,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "θεον",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6852,
+    "ordinal": 110,
+    "reduced": 165
+  }
+}

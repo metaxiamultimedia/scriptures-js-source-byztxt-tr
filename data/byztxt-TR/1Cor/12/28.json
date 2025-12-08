@@ -1,0 +1,370 @@
+{
+  "text": "και ους μεν εθετο ο θεος εν τη εκκλησια πρωτον αποστολους δευτερον προφητας τριτον διδασκαλους επειτα δυναμεις ειτα χαρισματα ιαματων αντιληψεις κυβερνησεις γενη γλωσσων",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ους",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-APM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "εθετο",
+      "lemma": [
+        "G5087"
+      ],
+      "morph": "robinson:V-2AMI-3S",
+      "strongs": "G5087",
+      "metadata": {},
+      "gematria": {
+        "standard": 389,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "εκκλησια",
+      "lemma": [
+        "G1577"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1577",
+      "metadata": {},
+      "gematria": {
+        "standard": 294,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "πρωτον",
+      "lemma": [
+        "G4412"
+      ],
+      "morph": "robinson:ADV-S",
+      "strongs": "G4412",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "αποστολους",
+      "lemma": [
+        "G652"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G652",
+      "metadata": {},
+      "gematria": {
+        "standard": 1421,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "δευτερον",
+      "lemma": [
+        "G1208"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1208",
+      "metadata": {},
+      "gematria": {
+        "standard": 934,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "προφητας",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1259,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "τριτον",
+      "lemma": [
+        "G5154"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5154",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "διδασκαλους",
+      "lemma": [
+        "G1320"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G1320",
+      "metadata": {},
+      "gematria": {
+        "standard": 940,
+        "ordinal": 66,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 16,
+      "text": "επειτα",
+      "lemma": [
+        "G1899"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1899",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "δυναμεις",
+      "lemma": [
+        "G1411"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G1411",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 18,
+      "text": "ειτα",
+      "lemma": [
+        "G1534"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1534",
+      "metadata": {},
+      "gematria": {
+        "standard": 316,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "χαρισματα",
+      "lemma": [
+        "G5486"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G5486",
+      "metadata": {},
+      "gematria": {
+        "standard": 1253,
+        "ordinal": 45,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 20,
+      "text": "ιαματων",
+      "lemma": [
+        "G2386"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G2386",
+      "metadata": {},
+      "gematria": {
+        "standard": 1202,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 21,
+      "text": "αντιληψεις",
+      "lemma": [
+        "G484"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G484",
+      "metadata": {},
+      "gematria": {
+        "standard": 1314,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 22,
+      "text": "κυβερνησεις",
+      "lemma": [
+        "G2941"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G2941",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 66,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 23,
+      "text": "γενη",
+      "lemma": [
+        "G1085"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G1085",
+      "metadata": {},
+      "gematria": {
+        "standard": 66,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 24,
+      "text": "γλωσσων",
+      "lemma": [
+        "G1100"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G1100",
+      "metadata": {},
+      "gematria": {
+        "standard": 2083,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17325,
+    "ordinal": 620,
+    "reduced": 558
+  }
+}

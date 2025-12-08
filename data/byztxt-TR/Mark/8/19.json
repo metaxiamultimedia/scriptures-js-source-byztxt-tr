@@ -1,0 +1,250 @@
+{
+  "text": "οτε τους πεντε αρτους εκλασα εις τους πεντακισχιλιους ποσους κοφινους πληρεις κλασματων ηρατε λεγουσιν αυτω δωδεκα",
+  "words": [
+    {
+      "position": 1,
+      "text": "οτε",
+      "lemma": [
+        "G3753"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3753",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "πεντε",
+      "lemma": [
+        "G4002"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G4002",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "αρτους",
+      "lemma": [
+        "G740"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G740",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "εκλασα",
+      "lemma": [
+        "G2806"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G2806",
+      "metadata": {},
+      "gematria": {
+        "standard": 257,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "πεντακισχιλιους",
+      "lemma": [
+        "G4000"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G4000",
+      "metadata": {},
+      "gematria": {
+        "standard": 1986,
+        "ordinal": 120,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 9,
+      "text": "ποσους",
+      "lemma": [
+        "G4214"
+      ],
+      "morph": "robinson:Q-APM",
+      "strongs": "G4214",
+      "metadata": {},
+      "gematria": {
+        "standard": 1020,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "κοφινους",
+      "lemma": [
+        "G2894"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G2894",
+      "metadata": {},
+      "gematria": {
+        "standard": 1320,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "πληρεις",
+      "lemma": [
+        "G4134"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G4134",
+      "metadata": {},
+      "gematria": {
+        "standard": 433,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "κλασματων",
+      "lemma": [
+        "G2801"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G2801",
+      "metadata": {},
+      "gematria": {
+        "standard": 1442,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "ηρατε",
+      "lemma": [
+        "G142"
+      ],
+      "morph": "robinson:V-AAI-2P",
+      "strongs": "G142",
+      "metadata": {},
+      "gematria": {
+        "standard": 414,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "λεγουσιν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "δωδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1427",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14016,
+    "ordinal": 421,
+    "reduced": 372
+  }
+}

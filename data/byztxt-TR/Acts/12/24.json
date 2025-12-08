@@ -1,0 +1,130 @@
+{
+  "text": "ο δε λογος του θεου ηυxανεν και επληθυνετο",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "λογος",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ηυxανεν",
+      "lemma": [
+        "G837"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G837",
+      "metadata": {},
+      "gematria": {
+        "standard": 514,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "επληθυνετο",
+      "lemma": [
+        "G4129"
+      ],
+      "morph": "robinson:V-IPI-3S",
+      "strongs": "G4129",
+      "metadata": {},
+      "gematria": {
+        "standard": 957,
+        "ordinal": 55,
+        "reduced": 57
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3208,
+    "ordinal": 117,
+    "reduced": 166
+  }
+}

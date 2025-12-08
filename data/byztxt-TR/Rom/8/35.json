@@ -1,0 +1,325 @@
+{
+  "text": "τις ημας χωρισει απο της αγαπης του χριστου θλιψις η στενοχωρια η διωγμος η λιμος η γυμνοτης η κινδυνος η μαχαιρα",
+  "words": [
+    {
+      "position": 1,
+      "text": "τις",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-NSM",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ημας",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "χωρισει",
+      "lemma": [
+        "G5563"
+      ],
+      "morph": "robinson:V-FAI-3S",
+      "strongs": "G5563",
+      "metadata": {},
+      "gematria": {
+        "standard": 1725,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "αγαπης",
+      "lemma": [
+        "G26"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G26",
+      "metadata": {},
+      "gematria": {
+        "standard": 293,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "θλιψις",
+      "lemma": [
+        "G2347"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2347",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "στενοχωρια",
+      "lemma": [
+        "G4730"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4730",
+      "metadata": {},
+      "gematria": {
+        "standard": 2136,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 12,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "διωγμος",
+      "lemma": [
+        "G1375"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G1375",
+      "metadata": {},
+      "gematria": {
+        "standard": 1127,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "λιμος",
+      "lemma": [
+        "G3042"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3042",
+      "metadata": {},
+      "gematria": {
+        "standard": 350,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "γυμνοτης",
+      "lemma": [
+        "G1132"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1132",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 18,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 19,
+      "text": "κινδυνος",
+      "lemma": [
+        "G2794"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2794",
+      "metadata": {},
+      "gematria": {
+        "standard": 804,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 20,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 21,
+      "text": "μαχαιρα",
+      "lemma": [
+        "G3162"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3162",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 28,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13134,
+    "ordinal": 336,
+    "reduced": 372
+  }
+}

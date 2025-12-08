@@ -1,0 +1,115 @@
+{
+  "text": "υμεις δε βλεπετε ιδου προειρηκα υμιν παντα",
+  "words": [
+    {
+      "position": 1,
+      "text": "υμεις",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "βλεπετε",
+      "lemma": [
+        "G991"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G991",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιδου",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "προειρηκα",
+      "lemma": [
+        "G4302"
+      ],
+      "morph": "robinson:V-RAI-1S",
+      "strongs": "G4302",
+      "metadata": {},
+      "gematria": {
+        "standard": 394,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "παντα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2901,
+    "ordinal": 126,
+    "reduced": 138
+  }
+}

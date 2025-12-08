@@ -1,0 +1,145 @@
+{
+  "text": "κακεινοι ακουσαντες οτι ζη και εθεαθη υπ αυτης ηπιστησαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "κακεινοι",
+      "lemma": [
+        "G2548"
+      ],
+      "morph": "robinson:D-NPM-K",
+      "strongs": "G2548",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "ακουσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ζη",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "εθεαθη",
+      "lemma": [
+        "G2300"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G2300",
+      "metadata": {},
+      "gematria": {
+        "standard": 37,
+        "ordinal": 21,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "υπ",
+      "lemma": [
+        "G5259"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5259",
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "αυτης",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "ηπιστησαν",
+      "lemma": [
+        "G569"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G569",
+      "metadata": {},
+      "gematria": {
+        "standard": 857,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4142,
+    "ordinal": 190,
+    "reduced": 191
+  }
+}

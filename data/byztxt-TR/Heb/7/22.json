@@ -1,0 +1,115 @@
+{
+  "text": "κατα τοσουτον κρειττονος διαθηκης γεγονεν εγγυος ιησους",
+  "words": [
+    {
+      "position": 1,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "τοσουτον",
+      "lemma": [
+        "G5118"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G5118",
+      "metadata": {},
+      "gematria": {
+        "standard": 1460,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "κρειττονος",
+      "lemma": [
+        "G2909"
+      ],
+      "morph": "robinson:A-GSF-C",
+      "strongs": "G2909",
+      "metadata": {},
+      "gematria": {
+        "standard": 1125,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "διαθηκης",
+      "lemma": [
+        "G1242"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1242",
+      "metadata": {},
+      "gematria": {
+        "standard": 260,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "γεγονεν",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2RAI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "εγγυος",
+      "lemma": [
+        "G1450"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G1450",
+      "metadata": {},
+      "gematria": {
+        "standard": 681,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4922,
+    "ordinal": 207,
+    "reduced": 197
+  }
+}

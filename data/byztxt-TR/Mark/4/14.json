@@ -1,0 +1,85 @@
+{
+  "text": "ο σπειρων τον λογον σπειρει",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "σπειρων",
+      "lemma": [
+        "G4687"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G4687",
+      "metadata": {},
+      "gematria": {
+        "standard": 1245,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "σπειρει",
+      "lemma": [
+        "G4687"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G4687",
+      "metadata": {},
+      "gematria": {
+        "standard": 410,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2368,
+    "ordinal": 78,
+    "reduced": 100
+  }
+}

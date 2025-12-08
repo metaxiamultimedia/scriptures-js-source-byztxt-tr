@@ -1,0 +1,145 @@
+{
+  "text": "και γυνη τις ουσα εν ρυσει αιματος ετη δωδεκα",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "γυνη",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NSF",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "ουσα",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "ρυσει",
+      "lemma": [
+        "G4511"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4511",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "αιματος",
+      "lemma": [
+        "G129"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G129",
+      "metadata": {},
+      "gematria": {
+        "standard": 622,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "ετη",
+      "lemma": [
+        "G2094"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G2094",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "δωδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1427",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4212,
+    "ordinal": 105,
+    "reduced": 126
+  }
+}

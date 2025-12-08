@@ -1,0 +1,130 @@
+{
+  "text": "ερεις ουν εxεκλασθησαν οι κλαδοι ινα εγω εγκεντρισθω",
+  "words": [
+    {
+      "position": 1,
+      "text": "ερεις",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-FAI-2S",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "εxεκλασθησαν",
+      "lemma": [
+        "G1575"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G1575",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "κλαδοι",
+      "lemma": [
+        "G2798"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G2798",
+      "metadata": {},
+      "gematria": {
+        "standard": 135,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "εγκεντρισθω",
+      "lemma": [
+        "G1461"
+      ],
+      "morph": "robinson:V-APS-1S",
+      "strongs": "G1461",
+      "metadata": {},
+      "gematria": {
+        "standard": 1502,
+        "ordinal": 66,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3955,
+    "ordinal": 189,
+    "reduced": 166
+  }
+}

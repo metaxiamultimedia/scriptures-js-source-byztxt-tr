@@ -1,0 +1,325 @@
+{
+  "text": "αχρι δε ου εμελλεν ημερα γινεσθαι παρεκαλει ο παυλος απαντας μεταλαβειν τροφης λεγων τεσσαρεσκαιδεκατην σημερον ημεραν προσδοκωντες ασιτοι διατελειτε μηδεν προσλαβομενοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "αχρι",
+      "lemma": [
+        "G891"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G891",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 10,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ου",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "εμελλεν",
+      "lemma": [
+        "G3195"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G3195",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ημερα",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "γινεσθαι",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-PNN",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 288,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "παρεκαλει",
+      "lemma": [
+        "G3870"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G3870",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "παυλος",
+      "lemma": [
+        "G3972"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3972",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "απαντας",
+      "lemma": [
+        "G537"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G537",
+      "metadata": {},
+      "gematria": {
+        "standard": 633,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "μεταλαβειν",
+      "lemma": [
+        "G3335"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G3335",
+      "metadata": {},
+      "gematria": {
+        "standard": 444,
+        "ordinal": 55,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "τροφης",
+      "lemma": [
+        "G5160"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G5160",
+      "metadata": {},
+      "gematria": {
+        "standard": 1178,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "λεγων",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "τεσσαρεσκαιδεκατην",
+      "lemma": [
+        "G5065"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G5065",
+      "metadata": {},
+      "gematria": {
+        "standard": 1430,
+        "ordinal": 171,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 15,
+      "text": "σημερον",
+      "lemma": [
+        "G4594"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4594",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "ημεραν",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 204,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "προσδοκωντες",
+      "lemma": [
+        "G4328"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G4328",
+      "metadata": {},
+      "gematria": {
+        "standard": 1899,
+        "ordinal": 78,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 18,
+      "text": "ασιτοι",
+      "lemma": [
+        "G777"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G777",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "διατελειτε",
+      "lemma": [
+        "G1300"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G1300",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 55,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 20,
+      "text": "μηδεν",
+      "lemma": [
+        "G3367"
+      ],
+      "morph": "robinson:A-ASN-N",
+      "strongs": "G3367",
+      "metadata": {},
+      "gematria": {
+        "standard": 107,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 21,
+      "text": "προσλαβομενοι",
+      "lemma": [
+        "G4355"
+      ],
+      "morph": "robinson:V-2AMP-NPM",
+      "strongs": "G4355",
+      "metadata": {},
+      "gematria": {
+        "standard": 728,
+        "ordinal": 91,
+        "reduced": 53
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12145,
+    "ordinal": 761,
+    "reduced": 553
+  }
+}

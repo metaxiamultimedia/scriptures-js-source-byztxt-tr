@@ -1,0 +1,145 @@
+{
+  "text": "ο δε ιησους ειπεν ακμην και υμεις ασυνετοι εστε",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ακμην",
+      "lemma": [
+        "G188"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G188",
+      "metadata": {},
+      "gematria": {
+        "standard": 119,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "υμεις",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ασυνετοι",
+      "lemma": [
+        "G801"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G801",
+      "metadata": {},
+      "gematria": {
+        "standard": 1036,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "εστε",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3468,
+    "ordinal": 122,
+    "reduced": 147
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "text": "και παρων προς υμας και υστερηθεις ου κατεναρκησα ουδενος το γαρ υστερημα μου προσανεπληρωσαν οι αδελφοι ελθοντες απο μακεδονιας και εν παντι αβαρη υμιν εμαυτον ετηρησα και τηρησω",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "παρων",
+      "lemma": [
+        "G3918"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G3918",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "υστερηθεις",
+      "lemma": [
+        "G5302"
+      ],
+      "morph": "robinson:V-APP-NSM",
+      "strongs": "G5302",
+      "metadata": {},
+      "gematria": {
+        "standard": 1237,
+        "ordinal": 55,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 7,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "κατεναρκησα",
+      "lemma": [
+        "G2655"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G2655",
+      "metadata": {},
+      "gematria": {
+        "standard": 706,
+        "ordinal": 66,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
+      "text": "ουδενος",
+      "lemma": [
+        "G3762"
+      ],
+      "morph": "robinson:A-GSM-N",
+      "strongs": "G3762",
+      "metadata": {},
+      "gematria": {
+        "standard": 799,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 10,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 12,
+      "text": "υστερημα",
+      "lemma": [
+        "G5303"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G5303",
+      "metadata": {},
+      "gematria": {
+        "standard": 1054,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "προσανεπληρωσαν",
+      "lemma": [
+        "G4322"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G4322",
+      "metadata": {},
+      "gematria": {
+        "standard": 1775,
+        "ordinal": 120,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 15,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 16,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "ελθοντες",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 669,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 18,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "μακεδονιας",
+      "lemma": [
+        "G3109"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3109",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 20,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 21,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "παντι",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-DSN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 23,
+      "text": "αβαρη",
+      "lemma": [
+        "G4"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G4",
+      "metadata": {},
+      "gematria": {
+        "standard": 112,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 24,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 25,
+      "text": "εμαυτον",
+      "lemma": [
+        "G1683"
+      ],
+      "morph": "robinson:F-1ASM",
+      "strongs": "G1683",
+      "metadata": {},
+      "gematria": {
+        "standard": 866,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 26,
+      "text": "ετηρησα",
+      "lemma": [
+        "G5083"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G5083",
+      "metadata": {},
+      "gematria": {
+        "standard": 622,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 27,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 28,
+      "text": "τηρησω",
+      "lemma": [
+        "G5083"
+      ],
+      "morph": "robinson:V-FAI-1S",
+      "strongs": "G5083",
+      "metadata": {},
+      "gematria": {
+        "standard": 1416,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15204,
+    "ordinal": 630,
+    "reduced": 570
+  }
+}

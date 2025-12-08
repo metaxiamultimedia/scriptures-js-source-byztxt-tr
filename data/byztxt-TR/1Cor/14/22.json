@@ -1,0 +1,325 @@
+{
+  "text": "ωστε αι γλωσσαι εις σημειον εισιν ου τοις πιστευουσιν αλλα τοις απιστοις η δε προφητεια ου τοις απιστοις αλλα τοις πιστευουσιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ωστε",
+      "lemma": [
+        "G5620"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G5620",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "αι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 3,
+      "text": "γλωσσαι",
+      "lemma": [
+        "G1100"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G1100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1244,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "σημειον",
+      "lemma": [
+        "G4592"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G4592",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "εισιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "πιστευουσιν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAP-DPM",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1725,
+        "ordinal": 66,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "απιστοις",
+      "lemma": [
+        "G571"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G571",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 14,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "προφητεια",
+      "lemma": [
+        "G4394"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4394",
+      "metadata": {},
+      "gematria": {
+        "standard": 1074,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 16,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "απιστοις",
+      "lemma": [
+        "G571"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G571",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 21,
+      "text": "πιστευουσιν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAP-DPM",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1725,
+        "ordinal": 66,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13100,
+    "ordinal": 409,
+    "reduced": 374
+  }
+}

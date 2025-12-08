@@ -1,0 +1,130 @@
+{
+  "text": "εν σαρκι γαρ περιπατουντες ου κατα σαρκα στρατευομεθα",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "σαρκι",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 331,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 4,
+      "text": "περιπατουντες",
+      "lemma": [
+        "G4043"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G4043",
+      "metadata": {},
+      "gematria": {
+        "standard": 1601,
+        "ordinal": 91,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 5,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "σαρκα",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "στρατευομεθα",
+      "lemma": [
+        "G4754"
+      ],
+      "morph": "robinson:V-PMI-1P",
+      "strongs": "G4754",
+      "metadata": {},
+      "gematria": {
+        "standard": 1431,
+        "ordinal": 78,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4636,
+    "ordinal": 221,
+    "reduced": 145
+  }
+}

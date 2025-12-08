@@ -1,0 +1,100 @@
+{
+  "text": "ουτοι προελθοντες εμενον ημας εν τρωαδι",
+  "words": [
+    {
+      "position": 1,
+      "text": "ουτοι",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NPM",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "προελθοντες",
+      "lemma": [
+        "G4281"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G4281",
+      "metadata": {},
+      "gematria": {
+        "standard": 919,
+        "ordinal": 66,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 3,
+      "text": "εμενον",
+      "lemma": [
+        "G3306"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G3306",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "ημας",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "τρωαδι",
+      "lemma": [
+        "G5174"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G5174",
+      "metadata": {},
+      "gematria": {
+        "standard": 1215,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3508,
+    "ordinal": 136,
+    "reduced": 151
+  }
+}

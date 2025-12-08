@@ -1,0 +1,85 @@
+{
+  "text": "σπουδασον ελθειν προς με ταχεως",
+  "words": [
+    {
+      "position": 1,
+      "text": "σπουδασον",
+      "lemma": [
+        "G4704"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G4704",
+      "metadata": {},
+      "gematria": {
+        "standard": 1075,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 2,
+      "text": "ελθειν",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "με",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ταχεως",
+      "lemma": [
+        "G5030"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5030",
+      "metadata": {},
+      "gematria": {
+        "standard": 1906,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3585,
+    "ordinal": 100,
+    "reduced": 120
+  }
+}

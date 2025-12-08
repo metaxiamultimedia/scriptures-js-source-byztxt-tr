@@ -1,0 +1,250 @@
+{
+  "text": "καταλιποντες την ευθειαν οδον επλανηθησαν εxακολουθησαντες τη οδω του βαλααμ του βοσορ ος μισθον αδικιας ηγαπησεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "καταλιποντες",
+      "lemma": [
+        "G2641"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G2641",
+      "metadata": {},
+      "gematria": {
+        "standard": 1067,
+        "ordinal": 78,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 2,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ευθειαν",
+      "lemma": [
+        "G2117"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G2117",
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "οδον",
+      "lemma": [
+        "G3598"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3598",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "επλανηθησαν",
+      "lemma": [
+        "G4105"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G4105",
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 66,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "εxακολουθησαντες",
+      "lemma": [
+        "G1811"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G1811",
+      "metadata": {},
+      "gematria": {
+        "standard": 1369,
+        "ordinal": 120,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 7,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "οδω",
+      "lemma": [
+        "G3598"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G3598",
+      "metadata": {},
+      "gematria": {
+        "standard": 874,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "βαλααμ",
+      "lemma": [
+        "G903"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G903",
+      "metadata": {},
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "βοσορ",
+      "lemma": [
+        "G1007"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1007",
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "μισθον",
+      "lemma": [
+        "G3408"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3408",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "αδικιας",
+      "lemma": [
+        "G93"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G93",
+      "metadata": {},
+      "gematria": {
+        "standard": 246,
+        "ordinal": 28,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "ηγαπησεν",
+      "lemma": [
+        "G25"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G25",
+      "metadata": {},
+      "gematria": {
+        "standard": 355,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8399,
+    "ordinal": 453,
+    "reduced": 407
+  }
+}

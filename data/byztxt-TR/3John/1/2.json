@@ -1,0 +1,205 @@
+{
+  "text": "αγαπητε περι παντων ευχομαι σε ευοδουσθαι και υγιαινειν καθως ευοδουται σου η ψυχη",
+  "words": [
+    {
+      "position": 1,
+      "text": "αγαπητε",
+      "lemma": [
+        "G27"
+      ],
+      "morph": "robinson:A-VSM",
+      "strongs": "G27",
+      "metadata": {},
+      "gematria": {
+        "standard": 398,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "παντων",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GPN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ευχομαι",
+      "lemma": [
+        "G2172"
+      ],
+      "morph": "robinson:V-PNI-1S",
+      "strongs": "G2172",
+      "metadata": {},
+      "gematria": {
+        "standard": 1126,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "σε",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "ευοδουσθαι",
+      "lemma": [
+        "G2137"
+      ],
+      "morph": "robinson:V-PPN",
+      "strongs": "G2137",
+      "metadata": {},
+      "gematria": {
+        "standard": 1169,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "υγιαινειν",
+      "lemma": [
+        "G5198"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G5198",
+      "metadata": {},
+      "gematria": {
+        "standard": 539,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "καθως",
+      "lemma": [
+        "G2531"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2531",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "ευοδουται",
+      "lemma": [
+        "G2137"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G2137",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 11,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "ψυχη",
+      "lemma": [
+        "G5590"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G5590",
+      "metadata": {},
+      "gematria": {
+        "standard": 1708,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9620,
+    "ordinal": 273,
+    "reduced": 287
+  }
+}

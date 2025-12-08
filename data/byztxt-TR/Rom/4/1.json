@@ -1,0 +1,160 @@
+{
+  "text": "τι ουν ερουμεν αβρααμ τον πατερα ημων ευρηκεναι κατα σαρκα",
+  "words": [
+    {
+      "position": 1,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-ASN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ερουμεν",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-FAI-1P",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "αβρααμ",
+      "lemma": [
+        "G11"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G11",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "πατερα",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "ευρηκεναι",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-RAN",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 599,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 9,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "σαρκα",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4693,
+    "ordinal": 165,
+    "reduced": 166
+  }
+}

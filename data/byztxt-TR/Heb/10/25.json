@@ -1,0 +1,280 @@
+{
+  "text": "μη εγκαταλειποντες την επισυναγωγην εαυτων καθως εθος τισιν αλλα παρακαλουντες και τοσουτω μαλλον οσω βλεπετε εγγιζουσαν την ημεραν",
+  "words": [
+    {
+      "position": 1,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "εγκαταλειποντες",
+      "lemma": [
+        "G1459"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G1459",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 120,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 3,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "επισυναγωγην",
+      "lemma": [
+        "G1997"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1997",
+      "metadata": {},
+      "gematria": {
+        "standard": 1610,
+        "ordinal": 78,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 5,
+      "text": "εαυτων",
+      "lemma": [
+        "G1438"
+      ],
+      "morph": "robinson:F-1GPM",
+      "strongs": "G1438",
+      "metadata": {},
+      "gematria": {
+        "standard": 1556,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "καθως",
+      "lemma": [
+        "G2531"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2531",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "εθος",
+      "lemma": [
+        "G1485"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G1485",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "τισιν",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-DPM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 10,
+      "text": "παρακαλουντες",
+      "lemma": [
+        "G3870"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3870",
+      "metadata": {},
+      "gematria": {
+        "standard": 1258,
+        "ordinal": 91,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοσουτω",
+      "lemma": [
+        "G5118"
+      ],
+      "morph": "robinson:D-DSN",
+      "strongs": "G5118",
+      "metadata": {},
+      "gematria": {
+        "standard": 2140,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "μαλλον",
+      "lemma": [
+        "G3123"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3123",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "οσω",
+      "lemma": [
+        "G3745"
+      ],
+      "morph": "robinson:K-DSN",
+      "strongs": "G3745",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "βλεπετε",
+      "lemma": [
+        "G991"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G991",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 16,
+      "text": "εγγιζουσαν",
+      "lemma": [
+        "G1448"
+      ],
+      "morph": "robinson:V-PAP-ASF",
+      "strongs": "G1448",
+      "metadata": {},
+      "gematria": {
+        "standard": 749,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 17,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "ημεραν",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 204,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13056,
+    "ordinal": 540,
+    "reduced": 456
+  }
+}

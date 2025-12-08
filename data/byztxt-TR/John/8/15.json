@@ -1,0 +1,145 @@
+{
+  "text": "υμεις κατα την σαρκα κρινετε εγω ου κρινω ουδενα",
+  "words": [
+    {
+      "position": 1,
+      "text": "υμεις",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "σαρκα",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "κρινετε",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "κρινω",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "ουδενα",
+      "lemma": [
+        "G3762"
+      ],
+      "morph": "robinson:A-ASM-N",
+      "strongs": "G3762",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4935,
+    "ordinal": 119,
+    "reduced": 138
+  }
+}

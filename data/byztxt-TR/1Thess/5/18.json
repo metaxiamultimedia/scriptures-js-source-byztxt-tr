@@ -1,0 +1,190 @@
+{
+  "text": "εν παντι ευχαριστειτε τουτο γαρ θελημα θεου εν χριστω ιησου εις υμας",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "παντι",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-DSN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ευχαριστειτε",
+      "lemma": [
+        "G2168"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G2168",
+      "metadata": {},
+      "gematria": {
+        "standard": 1936,
+        "ordinal": 78,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 6,
+      "text": "θελημα",
+      "lemma": [
+        "G2307"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G2307",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "χριστω",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 2010,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7862,
+    "ordinal": 203,
+    "reduced": 221
+  }
+}

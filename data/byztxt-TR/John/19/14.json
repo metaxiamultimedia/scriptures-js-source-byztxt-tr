@@ -1,0 +1,265 @@
+{
+  "text": "ην δε παρασκευη του πασχα ωρα δε ωσει εκτη και λεγει τοις ιουδαιοις ιδε ο βασιλευς υμων",
+  "words": [
+    {
+      "position": 1,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "παρασκευη",
+      "lemma": [
+        "G3904"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3904",
+      "metadata": {},
+      "gematria": {
+        "standard": 815,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "πασχα",
+      "lemma": [
+        "G3957"
+      ],
+      "morph": "robinson:ARAM",
+      "strongs": "G3957",
+      "metadata": {},
+      "gematria": {
+        "standard": 882,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ωρα",
+      "lemma": [
+        "G5610"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G5610",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ωσει",
+      "lemma": [
+        "G5616"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5616",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "εκτη",
+      "lemma": [
+        "G1623"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G1623",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 13,
+      "text": "ιουδαιοις",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "ιδε",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 15,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "βασιλευς",
+      "lemma": [
+        "G935"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G935",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 36,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8458,
+    "ordinal": 230,
+    "reduced": 259
+  }
+}

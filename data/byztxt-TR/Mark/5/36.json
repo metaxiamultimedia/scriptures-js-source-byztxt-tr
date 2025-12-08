@@ -1,0 +1,235 @@
+{
+  "text": "ο δε ιησους ευθεως ακουσας τον λογον λαλουμενον λεγει τω αρχισυναγωγω μη φοβου μονον πιστευε",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "ευθεως",
+      "lemma": [
+        "G2112"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2112",
+      "metadata": {},
+      "gematria": {
+        "standard": 1419,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ακουσας",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "λαλουμενον",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PPP-ASM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 746,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 9,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "αρχισυναγωγω",
+      "lemma": [
+        "G752"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G752",
+      "metadata": {},
+      "gematria": {
+        "standard": 2968,
+        "ordinal": 78,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 12,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "φοβου",
+      "lemma": [
+        "G5399"
+      ],
+      "morph": "robinson:V-PNM-2S",
+      "strongs": "G5399",
+      "metadata": {},
+      "gematria": {
+        "standard": 1042,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "μονον",
+      "lemma": [
+        "G3440"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3440",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "πιστευε",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAM-2S",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11158,
+    "ordinal": 307,
+    "reduced": 340
+  }
+}

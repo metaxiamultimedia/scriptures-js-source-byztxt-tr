@@ -1,0 +1,115 @@
+{
+  "text": "εν υποκρισει ψευδολογων κεκαυτηριασμενων την ιδιαν συνειδησιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "υποκρισει",
+      "lemma": [
+        "G5272"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G5272",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "ψευδολογων",
+      "lemma": [
+        "G5573"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G5573",
+      "metadata": {},
+      "gematria": {
+        "standard": 2132,
+        "ordinal": 55,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 4,
+      "text": "κεκαυτηριασμενων",
+      "lemma": [
+        "G2743"
+      ],
+      "morph": "robinson:V-RPP-GPM",
+      "strongs": "G2743",
+      "metadata": {},
+      "gematria": {
+        "standard": 2010,
+        "ordinal": 136,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 5,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιδιαν",
+      "lemma": [
+        "G2398"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G2398",
+      "metadata": {},
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "συνειδησιν",
+      "lemma": [
+        "G4893"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4893",
+      "metadata": {},
+      "gematria": {
+        "standard": 937,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6462,
+    "ordinal": 315,
+    "reduced": 216
+  }
+}

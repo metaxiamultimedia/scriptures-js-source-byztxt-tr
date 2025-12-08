@@ -1,0 +1,115 @@
+{
+  "text": "οργη γαρ ανδρος δικαιοσυνην θεου ου κατεργαζεται",
+  "words": [
+    {
+      "position": 1,
+      "text": "οργη",
+      "lemma": [
+        "G3709"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3709",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ανδρος",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 425,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "δικαιοσυνην",
+      "lemma": [
+        "G1343"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1343",
+      "metadata": {},
+      "gematria": {
+        "standard": 823,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατεργαζεται",
+      "lemma": [
+        "G2716"
+      ],
+      "morph": "robinson:V-PNI-3S",
+      "strongs": "G2716",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3240,
+    "ordinal": 194,
+    "reduced": 153
+  }
+}

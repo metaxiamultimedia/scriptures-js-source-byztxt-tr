@@ -1,0 +1,100 @@
+{
+  "text": "εκεινον δει αυxανειν εμε δε ελαττουσθαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εκεινον",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-ASM",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 210,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "δει",
+      "lemma": [
+        "G1163"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1163",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυxανειν",
+      "lemma": [
+        "G837"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G837",
+      "metadata": {},
+      "gematria": {
+        "standard": 517,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "εμε",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ελαττουσθαι",
+      "lemma": [
+        "G1642"
+      ],
+      "morph": "robinson:V-PPN",
+      "strongs": "G1642",
+      "metadata": {},
+      "gematria": {
+        "standard": 1326,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2131,
+    "ordinal": 137,
+    "reduced": 124
+  }
+}

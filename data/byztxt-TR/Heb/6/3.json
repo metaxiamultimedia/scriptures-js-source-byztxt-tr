@@ -1,0 +1,115 @@
+{
+  "text": "και τουτο ποιησομεν εανπερ επιτρεπη ο θεος",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "ποιησομεν",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-FAI-1P",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 45,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "εανπερ",
+      "lemma": [
+        "G0"
+      ],
+      "morph": null,
+      "strongs": "G0",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "επιτρεπη",
+      "lemma": [
+        "G2010"
+      ],
+      "morph": "robinson:V-PAS-3S",
+      "strongs": "G2010",
+      "metadata": {},
+      "gematria": {
+        "standard": 588,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2887,
+    "ordinal": 134,
+    "reduced": 169
+  }
+}

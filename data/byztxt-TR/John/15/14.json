@@ -1,0 +1,160 @@
+{
+  "text": "υμεις φιλοι μου εστε εαν ποιητε οσα εγω εντελλομαι υμιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "υμεις",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "φιλοι",
+      "lemma": [
+        "G5384"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G5384",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "εστε",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ποιητε",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-PAS-2P",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "οσα",
+      "lemma": [
+        "G3745"
+      ],
+      "morph": "robinson:K-APN",
+      "strongs": "G3745",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "εντελλομαι",
+      "lemma": [
+        "G1781"
+      ],
+      "morph": "robinson:V-PNI-1S",
+      "strongs": "G1781",
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 10,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4944,
+    "ordinal": 150,
+    "reduced": 183
+  }
+}

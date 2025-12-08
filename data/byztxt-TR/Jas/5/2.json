@@ -1,0 +1,160 @@
+{
+  "text": "ο πλουτος υμων σεσηπεν και τα ιματια υμων σητοβρωτα γεγονεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "πλουτος",
+      "lemma": [
+        "G4149"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4149",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "σεσηπεν",
+      "lemma": [
+        "G4595"
+      ],
+      "morph": "robinson:V-2RAI-3S",
+      "strongs": "G4595",
+      "metadata": {},
+      "gematria": {
+        "standard": 548,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιματια",
+      "lemma": [
+        "G2440"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G2440",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 21,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "σητοβρωτα",
+      "lemma": [
+        "G4598"
+      ],
+      "morph": "robinson:A-NPN",
+      "strongs": "G4598",
+      "metadata": {},
+      "gematria": {
+        "standard": 1781,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "γεγονεν",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2RAI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7009,
+    "ordinal": 180,
+    "reduced": 205
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "text": "συνιδων τε ηλθεν επι την οικιαν μαριας της μητρος ιωαννου του επικαλουμενου μαρκου ου ησαν ικανοι συνηθροισμενοι και προσευχομενοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "συνιδων",
+      "lemma": [
+        "G4894"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G4894",
+      "metadata": {},
+      "gematria": {
+        "standard": 1514,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G5037",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "ηλθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "οικιαν",
+      "lemma": [
+        "G3614"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3614",
+      "metadata": {},
+      "gematria": {
+        "standard": 161,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "μαριας",
+      "lemma": [
+        "G3137"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3137",
+      "metadata": {},
+      "gematria": {
+        "standard": 352,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "μητρος",
+      "lemma": [
+        "G3384"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3384",
+      "metadata": {},
+      "gematria": {
+        "standard": 718,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιωαννου",
+      "lemma": [
+        "G2491"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2491",
+      "metadata": {},
+      "gematria": {
+        "standard": 1381,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "επικαλουμενου",
+      "lemma": [
+        "G1941"
+      ],
+      "morph": "robinson:V-PPP-GSM",
+      "strongs": "G1941",
+      "metadata": {},
+      "gematria": {
+        "standard": 1181,
+        "ordinal": 91,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 13,
+      "text": "μαρκου",
+      "lemma": [
+        "G3138"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3138",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "ου",
+      "lemma": [
+        "G3757"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3757",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ησαν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "ικανοι",
+      "lemma": [
+        "G2425"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G2425",
+      "metadata": {},
+      "gematria": {
+        "standard": 161,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "συνηθροισμενοι",
+      "lemma": [
+        "G4867"
+      ],
+      "morph": "robinson:V-RPP-NPM",
+      "strongs": "G4867",
+      "metadata": {},
+      "gematria": {
+        "standard": 1222,
+        "ordinal": 105,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 18,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 19,
+      "text": "προσευχομενοι",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-PNP-NPM",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 1700,
+        "ordinal": 91,
+        "reduced": 62
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11919,
+    "ordinal": 509,
+    "reduced": 453
+  }
+}

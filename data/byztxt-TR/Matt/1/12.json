@@ -1,0 +1,220 @@
+{
+  "text": "μετα δε την μετοικεσιαν βαβυλωνος ιεχονιας εγεννησεν τον σαλαθιηλ σαλαθιηλ δε εγεννησεν τον ζοροβαβελ",
+  "words": [
+    {
+      "position": 1,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "μετοικεσιαν",
+      "lemma": [
+        "G3350"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3350",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 66,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "βαβυλωνος",
+      "lemma": [
+        "G897"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G897",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιεχονιας",
+      "lemma": [
+        "G2423"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2423",
+      "metadata": {},
+      "gematria": {
+        "standard": 946,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "εγεννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1080",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "σαλαθιηλ",
+      "lemma": [
+        "G4528"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G4528",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "σαλαθιηλ",
+      "lemma": [
+        "G4528"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G4528",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "εγεννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1080",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 13,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ζοροβαβελ",
+      "lemma": [
+        "G2216"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2216",
+      "metadata": {},
+      "gematria": {
+        "standard": 287,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6391,
+    "ordinal": 388,
+    "reduced": 352
+  }
+}

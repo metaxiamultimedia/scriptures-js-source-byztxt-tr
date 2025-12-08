@@ -1,0 +1,265 @@
+{
+  "text": "και δια τουτο εδιωκον τον ιησουν οι ιουδαιοι και εζητουν αυτον αποκτειναι οτι ταυτα εποιει εν σαββατω",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "εδιωκον",
+      "lemma": [
+        "G1377"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G1377",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιησουν",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "ιουδαιοι",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 575,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "εζητουν",
+      "lemma": [
+        "G2212"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G2212",
+      "metadata": {},
+      "gematria": {
+        "standard": 840,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "αποκτειναι",
+      "lemma": [
+        "G615"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G615",
+      "metadata": {},
+      "gematria": {
+        "standard": 547,
+        "ordinal": 55,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ταυτα",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-APN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "εποιει",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 180,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 16,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "σαββατω",
+      "lemma": [
+        "G4521"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G4521",
+      "metadata": {},
+      "gematria": {
+        "standard": 1306,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9120,
+    "ordinal": 298,
+    "reduced": 318
+  }
+}

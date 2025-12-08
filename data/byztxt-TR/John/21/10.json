@@ -1,0 +1,175 @@
+{
+  "text": "λεγει αυτοις ο ιησους ενεγκατε απο των οψαριων ων επιασατε νυν",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ενεγκατε",
+      "lemma": [
+        "G5342"
+      ],
+      "morph": "robinson:V-AAM-2P",
+      "strongs": "G5342",
+      "metadata": {},
+      "gematria": {
+        "standard": 389,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "οψαριων",
+      "lemma": [
+        "G3795"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G3795",
+      "metadata": {},
+      "gematria": {
+        "standard": 1731,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "ων",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GPN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "επιασατε",
+      "lemma": [
+        "G4084"
+      ],
+      "morph": "robinson:V-AAI-2P",
+      "strongs": "G4084",
+      "metadata": {},
+      "gematria": {
+        "standard": 602,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "νυν",
+      "lemma": [
+        "G3568"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3568",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7365,
+    "ordinal": 179,
+    "reduced": 210
+  }
+}

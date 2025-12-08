@@ -1,0 +1,115 @@
+{
+  "text": "ηκουσατε οτι ερρεθη τοις αρχαιοις ου μοιχευσεις",
+  "words": [
+    {
+      "position": 1,
+      "text": "ηκουσατε",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAI-2P",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ερρεθη",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 227,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "αρχαιοις",
+      "lemma": [
+        "G744"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G744",
+      "metadata": {},
+      "gematria": {
+        "standard": 992,
+        "ordinal": 36,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "μοιχευσεις",
+      "lemma": [
+        "G3431"
+      ],
+      "morph": "robinson:V-FAI-2S",
+      "strongs": "G3431",
+      "metadata": {},
+      "gematria": {
+        "standard": 1540,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5193,
+    "ordinal": 167,
+    "reduced": 153
+  }
+}

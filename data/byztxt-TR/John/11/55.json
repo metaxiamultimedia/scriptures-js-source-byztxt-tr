@@ -1,0 +1,325 @@
+{
+  "text": "ην δε εγγυς το πασχα των ιουδαιων και ανεβησαν πολλοι εις ιεροσολυμα εκ της χωρας προ του πασχα ινα αγνισωσιν εαυτους",
+  "words": [
+    {
+      "position": 1,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εγγυς",
+      "lemma": [
+        "G1451"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1451",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "πασχα",
+      "lemma": [
+        "G3957"
+      ],
+      "morph": "robinson:ARAM",
+      "strongs": "G3957",
+      "metadata": {},
+      "gematria": {
+        "standard": 882,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιουδαιων",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "ανεβησαν",
+      "lemma": [
+        "G305"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G305",
+      "metadata": {},
+      "gematria": {
+        "standard": 317,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "πολλοι",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "ιεροσολυμα",
+      "lemma": [
+        "G2414"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G2414",
+      "metadata": {},
+      "gematria": {
+        "standard": 926,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 13,
+      "text": "εκ",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "χωρας",
+      "lemma": [
+        "G5561"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G5561",
+      "metadata": {},
+      "gematria": {
+        "standard": 1701,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "προ",
+      "lemma": [
+        "G4253"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4253",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "πασχα",
+      "lemma": [
+        "G3957"
+      ],
+      "morph": "robinson:ARAM",
+      "strongs": "G3957",
+      "metadata": {},
+      "gematria": {
+        "standard": 882,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "αγνισωσιν",
+      "lemma": [
+        "G48"
+      ],
+      "morph": "robinson:V-AAS-3P",
+      "strongs": "G48",
+      "metadata": {},
+      "gematria": {
+        "standard": 1324,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "εαυτους",
+      "lemma": [
+        "G1438"
+      ],
+      "morph": "robinson:F-3APM",
+      "strongs": "G1438",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13101,
+    "ordinal": 335,
+    "reduced": 366
+  }
+}

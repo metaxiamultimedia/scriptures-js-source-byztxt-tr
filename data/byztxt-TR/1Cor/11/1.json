@@ -1,0 +1,100 @@
+{
+  "text": "μιμηται μου γινεσθε καθως καγω χριστου",
+  "words": [
+    {
+      "position": 1,
+      "text": "μιμηται",
+      "lemma": [
+        "G3402"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G3402",
+      "metadata": {},
+      "gematria": {
+        "standard": 409,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "γινεσθε",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-PNM-2P",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "καθως",
+      "lemma": [
+        "G2531"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2531",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "καγω",
+      "lemma": [
+        "G2504"
+      ],
+      "morph": "robinson:P-1NS-K",
+      "strongs": "G2504",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4735,
+    "ordinal": 115,
+    "reduced": 127
+  }
+}

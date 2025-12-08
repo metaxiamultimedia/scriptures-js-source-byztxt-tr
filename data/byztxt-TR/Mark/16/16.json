@@ -1,0 +1,145 @@
+{
+  "text": "ο πιστευσας και βαπτισθεις σωθησεται ο δε απιστησας κατακριθησεται",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "πιστευσας",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1396,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "βαπτισθεις",
+      "lemma": [
+        "G907"
+      ],
+      "morph": "robinson:V-APP-NSM",
+      "strongs": "G907",
+      "metadata": {},
+      "gematria": {
+        "standard": 817,
+        "ordinal": 55,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "σωθησεται",
+      "lemma": [
+        "G4982"
+      ],
+      "morph": "robinson:V-FPI-3S",
+      "strongs": "G4982",
+      "metadata": {},
+      "gematria": {
+        "standard": 1533,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "απιστησας",
+      "lemma": [
+        "G569"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G569",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "κατακριθησεται",
+      "lemma": [
+        "G2632"
+      ],
+      "morph": "robinson:V-FPI-3S",
+      "strongs": "G2632",
+      "metadata": {},
+      "gematria": {
+        "standard": 985,
+        "ordinal": 105,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5911,
+    "ordinal": 306,
+    "reduced": 196
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "text": "αλλα γενομενος εν ρωμη σπουδαιοτερον εζητησεν με και ευρεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "γενομενος",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADP-NSM",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ρωμη",
+      "lemma": [
+        "G4516"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4516",
+      "metadata": {},
+      "gematria": {
+        "standard": 948,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "σπουδαιοτερον",
+      "lemma": [
+        "G4705"
+      ],
+      "morph": "robinson:A-ASM-C",
+      "strongs": "G4705",
+      "metadata": {},
+      "gematria": {
+        "standard": 1360,
+        "ordinal": 91,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "εζητησεν",
+      "lemma": [
+        "G2212"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2212",
+      "metadata": {},
+      "gematria": {
+        "standard": 583,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "με",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "ευρεν",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4137,
+    "ordinal": 219,
+    "reduced": 213
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "text": "οτε δε ηγγισεν ο καιρος των καρπων απεστειλεν τους δουλους αυτου προς τους γεωργους λαβειν τους καρπους αυτου",
+  "words": [
+    {
+      "position": 1,
+      "text": "οτε",
+      "lemma": [
+        "G3753"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3753",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ηγγισεν",
+      "lemma": [
+        "G1448"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1448",
+      "metadata": {},
+      "gematria": {
+        "standard": 279,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "καιρος",
+      "lemma": [
+        "G2540"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2540",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "καρπων",
+      "lemma": [
+        "G2590"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G2590",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "απεστειλεν",
+      "lemma": [
+        "G649"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G649",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "δουλους",
+      "lemma": [
+        "G1401"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G1401",
+      "metadata": {},
+      "gematria": {
+        "standard": 1174,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "γεωργους",
+      "lemma": [
+        "G1092"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G1092",
+      "metadata": {},
+      "gematria": {
+        "standard": 1581,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "λαβειν",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "καρπους",
+      "lemma": [
+        "G2590"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G2590",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13447,
+    "ordinal": 324,
+    "reduced": 361
+  }
+}

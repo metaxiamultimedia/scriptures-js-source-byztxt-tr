@@ -1,0 +1,280 @@
+{
+  "text": "ουαι υμιν γραμματεις και φαρισαιοι υποκριται οτι οικοδομειτε τους ταφους των προφητων και κοσμειτε τα μνημεια των δικαιων",
+  "words": [
+    {
+      "position": 1,
+      "text": "ουαι",
+      "lemma": [
+        "G3759"
+      ],
+      "morph": "robinson:INJ",
+      "strongs": "G3759",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "γραμματεις",
+      "lemma": [
+        "G1122"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G1122",
+      "metadata": {},
+      "gematria": {
+        "standard": 700,
+        "ordinal": 55,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "φαρισαιοι",
+      "lemma": [
+        "G5330"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G5330",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 45,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "υποκριται",
+      "lemma": [
+        "G5273"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G5273",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "οικοδομειτε",
+      "lemma": [
+        "G3618"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G3618",
+      "metadata": {},
+      "gematria": {
+        "standard": 604,
+        "ordinal": 66,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ταφους",
+      "lemma": [
+        "G5028"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G5028",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "προφητων",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1908,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "κοσμειτε",
+      "lemma": [
+        "G2885"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G2885",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 15,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 16,
+      "text": "μνημεια",
+      "lemma": [
+        "G3419"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G3419",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "δικαιων",
+      "lemma": [
+        "G1342"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G1342",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13269,
+    "ordinal": 423,
+    "reduced": 363
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "text": "αυτη κατακολουθησασα τω παυλω και ημιν εκραζεν λεγουσα ουτοι οι ανθρωποι δουλοι του θεου του υψιστου εισιν οιτινες καταγγελλουσιν ημιν οδον σωτηριας",
+  "words": [
+    {
+      "position": 1,
+      "text": "αυτη",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSF",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "κατακολουθησασα",
+      "lemma": [
+        "G2628"
+      ],
+      "morph": "robinson:V-AAP-NSF",
+      "strongs": "G2628",
+      "metadata": {},
+      "gematria": {
+        "standard": 1331,
+        "ordinal": 120,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "παυλω",
+      "lemma": [
+        "G3972"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3972",
+      "metadata": {},
+      "gematria": {
+        "standard": 1311,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "ημιν",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "εκραζεν",
+      "lemma": [
+        "G2896"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G2896",
+      "metadata": {},
+      "gematria": {
+        "standard": 188,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "λεγουσα",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ουτοι",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NPM",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "ανθρωποι",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "δουλοι",
+      "lemma": [
+        "G1401"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G1401",
+      "metadata": {},
+      "gematria": {
+        "standard": 584,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "υψιστου",
+      "lemma": [
+        "G5310"
+      ],
+      "morph": "robinson:A-GSM-S",
+      "strongs": "G5310",
+      "metadata": {},
+      "gematria": {
+        "standard": 2080,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "εισιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "οιτινες",
+      "lemma": [
+        "G3748"
+      ],
+      "morph": "robinson:R-NPM",
+      "strongs": "G3748",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "καταγγελλουσιν",
+      "lemma": [
+        "G2605"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G2605",
+      "metadata": {},
+      "gematria": {
+        "standard": 1123,
+        "ordinal": 105,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 20,
+      "text": "ημιν",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 21,
+      "text": "οδον",
+      "lemma": [
+        "G3598"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3598",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 22,
+      "text": "σωτηριας",
+      "lemma": [
+        "G4991"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4991",
+      "metadata": {},
+      "gematria": {
+        "standard": 1619,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16189,
+    "ordinal": 549,
+    "reduced": 502
+  }
+}

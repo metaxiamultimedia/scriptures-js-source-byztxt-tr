@@ -1,0 +1,145 @@
+{
+  "text": "πιστει μωσης μεγας γενομενος ηρνησατο λεγεσθαι υιος θυγατρος φαραω",
+  "words": [
+    {
+      "position": 1,
+      "text": "πιστει",
+      "lemma": [
+        "G4102"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4102",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "μωσης",
+      "lemma": [
+        "G3475"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3475",
+      "metadata": {},
+      "gematria": {
+        "standard": 1248,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "μεγας",
+      "lemma": [
+        "G3173"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G3173",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "γενομενος",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADP-NSM",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 5,
+      "text": "ηρνησατο",
+      "lemma": [
+        "G720"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G720",
+      "metadata": {},
+      "gematria": {
+        "standard": 737,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "λεγεσθαι",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PPN",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 263,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "υιος",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "θυγατρος",
+      "lemma": [
+        "G2364"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2364",
+      "metadata": {},
+      "gematria": {
+        "standard": 1083,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "φαραω",
+      "lemma": [
+        "G5328"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G5328",
+      "metadata": {},
+      "gematria": {
+        "standard": 1402,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6760,
+    "ordinal": 229,
+    "reduced": 226
+  }
+}

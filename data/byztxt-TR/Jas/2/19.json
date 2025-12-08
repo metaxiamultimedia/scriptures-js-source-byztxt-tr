@@ -1,0 +1,235 @@
+{
+  "text": "συ πιστευεις οτι ο θεος εις εστιν καλως ποιεις και τα δαιμονια πιστευουσιν και φρισσουσιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "συ",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "πιστευεις",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "εις",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "καλως",
+      "lemma": [
+        "G2573"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2573",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ποιεις",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "δαιμονια",
+      "lemma": [
+        "G1140"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G1140",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "πιστευουσιν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1725,
+        "ordinal": 66,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 14,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "φρισσουσιν",
+      "lemma": [
+        "G5425"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G5425",
+      "metadata": {},
+      "gematria": {
+        "standard": 1740,
+        "ordinal": 55,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8764,
+    "ordinal": 294,
+    "reduced": 250
+  }
+}

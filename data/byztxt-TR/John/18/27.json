@@ -1,0 +1,145 @@
+{
+  "text": "παλιν ουν ηρνησατο ο πετρος και ευθεως αλεκτωρ εφωνησεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "παλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3825",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ηρνησατο",
+      "lemma": [
+        "G720"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G720",
+      "metadata": {},
+      "gematria": {
+        "standard": 737,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "πετρος",
+      "lemma": [
+        "G4074"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4074",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "ευθεως",
+      "lemma": [
+        "G2112"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2112",
+      "metadata": {},
+      "gematria": {
+        "standard": 1419,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "αλεκτωρ",
+      "lemma": [
+        "G220"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G220",
+      "metadata": {},
+      "gematria": {
+        "standard": 1256,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "εφωνησεν",
+      "lemma": [
+        "G5455"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G5455",
+      "metadata": {},
+      "gematria": {
+        "standard": 1618,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6577,
+    "ordinal": 170,
+    "reduced": 205
+  }
+}

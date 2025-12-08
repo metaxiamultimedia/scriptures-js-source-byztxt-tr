@@ -1,0 +1,160 @@
+{
+  "text": "αχρις ου ανεστη βασιλευς ετερος ος ουκ ηδει τον ιωσηφ",
+  "words": [
+    {
+      "position": 1,
+      "text": "αχρις",
+      "lemma": [
+        "G891"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G891",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ου",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ανεστη",
+      "lemma": [
+        "G450"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G450",
+      "metadata": {},
+      "gematria": {
+        "standard": 564,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "βασιλευς",
+      "lemma": [
+        "G935"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G935",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 36,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "ετερος",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "ηδει",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-2LAI-3S",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 27,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιωσηφ",
+      "lemma": [
+        "G2501"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2501",
+      "metadata": {},
+      "gematria": {
+        "standard": 1518,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6198,
+    "ordinal": 136,
+    "reduced": 168
+  }
+}

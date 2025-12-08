@@ -1,0 +1,310 @@
+{
+  "text": "και γυναικες τινες αι ησαν τεθεραπευμεναι απο πνευματων πονηρων και ασθενειων μαρια η καλουμενη μαγδαληνη αφ ης δαιμονια επτα εxεληλυθει",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "γυναικες",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NPF",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "αι",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NPF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 5,
+      "text": "ησαν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "τεθεραπευμεναι",
+      "lemma": [
+        "G2323"
+      ],
+      "morph": "robinson:V-RPP-NPF",
+      "strongs": "G2323",
+      "metadata": {},
+      "gematria": {
+        "standard": 1011,
+        "ordinal": 105,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 7,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "πνευματων",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 1726,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "πονηρων",
+      "lemma": [
+        "G4190"
+      ],
+      "morph": "robinson:A-GPN",
+      "strongs": "G4190",
+      "metadata": {},
+      "gematria": {
+        "standard": 1158,
+        "ordinal": 28,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "ασθενειων",
+      "lemma": [
+        "G769"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G769",
+      "metadata": {},
+      "gematria": {
+        "standard": 1130,
+        "ordinal": 45,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 12,
+      "text": "μαρια",
+      "lemma": [
+        "G3137"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3137",
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 15,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 14,
+      "text": "καλουμενη",
+      "lemma": [
+        "G2564"
+      ],
+      "morph": "robinson:V-PPP-NSF",
+      "strongs": "G2564",
+      "metadata": {},
+      "gematria": {
+        "standard": 624,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 15,
+      "text": "μαγδαληνη",
+      "lemma": [
+        "G3094"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3094",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 45,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 16,
+      "text": "αφ",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "ης",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "δαιμονια",
+      "lemma": [
+        "G1140"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G1140",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "επτα",
+      "lemma": [
+        "G2033"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G2033",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 20,
+      "text": "εxεληλυθει",
+      "lemma": [
+        "G1831"
+      ],
+      "morph": "robinson:V-2LAI-3S",
+      "strongs": "G1831",
+      "metadata": {},
+      "gematria": {
+        "standard": 502,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9474,
+    "ordinal": 508,
+    "reduced": 456
+  }
+}

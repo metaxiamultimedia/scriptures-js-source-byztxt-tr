@@ -1,0 +1,310 @@
+{
+  "text": "ουχι η γραφη ειπεν οτι εκ του σπερματος δαβιδ και απο βηθλεεμ της κωμης οπου ην δαβιδ ο χριστος ερχεται",
+  "words": [
+    {
+      "position": 1,
+      "text": "ουχι",
+      "lemma": [
+        "G3780"
+      ],
+      "morph": "robinson:PRT-I",
+      "strongs": "G3780",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "γραφη",
+      "lemma": [
+        "G1124"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1124",
+      "metadata": {},
+      "gematria": {
+        "standard": 612,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "εκ",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "σπερματος",
+      "lemma": [
+        "G4690"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G4690",
+      "metadata": {},
+      "gematria": {
+        "standard": 996,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 9,
+      "text": "δαβιδ",
+      "lemma": [
+        "G1138"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1138",
+      "metadata": {},
+      "gematria": {
+        "standard": 21,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "βηθλεεμ",
+      "lemma": [
+        "G965"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G965",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 28,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 13,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 14,
+      "text": "κωμης",
+      "lemma": [
+        "G2968"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2968",
+      "metadata": {},
+      "gematria": {
+        "standard": 1068,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "οπου",
+      "lemma": [
+        "G3699"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3699",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 16,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 17,
+      "text": "δαβιδ",
+      "lemma": [
+        "G1138"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1138",
+      "metadata": {},
+      "gematria": {
+        "standard": 21,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 19,
+      "text": "χριστος",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 20,
+      "text": "ερχεται",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-PNI-3S",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9169,
+    "ordinal": 262,
+    "reduced": 340
+  }
+}

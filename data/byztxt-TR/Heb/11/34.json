@@ -1,0 +1,250 @@
+{
+  "text": "εσβεσαν δυναμιν πυρος εφυγον στοματα μαχαιρας ενεδυναμωθησαν απο ασθενειας εγενηθησαν ισχυροι εν πολεμω παρεμβολας εκλιναν αλλοτριων",
+  "words": [
+    {
+      "position": 1,
+      "text": "εσβεσαν",
+      "lemma": [
+        "G4570"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G4570",
+      "metadata": {},
+      "gematria": {
+        "standard": 463,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "δυναμιν",
+      "lemma": [
+        "G1411"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1411",
+      "metadata": {},
+      "gematria": {
+        "standard": 555,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "πυρος",
+      "lemma": [
+        "G4442"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G4442",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "εφυγον",
+      "lemma": [
+        "G5343"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G5343",
+      "metadata": {},
+      "gematria": {
+        "standard": 1028,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "στοματα",
+      "lemma": [
+        "G4750"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G4750",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "μαχαιρας",
+      "lemma": [
+        "G3162"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3162",
+      "metadata": {},
+      "gematria": {
+        "standard": 953,
+        "ordinal": 36,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ενεδυναμωθησαν",
+      "lemma": [
+        "G1743"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G1743",
+      "metadata": {},
+      "gematria": {
+        "standard": 1623,
+        "ordinal": 105,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 8,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ασθενειας",
+      "lemma": [
+        "G769"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G769",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "εγενηθησαν",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-AOI-3P",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 339,
+        "ordinal": 55,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 11,
+      "text": "ισχυροι",
+      "lemma": [
+        "G2478"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G2478",
+      "metadata": {},
+      "gematria": {
+        "standard": 1390,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "πολεμω",
+      "lemma": [
+        "G4171"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G4171",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "παρεμβολας",
+      "lemma": [
+        "G3925"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G3925",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 55,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
+      "text": "εκλιναν",
+      "lemma": [
+        "G2827"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G2827",
+      "metadata": {},
+      "gematria": {
+        "standard": 166,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "αλλοτριων",
+      "lemma": [
+        "G245"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G245",
+      "metadata": {},
+      "gematria": {
+        "standard": 1391,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11911,
+    "ordinal": 547,
+    "reduced": 454
+  }
+}

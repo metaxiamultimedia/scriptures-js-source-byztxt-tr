@@ -1,0 +1,340 @@
+{
+  "text": "ου γαρ ινα αλλοις ανεσις υμιν δε θλιψις αλλ εx ισοτητος εν τω νυν καιρω το υμων περισσευμα εις το εκεινων υστερημα",
+  "words": [
+    {
+      "position": 1,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "αλλοις",
+      "lemma": [
+        "G243"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G243",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανεσις",
+      "lemma": [
+        "G425"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G425",
+      "metadata": {},
+      "gematria": {
+        "standard": 466,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "θλιψις",
+      "lemma": [
+        "G2347"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2347",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "αλλ",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "εx",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 5,
+        "ordinal": 1,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 11,
+      "text": "ισοτητος",
+      "lemma": [
+        "G2471"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2471",
+      "metadata": {},
+      "gematria": {
+        "standard": 1158,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "νυν",
+      "lemma": [
+        "G3568"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3568",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "καιρω",
+      "lemma": [
+        "G2540"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2540",
+      "metadata": {},
+      "gematria": {
+        "standard": 931,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "περισσευμα",
+      "lemma": [
+        "G4051"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G4051",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 55,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 19,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "εκεινων",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-GPM",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 940,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 22,
+      "text": "υστερημα",
+      "lemma": [
+        "G5303"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G5303",
+      "metadata": {},
+      "gematria": {
+        "standard": 1054,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12000,
+    "ordinal": 302,
+    "reduced": 336
+  }
+}

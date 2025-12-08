@@ -1,0 +1,130 @@
+{
+  "text": "ασπασαι πρισκαν και ακυλαν και τον ονησιφορου οικον",
+  "words": [
+    {
+      "position": 1,
+      "text": "ασπασαι",
+      "lemma": [
+        "G782"
+      ],
+      "morph": "robinson:V-ADM-2S",
+      "strongs": "G782",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 28,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "πρισκαν",
+      "lemma": [
+        "G4251"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4251",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "ακυλαν",
+      "lemma": [
+        "G207"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G207",
+      "metadata": {},
+      "gematria": {
+        "standard": 502,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ονησιφορου",
+      "lemma": [
+        "G3683"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3683",
+      "metadata": {},
+      "gematria": {
+        "standard": 1478,
+        "ordinal": 55,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 8,
+      "text": "οικον",
+      "lemma": [
+        "G3624"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3624",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3636,
+    "ordinal": 165,
+    "reduced": 144
+  }
+}

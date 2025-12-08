@@ -1,0 +1,205 @@
+{
+  "text": "εσονται γαρ οι ανθρωποι φιλαυτοι φιλαργυροι αλαζονες υπερηφανοι βλασφημοι γονευσιν απειθεις αχαριστοι ανοσιοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εσονται",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-FDI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "ανθρωποι",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "φιλαυτοι",
+      "lemma": [
+        "G5367"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G5367",
+      "metadata": {},
+      "gematria": {
+        "standard": 1321,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "φιλαργυροι",
+      "lemma": [
+        "G5366"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G5366",
+      "metadata": {},
+      "gematria": {
+        "standard": 1224,
+        "ordinal": 55,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "αλαζονες",
+      "lemma": [
+        "G213"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G213",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "υπερηφανοι",
+      "lemma": [
+        "G5244"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G5244",
+      "metadata": {},
+      "gematria": {
+        "standard": 1224,
+        "ordinal": 55,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "βλασφημοι",
+      "lemma": [
+        "G989"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G989",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "γονευσιν",
+      "lemma": [
+        "G1118"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G1118",
+      "metadata": {},
+      "gematria": {
+        "standard": 788,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "απειθεις",
+      "lemma": [
+        "G545"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G545",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "αχαριστοι",
+      "lemma": [
+        "G884"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G884",
+      "metadata": {},
+      "gematria": {
+        "standard": 1292,
+        "ordinal": 45,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "ανοσιοι",
+      "lemma": [
+        "G462"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G462",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9745,
+    "ordinal": 445,
+    "reduced": 349
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "text": "αποκριθεντες δε τινες των γραμματεων ειπον διδασκαλε καλως ειπας",
+  "words": [
+    {
+      "position": 1,
+      "text": "αποκριθεντες",
+      "lemma": [
+        "G611"
+      ],
+      "morph": "robinson:V-AOP-NPM",
+      "strongs": "G611",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 78,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NPM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "γραμματεων",
+      "lemma": [
+        "G1122"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G1122",
+      "metadata": {},
+      "gematria": {
+        "standard": 1340,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "ειπον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "διδασκαλε",
+      "lemma": [
+        "G1320"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G1320",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 45,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "καλως",
+      "lemma": [
+        "G2573"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2573",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ειπας",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-2S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 296,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5751,
+    "ordinal": 247,
+    "reduced": 207
+  }
+}

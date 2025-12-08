@@ -1,0 +1,85 @@
+{
+  "text": "δοxαν παρα ανθρωπων ου λαμβανω",
+  "words": [
+    {
+      "position": 1,
+      "text": "δοxαν",
+      "lemma": [
+        "G1391"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1391",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "παρα",
+      "lemma": [
+        "G3844"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3844",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ανθρωπων",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 4,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "λαμβανω",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 924,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3591,
+    "ordinal": 87,
+    "reduced": 108
+  }
+}

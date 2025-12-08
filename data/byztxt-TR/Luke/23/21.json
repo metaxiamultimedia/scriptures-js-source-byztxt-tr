@@ -1,0 +1,115 @@
+{
+  "text": "οι δε επεφωνουν λεγοντες σταυρωσον σταυρωσον αυτον",
+  "words": [
+    {
+      "position": 1,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "επεφωνουν",
+      "lemma": [
+        "G2019"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G2019",
+      "metadata": {},
+      "gematria": {
+        "standard": 1960,
+        "ordinal": 45,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 4,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "σταυρωσον",
+      "lemma": [
+        "G4717"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G4717",
+      "metadata": {},
+      "gematria": {
+        "standard": 2121,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "σταυρωσον",
+      "lemma": [
+        "G4717"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G4717",
+      "metadata": {},
+      "gematria": {
+        "standard": 2121,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7775,
+    "ordinal": 192,
+    "reduced": 188
+  }
+}

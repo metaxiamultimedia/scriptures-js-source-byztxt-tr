@@ -1,0 +1,85 @@
+{
+  "text": "απο παντος ειδους πονηρου απεχεσθε",
+  "words": [
+    {
+      "position": 1,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "παντος",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GSN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "ειδους",
+      "lemma": [
+        "G1491"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G1491",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "πονηρου",
+      "lemma": [
+        "G4190"
+      ],
+      "morph": "robinson:A-GSN",
+      "strongs": "G4190",
+      "metadata": {},
+      "gematria": {
+        "standard": 778,
+        "ordinal": 28,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "απεχεσθε",
+      "lemma": [
+        "G568"
+      ],
+      "morph": "robinson:V-PMM-2P",
+      "strongs": "G568",
+      "metadata": {},
+      "gematria": {
+        "standard": 905,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3224,
+    "ordinal": 112,
+    "reduced": 146
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "text": "λεγει αυτω η γυνη κυριε θεωρω οτι προφητης ει συ",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "γυνη",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "κυριε",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεωρω",
+      "lemma": [
+        "G2334"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2334",
+      "metadata": {},
+      "gematria": {
+        "standard": 1714,
+        "ordinal": 15,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "προφητης",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1266,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "ει",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "συ",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6533,
+    "ordinal": 114,
+    "reduced": 170
+  }
+}

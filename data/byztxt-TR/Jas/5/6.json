@@ -1,0 +1,115 @@
+{
+  "text": "κατεδικασατε εφονευσατε τον δικαιον ουκ αντιτασσεται υμιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "κατεδικασατε",
+      "lemma": [
+        "G2613"
+      ],
+      "morph": "robinson:V-AAI-2P",
+      "strongs": "G2613",
+      "metadata": {},
+      "gematria": {
+        "standard": 867,
+        "ordinal": 78,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "εφονευσατε",
+      "lemma": [
+        "G5407"
+      ],
+      "morph": "robinson:V-AAI-2P",
+      "strongs": "G5407",
+      "metadata": {},
+      "gematria": {
+        "standard": 1536,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 3,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "δικαιον",
+      "lemma": [
+        "G1342"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G1342",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "αντιτασσεται",
+      "lemma": [
+        "G498"
+      ],
+      "morph": "robinson:V-PMI-3S",
+      "strongs": "G498",
+      "metadata": {},
+      "gematria": {
+        "standard": 1378,
+        "ordinal": 78,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5356,
+    "ordinal": 261,
+    "reduced": 163
+  }
+}

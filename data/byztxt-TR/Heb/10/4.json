@@ -1,0 +1,130 @@
+{
+  "text": "αδυνατον γαρ αιμα ταυρων και τραγων αφαιρειν αμαρτιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "αδυνατον",
+      "lemma": [
+        "G102"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G102",
+      "metadata": {},
+      "gematria": {
+        "standard": 876,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "αιμα",
+      "lemma": [
+        "G129"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G129",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ταυρων",
+      "lemma": [
+        "G5022"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G5022",
+      "metadata": {},
+      "gematria": {
+        "standard": 1651,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "τραγων",
+      "lemma": [
+        "G5131"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G5131",
+      "metadata": {},
+      "gematria": {
+        "standard": 1254,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "αφαιρειν",
+      "lemma": [
+        "G851"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G851",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 36,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "αμαρτιας",
+      "lemma": [
+        "G266"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G266",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 36,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5298,
+    "ordinal": 172,
+    "reduced": 123
+  }
+}

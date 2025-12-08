@@ -1,0 +1,130 @@
+{
+  "text": "ο δε εφη πιστευω κυριε και προσεκυνησεν αυτω",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εφη",
+      "lemma": [
+        "G5346"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G5346",
+      "metadata": {},
+      "gematria": {
+        "standard": 513,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "πιστευω",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1795,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "κυριε",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "προσεκυνησεν",
+      "lemma": [
+        "G4352"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G4352",
+      "metadata": {},
+      "gematria": {
+        "standard": 1188,
+        "ordinal": 78,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 8,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5642,
+    "ordinal": 147,
+    "reduced": 152
+  }
+}

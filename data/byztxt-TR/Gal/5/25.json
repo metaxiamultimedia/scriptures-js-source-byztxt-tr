@@ -1,0 +1,100 @@
+{
+  "text": "ει ζωμεν πνευματι πνευματι και στοιχωμεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ζωμεν",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "πνευματι",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "πνευματι",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "στοιχωμεν",
+      "lemma": [
+        "G4748"
+      ],
+      "morph": "robinson:V-PAS-1P",
+      "strongs": "G4748",
+      "metadata": {},
+      "gematria": {
+        "standard": 2075,
+        "ordinal": 45,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4795,
+    "ordinal": 141,
+    "reduced": 142
+  }
+}

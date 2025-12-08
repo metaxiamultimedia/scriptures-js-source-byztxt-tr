@@ -1,0 +1,130 @@
+{
+  "text": "ωφθη δε αυτω αγγελος απ ουρανου ενισχυων αυτον",
+  "words": [
+    {
+      "position": 1,
+      "text": "ωφθη",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 1317,
+        "ordinal": 10,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "αγγελος",
+      "lemma": [
+        "G32"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G32",
+      "metadata": {},
+      "gematria": {
+        "standard": 312,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "απ",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ουρανου",
+      "lemma": [
+        "G3772"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3772",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "ενισχυων",
+      "lemma": [
+        "G1765"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G1765",
+      "metadata": {},
+      "gematria": {
+        "standard": 2115,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 8,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7247,
+    "ordinal": 133,
+    "reduced": 173
+  }
+}

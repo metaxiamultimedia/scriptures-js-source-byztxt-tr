@@ -1,0 +1,130 @@
+{
+  "text": "αρχη του ευαγγελιου ιησου χριστου υιου του θεου",
+  "words": [
+    {
+      "position": 1,
+      "text": "αρχη",
+      "lemma": [
+        "G746"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G746",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "ευαγγελιου",
+      "lemma": [
+        "G2098"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G2098",
+      "metadata": {},
+      "gematria": {
+        "standard": 927,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "υιου",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6908,
+    "ordinal": 140,
+    "reduced": 167
+  }
+}

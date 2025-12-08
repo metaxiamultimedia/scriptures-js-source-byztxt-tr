@@ -1,0 +1,130 @@
+{
+  "text": "τη προσευχη προσκαρτερειτε γρηγορουντες εν αυτη εν ευχαριστια",
+  "words": [
+    {
+      "position": 1,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσευχη",
+      "lemma": [
+        "G4335"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4335",
+      "metadata": {},
+      "gematria": {
+        "standard": 1463,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "προσκαρτερειτε",
+      "lemma": [
+        "G4342"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G4342",
+      "metadata": {},
+      "gematria": {
+        "standard": 1296,
+        "ordinal": 105,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 4,
+      "text": "γρηγορουντες",
+      "lemma": [
+        "G1127"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G1127",
+      "metadata": {},
+      "gematria": {
+        "standard": 1309,
+        "ordinal": 78,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 5,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτη",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "ευχαριστια",
+      "lemma": [
+        "G2169"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2169",
+      "metadata": {},
+      "gematria": {
+        "standard": 1627,
+        "ordinal": 55,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6822,
+    "ordinal": 293,
+    "reduced": 207
+  }
+}

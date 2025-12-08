@@ -1,0 +1,145 @@
+{
+  "text": "ο δε δημος επεφωνει θεου φωνη και ουκ ανθρωπου",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "δημος",
+      "lemma": [
+        "G1218"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G1218",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "επεφωνει",
+      "lemma": [
+        "G2019"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G2019",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "φωνη",
+      "lemma": [
+        "G5456"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G5456",
+      "metadata": {},
+      "gematria": {
+        "standard": 1358,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "ανθρωπου",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5729,
+    "ordinal": 123,
+    "reduced": 194
+  }
+}

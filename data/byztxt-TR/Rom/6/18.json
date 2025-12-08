@@ -1,0 +1,130 @@
+{
+  "text": "ελευθερωθεντες δε απο της αμαρτιας εδουλωθητε τη δικαιοσυνη",
+  "words": [
+    {
+      "position": 1,
+      "text": "ελευθερωθεντες",
+      "lemma": [
+        "G1659"
+      ],
+      "morph": "robinson:V-APP-NPM",
+      "strongs": "G1659",
+      "metadata": {},
+      "gematria": {
+        "standard": 1923,
+        "ordinal": 105,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "αμαρτιας",
+      "lemma": [
+        "G266"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G266",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 36,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "εδουλωθητε",
+      "lemma": [
+        "G1402"
+      ],
+      "morph": "robinson:V-API-2P",
+      "strongs": "G1402",
+      "metadata": {},
+      "gematria": {
+        "standard": 1631,
+        "ordinal": 55,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 7,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "δικαιοσυνη",
+      "lemma": [
+        "G1343"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1343",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5956,
+    "ordinal": 269,
+    "reduced": 223
+  }
+}

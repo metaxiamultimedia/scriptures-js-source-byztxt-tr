@@ -1,0 +1,220 @@
+{
+  "text": "απηλθεν ο ανθρωπος και ανηγγειλεν τοις ιουδαιοις οτι ιησους εστιν ο ποιησας αυτον υγιη",
+  "words": [
+    {
+      "position": 1,
+      "text": "απηλθεν",
+      "lemma": [
+        "G565"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G565",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "ανθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανηγγειλεν",
+      "lemma": [
+        "G312"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G312",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιουδαιοις",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "ποιησας",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "υγιη",
+      "lemma": [
+        "G5199"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G5199",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6828,
+    "ordinal": 277,
+    "reduced": 294
+  }
+}

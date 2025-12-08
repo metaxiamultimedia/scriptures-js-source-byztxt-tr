@@ -1,0 +1,205 @@
+{
+  "text": "λεγων απαγγελω το ονομα σου τοις αδελφοις μου εν μεσω εκκλησιας υμνησω σε",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγων",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "απαγγελω",
+      "lemma": [
+        "G518"
+      ],
+      "morph": "robinson:V-FAI-1S",
+      "strongs": "G518",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ονομα",
+      "lemma": [
+        "G3686"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G3686",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "αδελφοις",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "μεσω",
+      "lemma": [
+        "G3319"
+      ],
+      "morph": "robinson:A-DSN",
+      "strongs": "G3319",
+      "metadata": {},
+      "gematria": {
+        "standard": 1045,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "εκκλησιας",
+      "lemma": [
+        "G1577"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1577",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "υμνησω",
+      "lemma": [
+        "G5214"
+      ],
+      "morph": "robinson:V-FAI-1S",
+      "strongs": "G5214",
+      "metadata": {},
+      "gematria": {
+        "standard": 1498,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "σε",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8289,
+    "ordinal": 209,
+    "reduced": 252
+  }
+}

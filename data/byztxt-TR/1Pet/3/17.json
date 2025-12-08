@@ -1,0 +1,190 @@
+{
+  "text": "κρειττον γαρ αγαθοποιουντας ει θελει το θελημα του θεου πασχειν η κακοποιουντας",
+  "words": [
+    {
+      "position": 1,
+      "text": "κρειττον",
+      "lemma": [
+        "G2909"
+      ],
+      "morph": "robinson:A-NSN-C",
+      "strongs": "G2909",
+      "metadata": {},
+      "gematria": {
+        "standard": 855,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "αγαθοποιουντας",
+      "lemma": [
+        "G15"
+      ],
+      "morph": "robinson:V-PAP-APM",
+      "strongs": "G15",
+      "metadata": {},
+      "gematria": {
+        "standard": 1265,
+        "ordinal": 105,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 4,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "θελει",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 59,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "θελημα",
+      "lemma": [
+        "G2307"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G2307",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "πασχειν",
+      "lemma": [
+        "G3958"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G3958",
+      "metadata": {},
+      "gematria": {
+        "standard": 946,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "κακοποιουντας",
+      "lemma": [
+        "G2554"
+      ],
+      "morph": "robinson:V-PAP-APM",
+      "strongs": "G2554",
+      "metadata": {},
+      "gematria": {
+        "standard": 1292,
+        "ordinal": 91,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6261,
+    "ordinal": 325,
+    "reduced": 285
+  }
+}

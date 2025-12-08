@@ -1,0 +1,145 @@
+{
+  "text": "και αυτοι ηραν φωνην λεγοντες ιησου επιστατα ελεησον ημας",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτοι",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-NPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ηραν",
+      "lemma": [
+        "G142"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G142",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "φωνην",
+      "lemma": [
+        "G5456"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5456",
+      "metadata": {},
+      "gematria": {
+        "standard": 1408,
+        "ordinal": 15,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "επιστατα",
+      "lemma": [
+        "G1988"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G1988",
+      "metadata": {},
+      "gematria": {
+        "standard": 897,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "ελεησον",
+      "lemma": [
+        "G1653"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G1653",
+      "metadata": {},
+      "gematria": {
+        "standard": 368,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 9,
+      "text": "ημας",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5244,
+    "ordinal": 171,
+    "reduced": 195
+  }
+}

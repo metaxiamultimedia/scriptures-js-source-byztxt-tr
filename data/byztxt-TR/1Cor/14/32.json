@@ -1,0 +1,85 @@
+{
+  "text": "και πνευματα προφητων προφηταις υποτασσεται",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "πνευματα",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 877,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "προφητων",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1908,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 4,
+      "text": "προφηταις",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1269,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "υποτασσεται",
+      "lemma": [
+        "G5293"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G5293",
+      "metadata": {},
+      "gematria": {
+        "standard": 1567,
+        "ordinal": 66,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5652,
+    "ordinal": 189,
+    "reduced": 153
+  }
+}

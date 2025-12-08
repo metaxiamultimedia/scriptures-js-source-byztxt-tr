@@ -1,0 +1,325 @@
+{
+  "text": "εαν αφωμεν αυτον ουτως παντες πιστευσουσιν εις αυτον και ελευσονται οι ρωμαιοι και αρουσιν ημων και τον τοπον και το εθνος",
+  "words": [
+    {
+      "position": 1,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "αφωμεν",
+      "lemma": [
+        "G863"
+      ],
+      "morph": "robinson:V-2AAS-1P",
+      "strongs": "G863",
+      "metadata": {},
+      "gematria": {
+        "standard": 1396,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "ουτως",
+      "lemma": [
+        "G3779"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3779",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "παντες",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "πιστευσουσιν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-FAI-3P",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1925,
+        "ordinal": 78,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "ελευσονται",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-FDI-3P",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 11,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "ρωμαιοι",
+      "lemma": [
+        "G4514"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4514",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "αρουσιν",
+      "lemma": [
+        "G142"
+      ],
+      "morph": "robinson:V-FAI-3P",
+      "strongs": "G142",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοπον",
+      "lemma": [
+        "G5117"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5117",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 20,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "εθνος",
+      "lemma": [
+        "G1484"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G1484",
+      "metadata": {},
+      "gematria": {
+        "standard": 334,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13369,
+    "ordinal": 364,
+    "reduced": 391
+  }
+}

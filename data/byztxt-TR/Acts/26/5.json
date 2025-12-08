@@ -1,0 +1,250 @@
+{
+  "text": "προγινωσκοντες με ανωθεν εαν θελωσιν μαρτυρειν οτι κατα την ακριβεστατην αιρεσιν της ημετερας θρησκειας εζησα φαρισαιος",
+  "words": [
+    {
+      "position": 1,
+      "text": "προγινωσκοντες",
+      "lemma": [
+        "G4267"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G4267",
+      "metadata": {},
+      "gematria": {
+        "standard": 1958,
+        "ordinal": 105,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 2,
+      "text": "με",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ανωθεν",
+      "lemma": [
+        "G509"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G509",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "θελωσιν",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAS-3P",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 1104,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "μαρτυρειν",
+      "lemma": [
+        "G3140"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G3140",
+      "metadata": {},
+      "gematria": {
+        "standard": 1006,
+        "ordinal": 45,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ακριβεστατην",
+      "lemma": [
+        "G196"
+      ],
+      "morph": "robinson:A-ASF-S",
+      "strongs": "G196",
+      "metadata": {},
+      "gematria": {
+        "standard": 997,
+        "ordinal": 78,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 11,
+      "text": "αιρεσιν",
+      "lemma": [
+        "G139"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G139",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 28,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 13,
+      "text": "ημετερας",
+      "lemma": [
+        "G2251"
+      ],
+      "morph": "robinson:S-1PGSF",
+      "strongs": "G2251",
+      "metadata": {},
+      "gematria": {
+        "standard": 659,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "θρησκειας",
+      "lemma": [
+        "G2356"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2356",
+      "metadata": {},
+      "gematria": {
+        "standard": 553,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 15,
+      "text": "εζησα",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "φαρισαιος",
+      "lemma": [
+        "G5330"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5330",
+      "metadata": {},
+      "gematria": {
+        "standard": 1092,
+        "ordinal": 45,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10550,
+    "ordinal": 483,
+    "reduced": 371
+  }
+}

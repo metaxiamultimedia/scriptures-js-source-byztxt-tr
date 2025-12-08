@@ -1,0 +1,100 @@
+{
+  "text": "οxεις οι ποδες αυτων εκχεαι αιμα",
+  "words": [
+    {
+      "position": 1,
+      "text": "οxεις",
+      "lemma": [
+        "G3691"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3691",
+      "metadata": {},
+      "gematria": {
+        "standard": 285,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "ποδες",
+      "lemma": [
+        "G4228"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G4228",
+      "metadata": {},
+      "gematria": {
+        "standard": 359,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "εκχεαι",
+      "lemma": [
+        "G1632"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G1632",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "αιμα",
+      "lemma": [
+        "G129"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G129",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2968,
+    "ordinal": 74,
+    "reduced": 97
+  }
+}

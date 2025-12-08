@@ -1,0 +1,115 @@
+{
+  "text": "οσοι γαρ εις χριστον εβαπτισθητε χριστον ενεδυσασθε",
+  "words": [
+    {
+      "position": 1,
+      "text": "οσοι",
+      "lemma": [
+        "G3745"
+      ],
+      "morph": "robinson:K-NPM",
+      "strongs": "G3745",
+      "metadata": {},
+      "gematria": {
+        "standard": 350,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "χριστον",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "εβαπτισθητε",
+      "lemma": [
+        "G907"
+      ],
+      "morph": "robinson:V-API-2P",
+      "strongs": "G907",
+      "metadata": {},
+      "gematria": {
+        "standard": 920,
+        "ordinal": 66,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "χριστον",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "ενεδυσασθε",
+      "lemma": [
+        "G1746"
+      ],
+      "morph": "robinson:V-AMI-2P",
+      "strongs": "G1746",
+      "metadata": {},
+      "gematria": {
+        "standard": 879,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5128,
+    "ordinal": 199,
+    "reduced": 169
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "text": "τω δε εργαζομενω ο μισθος ου λογιζεται κατα χαριν αλλα κατα το οφειλημα",
+  "words": [
+    {
+      "position": 1,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εργαζομενω",
+      "lemma": [
+        "G2038"
+      ],
+      "morph": "robinson:V-PNP-DSM",
+      "strongs": "G2038",
+      "metadata": {},
+      "gematria": {
+        "standard": 1081,
+        "ordinal": 55,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "μισθος",
+      "lemma": [
+        "G3408"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3408",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "λογιζεται",
+      "lemma": [
+        "G3049"
+      ],
+      "morph": "robinson:V-PNI-3S",
+      "strongs": "G3049",
+      "metadata": {},
+      "gematria": {
+        "standard": 436,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "χαριν",
+      "lemma": [
+        "G5485"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5485",
+      "metadata": {},
+      "gematria": {
+        "standard": 761,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "οφειλημα",
+      "lemma": [
+        "G3783"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G3783",
+      "metadata": {},
+      "gematria": {
+        "standard": 664,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6196,
+    "ordinal": 215,
+    "reduced": 220
+  }
+}

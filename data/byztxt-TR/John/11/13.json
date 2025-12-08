@@ -1,0 +1,280 @@
+{
+  "text": "ειρηκει δε ο ιησους περι του θανατου αυτου εκεινοι δε εδοxαν οτι περι της κοιμησεως του υπνου λεγει",
+  "words": [
+    {
+      "position": 1,
+      "text": "ειρηκει",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-LAI-3S-ATT",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 158,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "θανατου",
+      "lemma": [
+        "G2288"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2288",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "εκεινοι",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-NPM",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 170,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "εδοxαν",
+      "lemma": [
+        "G1380"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G1380",
+      "metadata": {},
+      "gematria": {
+        "standard": 130,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "κοιμησεως",
+      "lemma": [
+        "G2838"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2838",
+      "metadata": {},
+      "gematria": {
+        "standard": 1353,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 16,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "υπνου",
+      "lemma": [
+        "G5258"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5258",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8660,
+    "ordinal": 261,
+    "reduced": 335
+  }
+}

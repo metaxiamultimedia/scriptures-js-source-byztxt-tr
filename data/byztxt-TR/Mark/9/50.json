@@ -1,0 +1,325 @@
+{
+  "text": "καλον το αλας εαν δε το αλας αναλον γενηται εν τινι αυτο αρτυσετε εχετε εν εαυτοις αλας και ειρηνευετε εν αλληλοις",
+  "words": [
+    {
+      "position": 1,
+      "text": "καλον",
+      "lemma": [
+        "G2570"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G2570",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "αλας",
+      "lemma": [
+        "G217"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G217",
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "αλας",
+      "lemma": [
+        "G217"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G217",
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "αναλον",
+      "lemma": [
+        "G358"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G358",
+      "metadata": {},
+      "gematria": {
+        "standard": 202,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "γενηται",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADS-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 377,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "τινι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-DSN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "αυτο",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "αρτυσετε",
+      "lemma": [
+        "G741"
+      ],
+      "morph": "robinson:V-FAI-2P",
+      "strongs": "G741",
+      "metadata": {},
+      "gematria": {
+        "standard": 1311,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "εχετε",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "εαυτοις",
+      "lemma": [
+        "G1438"
+      ],
+      "morph": "robinson:F-2DPM",
+      "strongs": "G1438",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "αλας",
+      "lemma": [
+        "G217"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G217",
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 19,
+      "text": "ειρηνευετε",
+      "lemma": [
+        "G1514"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G1514",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 20,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "αλληλοις",
+      "lemma": [
+        "G240"
+      ],
+      "morph": "robinson:C-DPM",
+      "strongs": "G240",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8067,
+    "ordinal": 314,
+    "reduced": 327
+  }
+}

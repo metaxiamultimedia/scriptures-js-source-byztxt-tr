@@ -1,0 +1,400 @@
+{
+  "text": "και ειδον και ηκουσα φωνην αγγελων πολλων κυκλοθεν του θρονου και των ζωων και των πρεσβυτερων και ην ο αριθμος αυτων μυριαδες μυριαδων και χιλιαδες χιλιαδων",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ειδον",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAI-1S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "ηκουσα",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 699,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "φωνην",
+      "lemma": [
+        "G5456"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5456",
+      "metadata": {},
+      "gematria": {
+        "standard": 1408,
+        "ordinal": 15,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "αγγελων",
+      "lemma": [
+        "G32"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G32",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "πολλων",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 1060,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "κυκλοθεν",
+      "lemma": [
+        "G2943"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2943",
+      "metadata": {},
+      "gematria": {
+        "standard": 604,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "θρονου",
+      "lemma": [
+        "G2362"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2362",
+      "metadata": {},
+      "gematria": {
+        "standard": 699,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "ζωων",
+      "lemma": [
+        "G2226"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G2226",
+      "metadata": {},
+      "gematria": {
+        "standard": 1657,
+        "ordinal": 10,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "πρεσβυτερων",
+      "lemma": [
+        "G4245"
+      ],
+      "morph": "robinson:A-GPM-C",
+      "strongs": "G4245",
+      "metadata": {},
+      "gematria": {
+        "standard": 2042,
+        "ordinal": 66,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 17,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 20,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 21,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 22,
+      "text": "αριθμος",
+      "lemma": [
+        "G706"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G706",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 23,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 24,
+      "text": "μυριαδες",
+      "lemma": [
+        "G3461"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G3461",
+      "metadata": {},
+      "gematria": {
+        "standard": 760,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 25,
+      "text": "μυριαδων",
+      "lemma": [
+        "G3461"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G3461",
+      "metadata": {},
+      "gematria": {
+        "standard": 1405,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 26,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 28,
+      "text": "χιλιαδες",
+      "lemma": [
+        "G5505"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G5505",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 29,
+      "text": "χιλιαδων",
+      "lemma": [
+        "G5505"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G5505",
+      "metadata": {},
+      "gematria": {
+        "standard": 1505,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 19095,
+    "ordinal": 478,
+    "reduced": 519
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "text": "γενομενης δε ημερας ποιησαντες τινες των ιουδαιων συστροφην ανεθεματισαν εαυτους λεγοντες μητε φαγειν μητε πιειν εως ου αποκτεινωσιν τον παυλον",
+  "words": [
+    {
+      "position": 1,
+      "text": "γενομενης",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADP-GSF",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ημερας",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "ποιησαντες",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 924,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NPM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιουδαιων",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "συστροφην",
+      "lemma": [
+        "G4963"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4963",
+      "metadata": {},
+      "gematria": {
+        "standard": 1828,
+        "ordinal": 45,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "ανεθεματισαν",
+      "lemma": [
+        "G332"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G332",
+      "metadata": {},
+      "gematria": {
+        "standard": 672,
+        "ordinal": 78,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "εαυτους",
+      "lemma": [
+        "G1438"
+      ],
+      "morph": "robinson:F-3APM",
+      "strongs": "G1438",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "μητε",
+      "lemma": [
+        "G3383"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3383",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "φαγειν",
+      "lemma": [
+        "G5315"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G5315",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "μητε",
+      "lemma": [
+        "G3383"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3383",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "πιειν",
+      "lemma": [
+        "G4095"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G4095",
+      "metadata": {},
+      "gematria": {
+        "standard": 155,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "εως",
+      "lemma": [
+        "G2193"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2193",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "ου",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "αποκτεινωσιν",
+      "lemma": [
+        "G615"
+      ],
+      "morph": "robinson:V-AAS-3P",
+      "strongs": "G615",
+      "metadata": {},
+      "gematria": {
+        "standard": 1596,
+        "ordinal": 78,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 19,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "παυλον",
+      "lemma": [
+        "G3972"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3972",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14869,
+    "ordinal": 538,
+    "reduced": 514
+  }
+}

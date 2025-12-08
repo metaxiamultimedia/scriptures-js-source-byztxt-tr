@@ -1,0 +1,100 @@
+{
+  "text": "και εμβριμησαμενος αυτω ευθεως εxεβαλεν αυτον",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "εμβριμησαμενος",
+      "lemma": [
+        "G1690"
+      ],
+      "morph": "robinson:V-ADP-NSM",
+      "strongs": "G1690",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 105,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ευθεως",
+      "lemma": [
+        "G2112"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2112",
+      "metadata": {},
+      "gematria": {
+        "standard": 1419,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "εxεβαλεν",
+      "lemma": [
+        "G1544"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G1544",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4641,
+    "ordinal": 185,
+    "reduced": 150
+  }
+}

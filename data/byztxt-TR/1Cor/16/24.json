@@ -1,0 +1,420 @@
+{
+  "text": "η αγαπη μου μετα παντων υμων εν χριστω ιησου αμην προς κορινθιους πρωτη εγραφη απο φιλιππων δια στεφανα και φουρτουνατου και αχαικου και τιμοθεου",
+  "words": [
+    {
+      "position": 1,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "αγαπη",
+      "lemma": [
+        "G26"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G26",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "παντων",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "χριστω",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 2010,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "αμην",
+      "lemma": [
+        "G281"
+      ],
+      "morph": "robinson:HEB",
+      "strongs": "G281",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "κορινθιους",
+      "lemma": [
+        "G2881"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G2881",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 939,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "πρωτη",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-NSF-S",
+      "strongs": "G4413",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "εγραφη",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-2API-3S",
+      "strongs": "G1125",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 617,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "φιλιππων",
+      "lemma": [
+        "G5375"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5375",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 1560,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 17,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "στεφανα",
+      "lemma": [
+        "G4734"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4734",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 1057,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 19,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 20,
+      "text": "φουρτουνατου",
+      "lemma": [
+        "G5415"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5415",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 2661,
+        "ordinal": 78,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 21,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 22,
+      "text": "αχαικου",
+      "lemma": [
+        "G883"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G883",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 1102,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 23,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 24,
+      "text": "τιμοθεου",
+      "lemma": [
+        "G5095"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5095",
+      "metadata": {
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "gematria": {
+        "standard": 904,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6380,
+    "ordinal": 112,
+    "reduced": 179
+  },
+  "metadata": {
+    "has_colophon": true,
+    "colophon_word_range": [
+      11,
+      24
+    ],
+    "colophon_type": "subscription"
+  }
+}

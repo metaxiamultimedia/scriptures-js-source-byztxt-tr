@@ -1,0 +1,175 @@
+{
+  "text": "εν εκεινω τω καιρω ηκουσεν ηρωδης ο τετραρχης την ακοην ιησου",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "εκεινω",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-DSM",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 890,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "καιρω",
+      "lemma": [
+        "G2540"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2540",
+      "metadata": {},
+      "gematria": {
+        "standard": 931,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "ηκουσεν",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ηρωδης",
+      "lemma": [
+        "G2264"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2264",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "τετραρχης",
+      "lemma": [
+        "G5076"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5076",
+      "metadata": {},
+      "gematria": {
+        "standard": 1614,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ακοην",
+      "lemma": [
+        "G189"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G189",
+      "metadata": {},
+      "gematria": {
+        "standard": 149,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7728,
+    "ordinal": 173,
+    "reduced": 222
+  }
+}

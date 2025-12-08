@@ -1,0 +1,115 @@
+{
+  "text": "παντα ισχυω εν τω ενδυναμουντι με χριστω",
+  "words": [
+    {
+      "position": 1,
+      "text": "παντα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ισχυω",
+      "lemma": [
+        "G2480"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2480",
+      "metadata": {},
+      "gematria": {
+        "standard": 2010,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ενδυναμουντι",
+      "lemma": [
+        "G1743"
+      ],
+      "morph": "robinson:V-PAP-DSM",
+      "strongs": "G1743",
+      "metadata": {},
+      "gematria": {
+        "standard": 1380,
+        "ordinal": 78,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 6,
+      "text": "με",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "χριστω",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 2010,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7032,
+    "ordinal": 138,
+    "reduced": 138
+  }
+}

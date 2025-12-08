@@ -1,0 +1,85 @@
+{
+  "text": "και καθημενοι ετηρουν αυτον εκει",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "καθημενοι",
+      "lemma": [
+        "G2521"
+      ],
+      "morph": "robinson:V-PNP-NPM",
+      "strongs": "G2521",
+      "metadata": {},
+      "gematria": {
+        "standard": 213,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 3,
+      "text": "ετηρουν",
+      "lemma": [
+        "G5083"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G5083",
+      "metadata": {},
+      "gematria": {
+        "standard": 933,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "εκει",
+      "lemma": [
+        "G1563"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1563",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2038,
+    "ordinal": 104,
+    "reduced": 112
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "text": "και ειδον οτε ηνοιxεν την σφραγιδα την εκτην και ιδου σεισμος μεγας εγενετο και ο ηλιος εγενετο μελας ως σακκος τριχινος και η σεληνη εγενετο ως αιμα",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ειδον",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAI-1S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτε",
+      "lemma": [
+        "G3753"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3753",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ηνοιxεν",
+      "lemma": [
+        "G455"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G455",
+      "metadata": {},
+      "gematria": {
+        "standard": 193,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "σφραγιδα",
+      "lemma": [
+        "G4973"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4973",
+      "metadata": {},
+      "gematria": {
+        "standard": 819,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "εκτην",
+      "lemma": [
+        "G1623"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G1623",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιδου",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "σεισμος",
+      "lemma": [
+        "G4578"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4578",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "μεγας",
+      "lemma": [
+        "G3173"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G3173",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "εγενετο",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 14,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "ηλιος",
+      "lemma": [
+        "G2246"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2246",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "εγενετο",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 18,
+      "text": "μελας",
+      "lemma": [
+        "G3189"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G3189",
+      "metadata": {},
+      "gematria": {
+        "standard": 276,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "σακκος",
+      "lemma": [
+        "G4526"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4526",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "τριχινος",
+      "lemma": [
+        "G5155"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G5155",
+      "metadata": {},
+      "gematria": {
+        "standard": 1340,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 22,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 23,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 24,
+      "text": "σεληνη",
+      "lemma": [
+        "G4582"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4582",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 25,
+      "text": "εγενετο",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 26,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 27,
+      "text": "αιμα",
+      "lemma": [
+        "G129"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G129",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10397,
+    "ordinal": 392,
+    "reduced": 461
+  }
+}

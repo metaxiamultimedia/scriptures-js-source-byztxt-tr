@@ -1,0 +1,265 @@
+{
+  "text": "ιουδας ιησου χριστου δουλος αδελφος δε ιακωβου τοις εν θεω πατρι ηγιασμενοις και ιησου χριστω τετηρημενοις κλητοις",
+  "words": [
+    {
+      "position": 1,
+      "text": "ιουδας",
+      "lemma": [
+        "G2455"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2455",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "δουλος",
+      "lemma": [
+        "G1401"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G1401",
+      "metadata": {},
+      "gematria": {
+        "standard": 774,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "αδελφος",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιακωβου",
+      "lemma": [
+        "G2385"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2385",
+      "metadata": {},
+      "gematria": {
+        "standard": 1303,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "πατρι",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 491,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "ηγιασμενοις",
+      "lemma": [
+        "G37"
+      ],
+      "morph": "robinson:V-RPP-DPM",
+      "strongs": "G37",
+      "metadata": {},
+      "gematria": {
+        "standard": 597,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "χριστω",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 2010,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "τετηρημενοις",
+      "lemma": [
+        "G5083"
+      ],
+      "morph": "robinson:V-RPP-DPM",
+      "strongs": "G5083",
+      "metadata": {},
+      "gematria": {
+        "standard": 1096,
+        "ordinal": 78,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 17,
+      "text": "κλητοις",
+      "lemma": [
+        "G2822"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G2822",
+      "metadata": {},
+      "gematria": {
+        "standard": 638,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12949,
+    "ordinal": 392,
+    "reduced": 376
+  }
+}

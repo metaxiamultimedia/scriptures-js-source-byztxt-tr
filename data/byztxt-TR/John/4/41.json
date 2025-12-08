@@ -1,0 +1,130 @@
+{
+  "text": "και πολλω πλειους επιστευσαν δια τον λογον αυτου",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "πολλω",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-DSN",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "πλειους",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-NPM-C",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 795,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "επιστευσαν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1251,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4916,
+    "ordinal": 146,
+    "reduced": 164
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "text": "ετεροι δε χλευαζοντες ελεγον οτι γλευκους μεμεστωμενοι εισιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ετεροι",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "χλευαζοντες",
+      "lemma": [
+        "G5512"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G5512",
+      "metadata": {},
+      "gematria": {
+        "standard": 1668,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 4,
+      "text": "ελεγον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "γλευκους",
+      "lemma": [
+        "G1098"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G1098",
+      "metadata": {},
+      "gematria": {
+        "standard": 1128,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "μεμεστωμενοι",
+      "lemma": [
+        "G3325"
+      ],
+      "morph": "robinson:V-RPP-NPM",
+      "strongs": "G3325",
+      "metadata": {},
+      "gematria": {
+        "standard": 1565,
+        "ordinal": 78,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 8,
+      "text": "εισιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5678,
+    "ordinal": 246,
+    "reduced": 215
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "text": "ον δε ο θεος ηγειρεν ουκ ειδεν διαφθοραν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ον",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ηγειρεν",
+      "lemma": [
+        "G1453"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1453",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "ειδεν",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "διαφθοραν",
+      "lemma": [
+        "G1312"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1312",
+      "metadata": {},
+      "gematria": {
+        "standard": 745,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1973,
+    "ordinal": 111,
+    "reduced": 146
+  }
+}

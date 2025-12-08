@@ -1,0 +1,250 @@
+{
+  "text": "και του δουναι θυσιαν κατα το ειρημενον εν νομω κυριου ζευγος τρυγονων η δυο νεοσσους περιστερων",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "δουναι",
+      "lemma": [
+        "G1325"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G1325",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "θυσιαν",
+      "lemma": [
+        "G2378"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2378",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "ειρημενον",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-RPP-ASN-ATT",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 45,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 8,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "νομω",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "ζευγος",
+      "lemma": [
+        "G2201"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G2201",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "τρυγονων",
+      "lemma": [
+        "G5167"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G5167",
+      "metadata": {},
+      "gematria": {
+        "standard": 1773,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 13,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 14,
+      "text": "δυο",
+      "lemma": [
+        "G1417"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1417",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "νεοσσους",
+      "lemma": [
+        "G3502"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G3502",
+      "metadata": {},
+      "gematria": {
+        "standard": 1195,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 16,
+      "text": "περιστερων",
+      "lemma": [
+        "G4058"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G4058",
+      "metadata": {},
+      "gematria": {
+        "standard": 1650,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10836,
+    "ordinal": 301,
+    "reduced": 333
+  }
+}

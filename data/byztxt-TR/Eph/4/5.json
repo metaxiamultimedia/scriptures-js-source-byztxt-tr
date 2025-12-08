@@ -1,0 +1,100 @@
+{
+  "text": "εις κυριος μια πιστις εν βαπτισμα",
+  "words": [
+    {
+      "position": 1,
+      "text": "εις",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "κυριος",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "μια",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "πιστις",
+      "lemma": [
+        "G4102"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4102",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "εν",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "βαπτισμα",
+      "lemma": [
+        "G908"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G908",
+      "metadata": {},
+      "gematria": {
+        "standard": 634,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2555,
+    "ordinal": 93,
+    "reduced": 80
+  }
+}

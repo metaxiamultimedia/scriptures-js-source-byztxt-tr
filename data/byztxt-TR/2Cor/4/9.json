@@ -1,0 +1,130 @@
+{
+  "text": "διωκομενοι αλλ ουκ εγκαταλειπομενοι καταβαλλομενοι αλλ ουκ απολλυμενοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "διωκομενοι",
+      "lemma": [
+        "G1377"
+      ],
+      "morph": "robinson:V-PPP-NPM",
+      "strongs": "G1377",
+      "metadata": {},
+      "gematria": {
+        "standard": 1079,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 2,
+      "text": "αλλ",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "εγκαταλειπομενοι",
+      "lemma": [
+        "G1459"
+      ],
+      "morph": "robinson:V-PPP-NPM",
+      "strongs": "G1459",
+      "metadata": {},
+      "gematria": {
+        "standard": 700,
+        "ordinal": 136,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 5,
+      "text": "καταβαλλομενοι",
+      "lemma": [
+        "G2598"
+      ],
+      "morph": "robinson:V-PPP-NPM",
+      "strongs": "G2598",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 105,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 6,
+      "text": "αλλ",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "απολλυμενοι",
+      "lemma": [
+        "G622"
+      ],
+      "morph": "robinson:V-PEP-NPM",
+      "strongs": "G622",
+      "metadata": {},
+      "gematria": {
+        "standard": 786,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4297,
+    "ordinal": 386,
+    "reduced": 238
+  }
+}

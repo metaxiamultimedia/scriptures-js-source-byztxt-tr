@@ -1,0 +1,145 @@
+{
+  "text": "ην δε εγγυς η εορτη των ιουδαιων η σκηνοπηγια",
+  "words": [
+    {
+      "position": 1,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εγγυς",
+      "lemma": [
+        "G1451"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1451",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "εορτη",
+      "lemma": [
+        "G1859"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1859",
+      "metadata": {},
+      "gematria": {
+        "standard": 483,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιουδαιων",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "σκηνοπηγια",
+      "lemma": [
+        "G4634"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4634",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 55,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4122,
+    "ordinal": 135,
+    "reduced": 171
+  }
+}

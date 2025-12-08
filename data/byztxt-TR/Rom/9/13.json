@@ -1,0 +1,145 @@
+{
+  "text": "καθως γεγραπται τον ιακωβ ηγαπησα τον δε ησαυ εμισησα",
+  "words": [
+    {
+      "position": 1,
+      "text": "καθως",
+      "lemma": [
+        "G2531"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2531",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "γεγραπται",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-RPI-3S",
+      "strongs": "G1125",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιακωβ",
+      "lemma": [
+        "G2384"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2384",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "ηγαπησα",
+      "lemma": [
+        "G25"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G25",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ησαυ",
+      "lemma": [
+        "G2269"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2269",
+      "metadata": {},
+      "gematria": {
+        "standard": 609,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "εμισησα",
+      "lemma": [
+        "G3404"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G3404",
+      "metadata": {},
+      "gematria": {
+        "standard": 464,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4589,
+    "ordinal": 156,
+    "reduced": 170
+  }
+}

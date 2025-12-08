@@ -1,0 +1,130 @@
+{
+  "text": "και ανοιxας το στομα αυτου εδιδασκεν αυτους λεγων",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ανοιxας",
+      "lemma": [
+        "G455"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G455",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "στομα",
+      "lemma": [
+        "G4750"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G4750",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "εδιδασκεν",
+      "lemma": [
+        "G1321"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1321",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτους",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-APM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "λεγων",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5073,
+    "ordinal": 141,
+    "reduced": 141
+  }
+}

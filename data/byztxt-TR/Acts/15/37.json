@@ -1,0 +1,145 @@
+{
+  "text": "βαρναβας δε εβουλευσατο συμπαραλαβειν τον ιωαννην τον καλουμενον μαρκον",
+  "words": [
+    {
+      "position": 1,
+      "text": "βαρναβας",
+      "lemma": [
+        "G921"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G921",
+      "metadata": {},
+      "gematria": {
+        "standard": 357,
+        "ordinal": 36,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εβουλευσατο",
+      "lemma": [
+        "G1011"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G1011",
+      "metadata": {},
+      "gematria": {
+        "standard": 1483,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "συμπαραλαβειν",
+      "lemma": [
+        "G4838"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G4838",
+      "metadata": {},
+      "gematria": {
+        "standard": 920,
+        "ordinal": 91,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιωαννην",
+      "lemma": [
+        "G2491"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2491",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "καλουμενον",
+      "lemma": [
+        "G2564"
+      ],
+      "morph": "robinson:V-PPP-ASM",
+      "strongs": "G2564",
+      "metadata": {},
+      "gematria": {
+        "standard": 736,
+        "ordinal": 55,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "μαρκον",
+      "lemma": [
+        "G3138"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3138",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5595,
+    "ordinal": 312,
+    "reduced": 231
+  }
+}

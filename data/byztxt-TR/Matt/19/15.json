@@ -1,0 +1,115 @@
+{
+  "text": "και επιθεις αυτοις τας χειρας επορευθη εκειθεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "επιθεις",
+      "lemma": [
+        "G2007"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G2007",
+      "metadata": {},
+      "gematria": {
+        "standard": 319,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "τας",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "χειρας",
+      "lemma": [
+        "G5495"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G5495",
+      "metadata": {},
+      "gematria": {
+        "standard": 916,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "επορευθη",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-AOI-3S",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 36,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 7,
+      "text": "εκειθεν",
+      "lemma": [
+        "G1564"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1564",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3529,
+    "ordinal": 146,
+    "reduced": 154
+  }
+}

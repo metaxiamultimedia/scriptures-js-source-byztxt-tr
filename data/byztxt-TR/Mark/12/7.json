@@ -1,0 +1,310 @@
+{
+  "text": "εκεινοι δε οι γεωργοι ειπον προς εαυτους οτι ουτος εστιν ο κληρονομος δευτε αποκτεινωμεν αυτον και ημων εσται η κληρονομια",
+  "words": [
+    {
+      "position": 1,
+      "text": "εκεινοι",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-NPM",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 170,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "γεωργοι",
+      "lemma": [
+        "G1092"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G1092",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ειπον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "εαυτους",
+      "lemma": [
+        "G1438"
+      ],
+      "morph": "robinson:F-3APM",
+      "strongs": "G1438",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ουτος",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSM",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "κληρονομος",
+      "lemma": [
+        "G2818"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2818",
+      "metadata": {},
+      "gematria": {
+        "standard": 658,
+        "ordinal": 55,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 13,
+      "text": "δευτε",
+      "lemma": [
+        "G1205"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G1205",
+      "metadata": {},
+      "gematria": {
+        "standard": 714,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "αποκτεινωμεν",
+      "lemma": [
+        "G615"
+      ],
+      "morph": "robinson:V-PAS-1P",
+      "strongs": "G615",
+      "metadata": {},
+      "gematria": {
+        "standard": 1431,
+        "ordinal": 78,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 15,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "εσται",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-FDI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "κληρονομια",
+      "lemma": [
+        "G2817"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2817",
+      "metadata": {},
+      "gematria": {
+        "standard": 399,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10822,
+    "ordinal": 402,
+    "reduced": 427
+  }
+}

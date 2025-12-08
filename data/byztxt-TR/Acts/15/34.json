@@ -1,0 +1,100 @@
+{
+  "text": "εδοxεν δε τω σιλα επιμειναι αυτου",
+  "words": [
+    {
+      "position": 1,
+      "text": "εδοxεν",
+      "lemma": [
+        "G1380"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1380",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "σιλα",
+      "lemma": [
+        "G4609"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G4609",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "επιμειναι",
+      "lemma": [
+        "G1961"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G1961",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτου",
+      "lemma": [
+        "G847"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G847",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2866,
+    "ordinal": 91,
+    "reduced": 103
+  }
+}

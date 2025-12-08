@@ -1,0 +1,190 @@
+{
+  "text": "ην δε ανθρωπος εκ των φαρισαιων νικοδημος ονομα αυτω αρχων των ιουδαιων",
+  "words": [
+    {
+      "position": 1,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ανθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 4,
+      "text": "εκ",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "φαρισαιων",
+      "lemma": [
+        "G5330"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G5330",
+      "metadata": {},
+      "gematria": {
+        "standard": 1672,
+        "ordinal": 45,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "νικοδημος",
+      "lemma": [
+        "G3530"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3530",
+      "metadata": {},
+      "gematria": {
+        "standard": 472,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "ονομα",
+      "lemma": [
+        "G3686"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G3686",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "αρχων",
+      "lemma": [
+        "G758"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G758",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ιουδαιων",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10474,
+    "ordinal": 223,
+    "reduced": 259
+  }
+}

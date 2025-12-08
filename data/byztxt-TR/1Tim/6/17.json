@@ -1,0 +1,415 @@
+{
+  "text": "τοις πλουσιοις εν τω νυν αιωνι παραγγελλε μη υψηλοφρονειν μηδε ηλπικεναι επι πλουτου αδηλοτητι αλλ εν τω θεω τω ζωντι τω παρεχοντι ημιν πλουσιως παντα εις απολαυσιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "πλουσιοις",
+      "lemma": [
+        "G4145"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G4145",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "νυν",
+      "lemma": [
+        "G3568"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3568",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "αιωνι",
+      "lemma": [
+        "G165"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G165",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "παραγγελλε",
+      "lemma": [
+        "G3853"
+      ],
+      "morph": "robinson:V-PAM-2S",
+      "strongs": "G3853",
+      "metadata": {},
+      "gematria": {
+        "standard": 258,
+        "ordinal": 55,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "υψηλοφρονειν",
+      "lemma": [
+        "G5309"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G5309",
+      "metadata": {},
+      "gematria": {
+        "standard": 1993,
+        "ordinal": 78,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 10,
+      "text": "μηδε",
+      "lemma": [
+        "G3366"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3366",
+      "metadata": {},
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "ηλπικεναι",
+      "lemma": [
+        "G1679"
+      ],
+      "morph": "robinson:V-RAN",
+      "strongs": "G1679",
+      "metadata": {},
+      "gematria": {
+        "standard": 214,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "πλουτου",
+      "lemma": [
+        "G4149"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4149",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 28,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 14,
+      "text": "αδηλοτητι",
+      "lemma": [
+        "G83"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G83",
+      "metadata": {},
+      "gematria": {
+        "standard": 731,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 15,
+      "text": "αλλ",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 19,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ζωντι",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAP-DSM",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1167,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 21,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "παρεχοντι",
+      "lemma": [
+        "G3930"
+      ],
+      "morph": "robinson:V-PAP-DSM",
+      "strongs": "G3930",
+      "metadata": {},
+      "gematria": {
+        "standard": 1216,
+        "ordinal": 45,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 23,
+      "text": "ημιν",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 24,
+      "text": "πλουσιως",
+      "lemma": [
+        "G4146"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4146",
+      "metadata": {},
+      "gematria": {
+        "standard": 1790,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 25,
+      "text": "παντα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 26,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 27,
+      "text": "απολαυσιν",
+      "lemma": [
+        "G619"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G619",
+      "metadata": {},
+      "gematria": {
+        "standard": 842,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 18922,
+    "ordinal": 548,
+    "reduced": 589
+  }
+}

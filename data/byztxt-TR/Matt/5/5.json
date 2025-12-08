@@ -1,0 +1,130 @@
+{
+  "text": "μακαριοι οι πραεις οτι αυτοι κληρονομησουσιν την γην",
+  "words": [
+    {
+      "position": 1,
+      "text": "μακαριοι",
+      "lemma": [
+        "G3107"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3107",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "πραεις",
+      "lemma": [
+        "G4239"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4239",
+      "metadata": {},
+      "gematria": {
+        "standard": 396,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "αυτοι",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-NPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "κληρονομησουσιν",
+      "lemma": [
+        "G2816"
+      ],
+      "morph": "robinson:V-FAI-3P",
+      "strongs": "G2816",
+      "metadata": {},
+      "gematria": {
+        "standard": 1326,
+        "ordinal": 120,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 7,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "γην",
+      "lemma": [
+        "G1093"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1093",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3634,
+    "ordinal": 213,
+    "reduced": 169
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "text": "και αποκριθεισα η μητηρ αυτου ειπεν ουχι αλλα κληθησεται ιωαννης",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "αποκριθεισα",
+      "lemma": [
+        "G611"
+      ],
+      "morph": "robinson:V-AOP-NSF",
+      "strongs": "G611",
+      "metadata": {},
+      "gematria": {
+        "standard": 506,
+        "ordinal": 66,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "μητηρ",
+      "lemma": [
+        "G3384"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3384",
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "ουχι",
+      "lemma": [
+        "G3780"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3780",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "κληθησεται",
+      "lemma": [
+        "G2564"
+      ],
+      "morph": "robinson:V-FPI-3S",
+      "strongs": "G2564",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιωαννης",
+      "lemma": [
+        "G2491"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2491",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5174,
+    "ordinal": 221,
+    "reduced": 215
+  }
+}

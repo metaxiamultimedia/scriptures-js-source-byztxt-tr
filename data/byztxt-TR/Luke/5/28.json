@@ -1,0 +1,100 @@
+{
+  "text": "και καταλιπων απαντα αναστας ηκολουθησεν αυτω",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "καταλιπων",
+      "lemma": [
+        "G2641"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G2641",
+      "metadata": {},
+      "gematria": {
+        "standard": 1292,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "απαντα",
+      "lemma": [
+        "G537"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G537",
+      "metadata": {},
+      "gematria": {
+        "standard": 433,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "αναστας",
+      "lemma": [
+        "G450"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G450",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 28,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ηκολουθησεν",
+      "lemma": [
+        "G190"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G190",
+      "metadata": {},
+      "gematria": {
+        "standard": 870,
+        "ordinal": 66,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4880,
+    "ordinal": 176,
+    "reduced": 146
+  }
+}

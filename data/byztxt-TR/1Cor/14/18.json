@@ -1,0 +1,145 @@
+{
+  "text": "ευχαριστω τω θεω μου παντων υμων μαλλον γλωσσαις λαλων",
+  "words": [
+    {
+      "position": 1,
+      "text": "ευχαριστω",
+      "lemma": [
+        "G2168"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2168",
+      "metadata": {},
+      "gematria": {
+        "standard": 2416,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "παντων",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "μαλλον",
+      "lemma": [
+        "G3123"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3123",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "γλωσσαις",
+      "lemma": [
+        "G1100"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G1100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1444,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "λαλων",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9987,
+    "ordinal": 163,
+    "reduced": 195
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "text": "λεγουσιν αυτω κυριε ινα ανοιχθωσιν ημων οι οφθαλμοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγουσιν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "κυριε",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανοιχθωσιν",
+      "lemma": [
+        "G455"
+      ],
+      "morph": "robinson:V-APS-3P",
+      "strongs": "G455",
+      "metadata": {},
+      "gematria": {
+        "standard": 1800,
+        "ordinal": 55,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 6,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "οφθαλμοι",
+      "lemma": [
+        "G3788"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G3788",
+      "metadata": {},
+      "gematria": {
+        "standard": 730,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6373,
+    "ordinal": 171,
+    "reduced": 181
+  }
+}

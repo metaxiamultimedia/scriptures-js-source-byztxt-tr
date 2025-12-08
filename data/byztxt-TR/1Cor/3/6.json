@@ -1,0 +1,130 @@
+{
+  "text": "εγω εφυτευσα απολλως εποτισεν αλλ ο θεος ηυxανεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "εφυτευσα",
+      "lemma": [
+        "G5452"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G5452",
+      "metadata": {},
+      "gematria": {
+        "standard": 1811,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "απολλως",
+      "lemma": [
+        "G625"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G625",
+      "metadata": {},
+      "gematria": {
+        "standard": 1211,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "εποτισεν",
+      "lemma": [
+        "G4222"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G4222",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "αλλ",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "ηυxανεν",
+      "lemma": [
+        "G837"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G837",
+      "metadata": {},
+      "gematria": {
+        "standard": 514,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5479,
+    "ordinal": 144,
+    "reduced": 178
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "text": "εxισταντο δε παντες και εθαυμαζον λεγοντες προς αλληλους ουκ ιδου παντες ουτοι εισιν οι λαλουντες γαλιλαιοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εxισταντο",
+      "lemma": [
+        "G1839"
+      ],
+      "morph": "robinson:V-IMI-3P",
+      "strongs": "G1839",
+      "metadata": {},
+      "gematria": {
+        "standard": 936,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "παντες",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "εθαυμαζον",
+      "lemma": [
+        "G2296"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G2296",
+      "metadata": {},
+      "gematria": {
+        "standard": 583,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 6,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "αλληλους",
+      "lemma": [
+        "G240"
+      ],
+      "morph": "robinson:C-APM",
+      "strongs": "G240",
+      "metadata": {},
+      "gematria": {
+        "standard": 769,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιδου",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "παντες",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 12,
+      "text": "ουτοι",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NPM",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "εισιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "λαλουντες",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 1086,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "γαλιλαιοι",
+      "lemma": [
+        "G1057"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G1057",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 45,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8143,
+    "ordinal": 353,
+    "reduced": 340
+  }
+}

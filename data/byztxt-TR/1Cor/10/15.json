@@ -1,0 +1,115 @@
+{
+  "text": "ως φρονιμοις λεγω κρινατε υμεις ο φημι",
+  "words": [
+    {
+      "position": 1,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "φρονιμοις",
+      "lemma": [
+        "G5429"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G5429",
+      "metadata": {},
+      "gematria": {
+        "standard": 1050,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "λεγω",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "κρινατε",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-AAM-2P",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 486,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "υμεις",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "φημι",
+      "lemma": [
+        "G5346"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G5346",
+      "metadata": {},
+      "gematria": {
+        "standard": 558,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4657,
+    "ordinal": 112,
+    "reduced": 121
+  }
+}

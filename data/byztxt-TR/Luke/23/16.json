@@ -1,0 +1,70 @@
+{
+  "text": "παιδευσας ουν αυτον απολυσω",
+  "words": [
+    {
+      "position": 1,
+      "text": "παιδευσας",
+      "lemma": [
+        "G3811"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G3811",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "απολυσω",
+      "lemma": [
+        "G630"
+      ],
+      "morph": "robinson:V-FAI-1S",
+      "strongs": "G630",
+      "metadata": {},
+      "gematria": {
+        "standard": 1581,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3823,
+    "ordinal": 94,
+    "reduced": 97
+  }
+}

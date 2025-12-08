@@ -1,0 +1,100 @@
+{
+  "text": "ολοκαυτωματα και περι αμαρτιας ουκ ευδοκησας",
+  "words": [
+    {
+      "position": 1,
+      "text": "ολοκαυτωματα",
+      "lemma": [
+        "G3646"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G3646",
+      "metadata": {},
+      "gematria": {
+        "standard": 2033,
+        "ordinal": 78,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "αμαρτιας",
+      "lemma": [
+        "G266"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G266",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 36,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "ευδοκησας",
+      "lemma": [
+        "G2106"
+      ],
+      "morph": "robinson:V-AAI-2S",
+      "strongs": "G2106",
+      "metadata": {},
+      "gematria": {
+        "standard": 908,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4310,
+    "ordinal": 181,
+    "reduced": 125
+  }
+}

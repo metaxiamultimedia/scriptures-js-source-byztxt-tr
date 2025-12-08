@@ -1,0 +1,85 @@
+{
+  "text": "και εφαγον παντες και εχορτασθησαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "εφαγον",
+      "lemma": [
+        "G5315"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G5315",
+      "metadata": {},
+      "gematria": {
+        "standard": 629,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "παντες",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "εχορτασθησαν",
+      "lemma": [
+        "G5526"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G5526",
+      "metadata": {},
+      "gematria": {
+        "standard": 1544,
+        "ordinal": 78,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2871,
+    "ordinal": 132,
+    "reduced": 108
+  }
+}

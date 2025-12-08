@@ -1,0 +1,190 @@
+{
+  "text": "εστω δε εγω ου κατεβαρησα υμας αλλ υπαρχων πανουργος δολω υμας ελαβον",
+  "words": [
+    {
+      "position": 1,
+      "text": "εστω",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατεβαρησα",
+      "lemma": [
+        "G2599"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G2599",
+      "metadata": {},
+      "gematria": {
+        "standard": 638,
+        "ordinal": 55,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "αλλ",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "υπαρχων",
+      "lemma": [
+        "G5225"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G5225",
+      "metadata": {},
+      "gematria": {
+        "standard": 2031,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 9,
+      "text": "πανουργος",
+      "lemma": [
+        "G3835"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3835",
+      "metadata": {},
+      "gematria": {
+        "standard": 974,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "δολω",
+      "lemma": [
+        "G1388"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G1388",
+      "metadata": {},
+      "gematria": {
+        "standard": 904,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ελαβον",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-2AAI-1S",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 158,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8640,
+    "ordinal": 207,
+    "reduced": 225
+  }
+}

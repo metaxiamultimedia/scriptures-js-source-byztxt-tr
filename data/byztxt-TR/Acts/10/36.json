@@ -1,0 +1,250 @@
+{
+  "text": "τον λογον ον απεστειλεν τοις υιοις ισραηλ ευαγγελιζομενος ειρηνην δια ιησου χριστου ουτος εστιν παντων κυριος",
+  "words": [
+    {
+      "position": 1,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "ον",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "απεστειλεν",
+      "lemma": [
+        "G649"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G649",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "υιοις",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ισραηλ",
+      "lemma": [
+        "G2474"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2474",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ευαγγελιζομενος",
+      "lemma": [
+        "G2097"
+      ],
+      "morph": "robinson:V-PMP-NSM",
+      "strongs": "G2097",
+      "metadata": {},
+      "gematria": {
+        "standard": 899,
+        "ordinal": 120,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 9,
+      "text": "ειρηνην",
+      "lemma": [
+        "G1515"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1515",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "ουτος",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSM",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "παντων",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "κυριος",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10267,
+    "ordinal": 394,
+    "reduced": 367
+  }
+}

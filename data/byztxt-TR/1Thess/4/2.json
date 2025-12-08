@@ -1,0 +1,160 @@
+{
+  "text": "οιδατε γαρ τινας παραγγελιας εδωκαμεν υμιν δια του κυριου ιησου",
+  "words": [
+    {
+      "position": 1,
+      "text": "οιδατε",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAI-2P",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "τινας",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-APF",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 561,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "παραγγελιας",
+      "lemma": [
+        "G3852"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G3852",
+      "metadata": {},
+      "gematria": {
+        "standard": 434,
+        "ordinal": 66,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "εδωκαμεν",
+      "lemma": [
+        "G1325"
+      ],
+      "morph": "robinson:V-AAI-1P",
+      "strongs": "G1325",
+      "metadata": {},
+      "gematria": {
+        "standard": 925,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5387,
+    "ordinal": 202,
+    "reduced": 176
+  }
+}

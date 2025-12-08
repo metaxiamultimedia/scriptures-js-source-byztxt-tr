@@ -1,0 +1,235 @@
+{
+  "text": "εαν δε και χωρισθη μενετω αγαμος η τω ανδρι καταλλαγητω και ανδρα γυναικα μη αφιεναι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "χωρισθη",
+      "lemma": [
+        "G5563"
+      ],
+      "morph": "robinson:V-APS-3S",
+      "strongs": "G5563",
+      "metadata": {},
+      "gematria": {
+        "standard": 1727,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "μενετω",
+      "lemma": [
+        "G3306"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G3306",
+      "metadata": {},
+      "gematria": {
+        "standard": 1200,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "αγαμος",
+      "lemma": [
+        "G22"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G22",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ανδρι",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "καταλλαγητω",
+      "lemma": [
+        "G2644"
+      ],
+      "morph": "robinson:V-2APM-3S",
+      "strongs": "G2644",
+      "metadata": {},
+      "gematria": {
+        "standard": 1494,
+        "ordinal": 66,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "ανδρα",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "γυναικα",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "αφιεναι",
+      "lemma": [
+        "G863"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G863",
+      "metadata": {},
+      "gematria": {
+        "standard": 577,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7402,
+    "ordinal": 250,
+    "reduced": 238
+  }
+}

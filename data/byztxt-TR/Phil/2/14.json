@@ -1,0 +1,100 @@
+{
+  "text": "παντα ποιειτε χωρις γογγυσμων και διαλογισμων",
+  "words": [
+    {
+      "position": 1,
+      "text": "παντα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ποιειτε",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "χωρις",
+      "lemma": [
+        "G5565"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5565",
+      "metadata": {},
+      "gematria": {
+        "standard": 1710,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "γογγυσμων",
+      "lemma": [
+        "G1112"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G1112",
+      "metadata": {},
+      "gematria": {
+        "standard": 1569,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "διαλογισμων",
+      "lemma": [
+        "G1261"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G1261",
+      "metadata": {},
+      "gematria": {
+        "standard": 1218,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5440,
+    "ordinal": 175,
+    "reduced": 148
+  }
+}

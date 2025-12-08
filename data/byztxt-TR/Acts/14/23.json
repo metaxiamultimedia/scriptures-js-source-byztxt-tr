@@ -1,0 +1,250 @@
+{
+  "text": "χειροτονησαντες δε αυτοις πρεσβυτερους κατ εκκλησιαν προσευxαμενοι μετα νηστειων παρεθεντο αυτους τω κυριω εις ον πεπιστευκεισαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "χειροτονησαντες",
+      "lemma": [
+        "G5500"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G5500",
+      "metadata": {},
+      "gematria": {
+        "standard": 1969,
+        "ordinal": 120,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρεσβυτερους",
+      "lemma": [
+        "G4245"
+      ],
+      "morph": "robinson:A-APM-C",
+      "strongs": "G4245",
+      "metadata": {},
+      "gematria": {
+        "standard": 1862,
+        "ordinal": 78,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατ",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "εκκλησιαν",
+      "lemma": [
+        "G1577"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1577",
+      "metadata": {},
+      "gematria": {
+        "standard": 344,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "προσευxαμενοι",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-ADP-NPM",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 78,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 8,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "νηστειων",
+      "lemma": [
+        "G3521"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G3521",
+      "metadata": {},
+      "gematria": {
+        "standard": 1423,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 10,
+      "text": "παρεθεντο",
+      "lemma": [
+        "G3908"
+      ],
+      "morph": "robinson:V-2AMI-3P",
+      "strongs": "G3908",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 11,
+      "text": "αυτους",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-APM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "κυριω",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "ον",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "πεπιστευκεισαν",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-LAI-3P",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1366,
+        "ordinal": 105,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14408,
+    "ordinal": 595,
+    "reduced": 431
+  }
+}

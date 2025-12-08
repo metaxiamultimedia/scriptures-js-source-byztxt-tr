@@ -1,0 +1,85 @@
+{
+  "text": "ο εχων ωτα ακουειν ακουετω",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "εχων",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "ωτα",
+      "lemma": [
+        "G3775"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G3775",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "ακουειν",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ακουετω",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1596,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4778,
+    "ordinal": 73,
+    "reduced": 98
+  }
+}

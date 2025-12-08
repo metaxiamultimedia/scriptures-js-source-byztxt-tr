@@ -1,0 +1,310 @@
+{
+  "text": "και προσελθων εις των γραμματεων ακουσας αυτων συζητουντων ειδως οτι καλως αυτοις απεκριθη επηρωτησεν αυτον ποια εστιν πρωτη πασων εντολη",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσελθων",
+      "lemma": [
+        "G4334"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G4334",
+      "metadata": {},
+      "gematria": {
+        "standard": 1344,
+        "ordinal": 45,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "εις",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "γραμματεων",
+      "lemma": [
+        "G1122"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G1122",
+      "metadata": {},
+      "gematria": {
+        "standard": 1340,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "ακουσας",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "συζητουντων",
+      "lemma": [
+        "G4802"
+      ],
+      "morph": "robinson:V-PAP-GPM",
+      "strongs": "G4802",
+      "metadata": {},
+      "gematria": {
+        "standard": 2585,
+        "ordinal": 66,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 9,
+      "text": "ειδως",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAP-NSM",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 1019,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "καλως",
+      "lemma": [
+        "G2573"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2573",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "απεκριθη",
+      "lemma": [
+        "G611"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G611",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "επηρωτησεν",
+      "lemma": [
+        "G1905"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1905",
+      "metadata": {},
+      "gematria": {
+        "standard": 1556,
+        "ordinal": 55,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 15,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "ποια",
+      "lemma": [
+        "G4169"
+      ],
+      "morph": "robinson:I-NSF",
+      "strongs": "G4169",
+      "metadata": {},
+      "gematria": {
+        "standard": 161,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "πρωτη",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-NSF-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "πασων",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-GPF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 1131,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 20,
+      "text": "εντολη",
+      "lemma": [
+        "G1785"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1785",
+      "metadata": {},
+      "gematria": {
+        "standard": 463,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 18757,
+    "ordinal": 466,
+    "reduced": 496
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "text": "αγαθοεργειν πλουτειν εν εργοις καλοις ευμεταδοτους ειναι κοινωνικους",
+  "words": [
+    {
+      "position": 1,
+      "text": "αγαθοεργειν",
+      "lemma": [
+        "G14"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G14",
+      "metadata": {},
+      "gematria": {
+        "standard": 257,
+        "ordinal": 66,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 2,
+      "text": "πλουτειν",
+      "lemma": [
+        "G4147"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G4147",
+      "metadata": {},
+      "gematria": {
+        "standard": 945,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "εργοις",
+      "lemma": [
+        "G2041"
+      ],
+      "morph": "robinson:N-DPN",
+      "strongs": "G2041",
+      "metadata": {},
+      "gematria": {
+        "standard": 388,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "καλοις",
+      "lemma": [
+        "G2570"
+      ],
+      "morph": "robinson:A-DPN",
+      "strongs": "G2570",
+      "metadata": {},
+      "gematria": {
+        "standard": 331,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ευμεταδοτους",
+      "lemma": [
+        "G2130"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G2130",
+      "metadata": {},
+      "gematria": {
+        "standard": 1795,
+        "ordinal": 78,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 7,
+      "text": "ειναι",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "κοινωνικους",
+      "lemma": [
+        "G2843"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G2843",
+      "metadata": {},
+      "gematria": {
+        "standard": 1700,
+        "ordinal": 66,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5547,
+    "ordinal": 306,
+    "reduced": 228
+  }
+}

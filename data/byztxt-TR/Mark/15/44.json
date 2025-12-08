@@ -1,0 +1,250 @@
+{
+  "text": "ο δε πιλατος εθαυμασεν ει ηδη τεθνηκεν και προσκαλεσαμενος τον κεντυριωνα επηρωτησεν αυτον ει παλαι απεθανεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πιλατος",
+      "lemma": [
+        "G4091"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4091",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "εθαυμασεν",
+      "lemma": [
+        "G2296"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2296",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "ηδη",
+      "lemma": [
+        "G2235"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2235",
+      "metadata": {},
+      "gematria": {
+        "standard": 20,
+        "ordinal": 6,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "τεθνηκεν",
+      "lemma": [
+        "G2348"
+      ],
+      "morph": "robinson:V-RAI-3S",
+      "strongs": "G2348",
+      "metadata": {},
+      "gematria": {
+        "standard": 447,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "προσκαλεσαμενος",
+      "lemma": [
+        "G4341"
+      ],
+      "morph": "robinson:V-ADP-NSM",
+      "strongs": "G4341",
+      "metadata": {},
+      "gematria": {
+        "standard": 1072,
+        "ordinal": 120,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 10,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "κεντυριωνα",
+      "lemma": [
+        "G2760"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2760",
+      "metadata": {},
+      "gematria": {
+        "standard": 1736,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 12,
+      "text": "επηρωτησεν",
+      "lemma": [
+        "G1905"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1905",
+      "metadata": {},
+      "gematria": {
+        "standard": 1556,
+        "ordinal": 55,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 13,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "παλαι",
+      "lemma": [
+        "G3819"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3819",
+      "metadata": {},
+      "gematria": {
+        "standard": 122,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "απεθανεν",
+      "lemma": [
+        "G599"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G599",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7937,
+    "ordinal": 433,
+    "reduced": 386
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "text": "τι γαρ οιδας γυναι ει τον ανδρα σωσεις η τι οιδας ανερ ει την γυναικα σωσεις",
+  "words": [
+    {
+      "position": 1,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-ASN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "οιδας",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAI-2S",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 285,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "γυναι",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-VSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 464,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ανδρα",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "σωσεις",
+      "lemma": [
+        "G4982"
+      ],
+      "morph": "robinson:V-FAI-2S",
+      "strongs": "G4982",
+      "metadata": {},
+      "gematria": {
+        "standard": 1415,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 10,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-ASN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "οιδας",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAI-2S",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 285,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "ανερ",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "γυναικα",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "σωσεις",
+      "lemma": [
+        "G4982"
+      ],
+      "morph": "robinson:V-FAI-2S",
+      "strongs": "G4982",
+      "metadata": {},
+      "gematria": {
+        "standard": 1415,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6201,
+    "ordinal": 171,
+    "reduced": 189
+  }
+}

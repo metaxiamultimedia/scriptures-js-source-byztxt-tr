@@ -1,0 +1,160 @@
+{
+  "text": "και φωνησαντες επυνθανοντο ει σιμων ο επικαλουμενος πετρος ενθαδε xενιζεται",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "φωνησαντες",
+      "lemma": [
+        "G5455"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G5455",
+      "metadata": {},
+      "gematria": {
+        "standard": 2114,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 3,
+      "text": "επυνθανοντο",
+      "lemma": [
+        "G4441"
+      ],
+      "morph": "robinson:V-INI-3P",
+      "strongs": "G4441",
+      "metadata": {},
+      "gematria": {
+        "standard": 1085,
+        "ordinal": 66,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 4,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "σιμων",
+      "lemma": [
+        "G4613"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "επικαλουμενος",
+      "lemma": [
+        "G1941"
+      ],
+      "morph": "robinson:V-PPP-NSM",
+      "strongs": "G1941",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 91,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 8,
+      "text": "πετρος",
+      "lemma": [
+        "G4074"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4074",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "ενθαδε",
+      "lemma": [
+        "G1759"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1759",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "xενιζεται",
+      "lemma": [
+        "G3579"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G3579",
+      "metadata": {},
+      "gematria": {
+        "standard": 388,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6613,
+    "ordinal": 315,
+    "reduced": 277
+  }
+}

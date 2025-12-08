@@ -1,0 +1,265 @@
+{
+  "text": "η αγνοειτε αδελφοι γινωσκουσιν γαρ νομον λαλω οτι ο νομος κυριευει του ανθρωπου εφ οσον χρονον ζη",
+  "words": [
+    {
+      "position": 1,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "αγνοειτε",
+      "lemma": [
+        "G50"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G50",
+      "metadata": {},
+      "gematria": {
+        "standard": 444,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "γινωσκουσιν",
+      "lemma": [
+        "G1097"
+      ],
+      "morph": "robinson:V-PAP-DPM",
+      "strongs": "G1097",
+      "metadata": {},
+      "gematria": {
+        "standard": 1813,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 6,
+      "text": "νομον",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "λαλω",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "νομος",
+      "lemma": [
+        "G3551"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3551",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "κυριευει",
+      "lemma": [
+        "G2961"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2961",
+      "metadata": {},
+      "gematria": {
+        "standard": 950,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "ανθρωπου",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "εφ",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 15,
+      "text": "οσον",
+      "lemma": [
+        "G3745"
+      ],
+      "morph": "robinson:K-ASM",
+      "strongs": "G3745",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "χρονον",
+      "lemma": [
+        "G5550"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5550",
+      "metadata": {},
+      "gematria": {
+        "standard": 940,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 17,
+      "text": "ζη",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10090,
+    "ordinal": 299,
+    "reduced": 352
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "text": "μοιχοι και μοιχαλιδες ουκ οιδατε οτι η φιλια του κοσμου εχθρα του θεου εστιν ος αν ουν βουληθη φιλος ειναι του κοσμου εχθρος του θεου καθισταται",
+  "words": [
+    {
+      "position": 1,
+      "text": "μοιχοι",
+      "lemma": [
+        "G3432"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G3432",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "μοιχαλιδες",
+      "lemma": [
+        "G3428"
+      ],
+      "morph": "robinson:N-VPF",
+      "strongs": "G3428",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 55,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "οιδατε",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAI-2P",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "φιλια",
+      "lemma": [
+        "G5373"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G5373",
+      "metadata": {},
+      "gematria": {
+        "standard": 551,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "κοσμου",
+      "lemma": [
+        "G2889"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2889",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "εχθρα",
+      "lemma": [
+        "G2189"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2189",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "αν",
+      "lemma": [
+        "G302"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G302",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "βουληθη",
+      "lemma": [
+        "G1014"
+      ],
+      "morph": "robinson:V-AOS-3S",
+      "strongs": "G1014",
+      "metadata": {},
+      "gematria": {
+        "standard": 527,
+        "ordinal": 28,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 19,
+      "text": "φιλος",
+      "lemma": [
+        "G5384"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G5384",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 20,
+      "text": "ειναι",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 21,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 22,
+      "text": "κοσμου",
+      "lemma": [
+        "G2889"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2889",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "εχθρος",
+      "lemma": [
+        "G2190"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G2190",
+      "metadata": {},
+      "gematria": {
+        "standard": 984,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 24,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 25,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 26,
+      "text": "καθισταται",
+      "lemma": [
+        "G2525"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G2525",
+      "metadata": {},
+      "gematria": {
+        "standard": 852,
+        "ordinal": 55,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14638,
+    "ordinal": 393,
+    "reduced": 481
+  }
+}

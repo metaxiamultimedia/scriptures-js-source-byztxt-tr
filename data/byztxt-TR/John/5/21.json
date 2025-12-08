@@ -1,0 +1,250 @@
+{
+  "text": "ωσπερ γαρ ο πατηρ εγειρει τους νεκρους και ζωοποιει ουτως και ο υιος ους θελει ζωοποιει",
+  "words": [
+    {
+      "position": 1,
+      "text": "ωσπερ",
+      "lemma": [
+        "G5618"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5618",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "πατηρ",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "εγειρει",
+      "lemma": [
+        "G1453"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1453",
+      "metadata": {},
+      "gematria": {
+        "standard": 138,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "νεκρους",
+      "lemma": [
+        "G3498"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G3498",
+      "metadata": {},
+      "gematria": {
+        "standard": 845,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "ζωοποιει",
+      "lemma": [
+        "G2227"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2227",
+      "metadata": {},
+      "gematria": {
+        "standard": 1052,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "ουτως",
+      "lemma": [
+        "G3779"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3779",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "υιος",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ους",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-APM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "θελει",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 59,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "ζωοποιει",
+      "lemma": [
+        "G2227"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2227",
+      "metadata": {},
+      "gematria": {
+        "standard": 1052,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9216,
+    "ordinal": 234,
+    "reduced": 297
+  }
+}

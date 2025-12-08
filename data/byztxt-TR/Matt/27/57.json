@@ -1,0 +1,250 @@
+{
+  "text": "οψιας δε γενομενης ηλθεν ανθρωπος πλουσιος απο αριμαθαιας τουνομα ιωσηφ ος και αυτος εμαθητευσεν τω ιησου",
+  "words": [
+    {
+      "position": 1,
+      "text": "οψιας",
+      "lemma": [
+        "G3798"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G3798",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "γενομενης",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADP-GSF",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 4,
+      "text": "ηλθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 6,
+      "text": "πλουσιος",
+      "lemma": [
+        "G4145"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G4145",
+      "metadata": {},
+      "gematria": {
+        "standard": 1060,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "αριμαθαιας",
+      "lemma": [
+        "G707"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G707",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 55,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "τουνομα",
+      "lemma": [
+        "G5122"
+      ],
+      "morph": "robinson:ADV-K",
+      "strongs": "G5122",
+      "metadata": {},
+      "gematria": {
+        "standard": 931,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "ιωσηφ",
+      "lemma": [
+        "G2501"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2501",
+      "metadata": {},
+      "gematria": {
+        "standard": 1518,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "αυτος",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-NSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "εμαθητευσεν",
+      "lemma": [
+        "G3100"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G3100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1023,
+        "ordinal": 66,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 15,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10949,
+    "ordinal": 362,
+    "reduced": 383
+  }
+}

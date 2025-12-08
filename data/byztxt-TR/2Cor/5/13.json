@@ -1,0 +1,115 @@
+{
+  "text": "ειτε γαρ εxεστημεν θεω ειτε σωφρονουμεν υμιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ειτε",
+      "lemma": [
+        "G1535"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1535",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "εxεστημεν",
+      "lemma": [
+        "G1839"
+      ],
+      "morph": "robinson:V-2AAI-1P",
+      "strongs": "G1839",
+      "metadata": {},
+      "gematria": {
+        "standard": 613,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "ειτε",
+      "lemma": [
+        "G1535"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1535",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "σωφρονουμεν",
+      "lemma": [
+        "G4993"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G4993",
+      "metadata": {},
+      "gematria": {
+        "standard": 2285,
+        "ordinal": 66,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 7,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4956,
+    "ordinal": 144,
+    "reduced": 159
+  }
+}

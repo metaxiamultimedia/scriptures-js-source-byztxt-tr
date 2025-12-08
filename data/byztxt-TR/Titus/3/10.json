@@ -1,0 +1,130 @@
+{
+  "text": "αιρετικον ανθρωπον μετα μιαν και δευτεραν νουθεσιαν παραιτου",
+  "words": [
+    {
+      "position": 1,
+      "text": "αιρετικον",
+      "lemma": [
+        "G141"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G141",
+      "metadata": {},
+      "gematria": {
+        "standard": 566,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "ανθρωπον",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 3,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "μιαν",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 101,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "δευτεραν",
+      "lemma": [
+        "G1208"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G1208",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "νουθεσιαν",
+      "lemma": [
+        "G3559"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3559",
+      "metadata": {},
+      "gematria": {
+        "standard": 795,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 8,
+      "text": "παραιτου",
+      "lemma": [
+        "G3868"
+      ],
+      "morph": "robinson:V-PNM-2S",
+      "strongs": "G3868",
+      "metadata": {},
+      "gematria": {
+        "standard": 962,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4826,
+    "ordinal": 224,
+    "reduced": 191
+  }
+}

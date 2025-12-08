@@ -1,0 +1,205 @@
+{
+  "text": "λεγει αυτοις ο ιησους γεμισατε τας υδριας υδατος και εγεμισαν αυτας εως ανω",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "γεμισατε",
+      "lemma": [
+        "G1072"
+      ],
+      "morph": "robinson:V-AAM-2P",
+      "strongs": "G1072",
+      "metadata": {},
+      "gematria": {
+        "standard": 564,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "τας",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "υδριας",
+      "lemma": [
+        "G5201"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G5201",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 21,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "υδατος",
+      "lemma": [
+        "G5204"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G5204",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "εγεμισαν",
+      "lemma": [
+        "G1072"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G1072",
+      "metadata": {},
+      "gematria": {
+        "standard": 314,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "αυτας",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-APF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "εως",
+      "lemma": [
+        "G2193"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2193",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ανω",
+      "lemma": [
+        "G507"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G507",
+      "metadata": {},
+      "gematria": {
+        "standard": 851,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7850,
+    "ordinal": 211,
+    "reduced": 200
+  }
+}

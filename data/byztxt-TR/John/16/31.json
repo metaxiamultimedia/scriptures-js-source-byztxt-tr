@@ -1,0 +1,100 @@
+{
+  "text": "απεκριθη αυτοις ο ιησους αρτι πιστευετε",
+  "words": [
+    {
+      "position": 1,
+      "text": "απεκριθη",
+      "lemma": [
+        "G611"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G611",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "αρτι",
+      "lemma": [
+        "G737"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G737",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 10,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "πιστευετε",
+      "lemma": [
+        "G4100"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G4100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3888,
+    "ordinal": 134,
+    "reduced": 126
+  }
+}

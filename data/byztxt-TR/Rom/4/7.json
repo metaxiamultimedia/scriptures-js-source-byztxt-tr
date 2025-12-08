@@ -1,0 +1,160 @@
+{
+  "text": "μακαριοι ων αφεθησαν αι ανομιαι και ων επεκαλυφθησαν αι αμαρτιαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "μακαριοι",
+      "lemma": [
+        "G3107"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3107",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ων",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GPM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "αφεθησαν",
+      "lemma": [
+        "G863"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G863",
+      "metadata": {},
+      "gematria": {
+        "standard": 774,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "αι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανομιαι",
+      "lemma": [
+        "G458"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G458",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "ων",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GPM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "επεκαλυφθησαν",
+      "lemma": [
+        "G1943"
+      ],
+      "morph": "robinson:V-API-3P",
+      "strongs": "G1943",
+      "metadata": {},
+      "gematria": {
+        "standard": 1309,
+        "ordinal": 91,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 9,
+      "text": "αι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 10,
+      "text": "αμαρτιαι",
+      "lemma": [
+        "G266"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G266",
+      "metadata": {},
+      "gematria": {
+        "standard": 463,
+        "ordinal": 36,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4733,
+    "ordinal": 245,
+    "reduced": 179
+  }
+}

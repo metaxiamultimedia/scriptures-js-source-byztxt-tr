@@ -1,0 +1,310 @@
+{
+  "text": "και προσηλθον αυτω οι φαρισαιοι πειραζοντες αυτον και λεγοντες αυτω ει εxεστιν ανθρωπω απολυσαι την γυναικα αυτου κατα πασαν αιτιαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσηλθον",
+      "lemma": [
+        "G4334"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G4334",
+      "metadata": {},
+      "gematria": {
+        "standard": 617,
+        "ordinal": 45,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "φαρισαιοι",
+      "lemma": [
+        "G5330"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G5330",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 45,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "πειραζοντες",
+      "lemma": [
+        "G3985"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3985",
+      "metadata": {},
+      "gematria": {
+        "standard": 828,
+        "ordinal": 66,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "εxεστιν",
+      "lemma": [
+        "G1832"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1832",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "ανθρωπω",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1840,
+        "ordinal": 28,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 14,
+      "text": "απολυσαι",
+      "lemma": [
+        "G630"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G630",
+      "metadata": {},
+      "gematria": {
+        "standard": 792,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "γυναικα",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 19,
+      "text": "πασαν",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 20,
+      "text": "αιτιαν",
+      "lemma": [
+        "G156"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G156",
+      "metadata": {},
+      "gematria": {
+        "standard": 372,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13232,
+    "ordinal": 425,
+    "reduced": 398
+  }
+}

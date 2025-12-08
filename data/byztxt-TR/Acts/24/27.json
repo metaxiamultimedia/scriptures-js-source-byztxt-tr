@@ -1,0 +1,325 @@
+{
+  "text": "διετιας δε πληρωθεισης ελαβεν διαδοχον ο φηλιx πορκιον φηστον θελων τε χαριτας καταθεσθαι τοις ιουδαιοις ο φηλιx κατελιπεν τον παυλον δεδεμενον",
+  "words": [
+    {
+      "position": 1,
+      "text": "διετιας",
+      "lemma": [
+        "G1333"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1333",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πληρωθεισης",
+      "lemma": [
+        "G4137"
+      ],
+      "morph": "robinson:V-APP-GSF",
+      "strongs": "G4137",
+      "metadata": {},
+      "gematria": {
+        "standard": 1450,
+        "ordinal": 66,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 4,
+      "text": "ελαβεν",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "διαδοχον",
+      "lemma": [
+        "G1240"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G1240",
+      "metadata": {},
+      "gematria": {
+        "standard": 809,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "φηλιx",
+      "lemma": [
+        "G5344"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5344",
+      "metadata": {},
+      "gematria": {
+        "standard": 548,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "πορκιον",
+      "lemma": [
+        "G4201"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G4201",
+      "metadata": {},
+      "gematria": {
+        "standard": 400,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
+      "text": "φηστον",
+      "lemma": [
+        "G5347"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5347",
+      "metadata": {},
+      "gematria": {
+        "standard": 1128,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "θελων",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 894,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G5037",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "χαριτας",
+      "lemma": [
+        "G5485"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G5485",
+      "metadata": {},
+      "gematria": {
+        "standard": 1212,
+        "ordinal": 28,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "καταθεσθαι",
+      "lemma": [
+        "G2698"
+      ],
+      "morph": "robinson:V-2AMN",
+      "strongs": "G2698",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 55,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "ιουδαιοις",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "φηλιx",
+      "lemma": [
+        "G5344"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5344",
+      "metadata": {},
+      "gematria": {
+        "standard": 548,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "κατελιπεν",
+      "lemma": [
+        "G2641"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2641",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 19,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "παυλον",
+      "lemma": [
+        "G3972"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3972",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "δεδεμενον",
+      "lemma": [
+        "G1210"
+      ],
+      "morph": "robinson:V-RPP-ASM",
+      "strongs": "G1210",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11762,
+    "ordinal": 498,
+    "reduced": 494
+  }
+}

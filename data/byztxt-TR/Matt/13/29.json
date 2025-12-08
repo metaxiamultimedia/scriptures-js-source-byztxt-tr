@@ -1,0 +1,205 @@
+{
+  "text": "ο δε εφη ου μηποτε συλλεγοντες τα ζιζανια εκριζωσητε αμα αυτοις τον σιτον",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εφη",
+      "lemma": [
+        "G5346"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G5346",
+      "metadata": {},
+      "gematria": {
+        "standard": 513,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "μηποτε",
+      "lemma": [
+        "G3379"
+      ],
+      "morph": "robinson:ADV-N",
+      "strongs": "G3379",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "συλλεγοντες",
+      "lemma": [
+        "G4816"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G4816",
+      "metadata": {},
+      "gematria": {
+        "standard": 1293,
+        "ordinal": 66,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "ζιζανια",
+      "lemma": [
+        "G2215"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G2215",
+      "metadata": {},
+      "gematria": {
+        "standard": 86,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "εκριζωσητε",
+      "lemma": [
+        "G1610"
+      ],
+      "morph": "robinson:V-AAS-2P",
+      "strongs": "G1610",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "αμα",
+      "lemma": [
+        "G260"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G260",
+      "metadata": {},
+      "gematria": {
+        "standard": 42,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "σιτον",
+      "lemma": [
+        "G4621"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G4621",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6773,
+    "ordinal": 234,
+    "reduced": 248
+  }
+}

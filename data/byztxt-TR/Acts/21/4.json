@@ -1,0 +1,295 @@
+{
+  "text": "και ανευροντες τους μαθητας επεμειναμεν αυτου ημερας επτα οιτινες τω παυλω ελεγον δια του πνευματος μη αναβαινειν εις ιερουσαλημ",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ανευροντες",
+      "lemma": [
+        "G429"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G429",
+      "metadata": {},
+      "gematria": {
+        "standard": 1181,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "μαθητας",
+      "lemma": [
+        "G3101"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G3101",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "επεμειναμεν",
+      "lemma": [
+        "G1961"
+      ],
+      "morph": "robinson:V-AAI-1P",
+      "strongs": "G1961",
+      "metadata": {},
+      "gematria": {
+        "standard": 291,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 9,
+      "text": "αυτου",
+      "lemma": [
+        "G847"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G847",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ημερας",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "επτα",
+      "lemma": [
+        "G2033"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G2033",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "οιτινες",
+      "lemma": [
+        "G3748"
+      ],
+      "morph": "robinson:R-NPM",
+      "strongs": "G3748",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "παυλω",
+      "lemma": [
+        "G3972"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3972",
+      "metadata": {},
+      "gematria": {
+        "standard": 1311,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "ελεγον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "πνευματος",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 1146,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 19,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "αναβαινειν",
+      "lemma": [
+        "G305"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G305",
+      "metadata": {},
+      "gematria": {
+        "standard": 180,
+        "ordinal": 55,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 21,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 22,
+      "text": "ιερουσαλημ",
+      "lemma": [
+        "G2419"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2419",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11400,
+    "ordinal": 454,
+    "reduced": 420
+  }
+}

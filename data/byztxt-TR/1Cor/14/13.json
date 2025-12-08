@@ -1,0 +1,115 @@
+{
+  "text": "διοπερ ο λαλων γλωσση προσευχεσθω ινα διερμηνευη",
+  "words": [
+    {
+      "position": 1,
+      "text": "διοπερ",
+      "lemma": [
+        "G1355"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1355",
+      "metadata": {},
+      "gematria": {
+        "standard": 269,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "λαλων",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "γλωσση",
+      "lemma": [
+        "G1100"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1241,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "προσευχεσθω",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-PNM-3S",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 2469,
+        "ordinal": 66,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 6,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "διερμηνευη",
+      "lemma": [
+        "G1329"
+      ],
+      "morph": "robinson:V-PAS-3S",
+      "strongs": "G1329",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 55,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5651,
+    "ordinal": 185,
+    "reduced": 188
+  }
+}

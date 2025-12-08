@@ -1,0 +1,115 @@
+{
+  "text": "καθειλεν δυναστας απο θρονων και υψωσεν ταπεινους",
+  "words": [
+    {
+      "position": 1,
+      "text": "καθειλεν",
+      "lemma": [
+        "G2507"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G2507",
+      "metadata": {},
+      "gematria": {
+        "standard": 130,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "δυναστας",
+      "lemma": [
+        "G1413"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G1413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1156,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "θρονων",
+      "lemma": [
+        "G2362"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G2362",
+      "metadata": {},
+      "gematria": {
+        "standard": 1079,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "υψωσεν",
+      "lemma": [
+        "G5312"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G5312",
+      "metadata": {},
+      "gematria": {
+        "standard": 2155,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "ταπεινους",
+      "lemma": [
+        "G5011"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G5011",
+      "metadata": {},
+      "gematria": {
+        "standard": 1116,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5818,
+    "ordinal": 171,
+    "reduced": 175
+  }
+}

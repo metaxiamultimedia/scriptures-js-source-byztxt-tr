@@ -1,0 +1,250 @@
+{
+  "text": "αδελφοι εγω εμαυτον ου λογιζομαι κατειληφεναι εν δε τα μεν οπισω επιλανθανομενος τοις δε εμπροσθεν επεκτεινομενος",
+  "words": [
+    {
+      "position": 1,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "εμαυτον",
+      "lemma": [
+        "G1683"
+      ],
+      "morph": "robinson:F-1ASM",
+      "strongs": "G1683",
+      "metadata": {},
+      "gematria": {
+        "standard": 866,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "λογιζομαι",
+      "lemma": [
+        "G3049"
+      ],
+      "morph": "robinson:V-PNI-1S",
+      "strongs": "G3049",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "κατειληφεναι",
+      "lemma": [
+        "G2638"
+      ],
+      "morph": "robinson:V-2RAN",
+      "strongs": "G2638",
+      "metadata": {},
+      "gematria": {
+        "standard": 940,
+        "ordinal": 78,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 7,
+      "text": "εν",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-ASN",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "οπισω",
+      "lemma": [
+        "G3694"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3694",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "επιλανθανομενος",
+      "lemma": [
+        "G1950"
+      ],
+      "morph": "robinson:V-PNP-NSM",
+      "strongs": "G1950",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 120,
+        "reduced": 68
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 14,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "εμπροσθεν",
+      "lemma": [
+        "G1715"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1715",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 45,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 16,
+      "text": "επεκτεινομενος",
+      "lemma": [
+        "G1901"
+      ],
+      "morph": "robinson:V-PNP-NSM",
+      "strongs": "G1901",
+      "metadata": {},
+      "gematria": {
+        "standard": 910,
+        "ordinal": 105,
+        "reduced": 64
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8294,
+    "ordinal": 501,
+    "reduced": 419
+  }
+}

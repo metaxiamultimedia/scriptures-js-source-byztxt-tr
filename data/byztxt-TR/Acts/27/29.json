@@ -1,0 +1,250 @@
+{
+  "text": "φοβουμενοι τε μηπως εις τραχεις τοπους εκπεσωσιν εκπεσωμεν εκ πρυμνης ριψαντες αγκυρας τεσσαρας ηυχοντο ημεραν γενεσθαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "φοβουμενοι",
+      "lemma": [
+        "G5399"
+      ],
+      "morph": "robinson:V-PNP-NPM",
+      "strongs": "G5399",
+      "metadata": {},
+      "gematria": {
+        "standard": 1217,
+        "ordinal": 55,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 2,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G5037",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "μηπως",
+      "lemma": [
+        "G3381"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3381",
+      "metadata": {},
+      "gematria": {
+        "standard": 1128,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "τραχεις",
+      "lemma": [
+        "G5138"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G5138",
+      "metadata": {},
+      "gematria": {
+        "standard": 1216,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοπους",
+      "lemma": [
+        "G5117"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G5117",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "εκπεσωσιν",
+      "lemma": [
+        "G1601"
+      ],
+      "morph": "robinson:V-2AAS-3P",
+      "strongs": "G1601",
+      "metadata": {},
+      "gematria": {
+        "standard": 1370,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "εκπεσωμεν",
+      "lemma": [
+        "G1601"
+      ],
+      "morph": "robinson:V-2AAS-1P",
+      "strongs": "G1601",
+      "metadata": {},
+      "gematria": {
+        "standard": 1205,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "εκ",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "πρυμνης",
+      "lemma": [
+        "G4403"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4403",
+      "metadata": {},
+      "gematria": {
+        "standard": 878,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "ριψαντες",
+      "lemma": [
+        "G4496"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G4496",
+      "metadata": {},
+      "gematria": {
+        "standard": 1366,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "αγκυρας",
+      "lemma": [
+        "G45"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G45",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 28,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "τεσσαρας",
+      "lemma": [
+        "G5064"
+      ],
+      "morph": "robinson:A-APF",
+      "strongs": "G5064",
+      "metadata": {},
+      "gematria": {
+        "standard": 1007,
+        "ordinal": 36,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "ηυχοντο",
+      "lemma": [
+        "G2172"
+      ],
+      "morph": "robinson:V-INI-3P",
+      "strongs": "G2172",
+      "metadata": {},
+      "gematria": {
+        "standard": 1498,
+        "ordinal": 28,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 18,
+      "text": "ημεραν",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 204,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "γενεσθαι",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADN",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 283,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13762,
+    "ordinal": 434,
+    "reduced": 415
+  }
+}

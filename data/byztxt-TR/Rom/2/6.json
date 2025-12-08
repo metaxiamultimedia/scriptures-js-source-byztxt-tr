@@ -1,0 +1,115 @@
+{
+  "text": "ος αποδωσει εκαστω κατα τα εργα αυτου",
+  "words": [
+    {
+      "position": 1,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "αποδωσει",
+      "lemma": [
+        "G591"
+      ],
+      "morph": "robinson:V-FAI-3S",
+      "strongs": "G591",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "εκαστω",
+      "lemma": [
+        "G1538"
+      ],
+      "morph": "robinson:A-DSM",
+      "strongs": "G1538",
+      "metadata": {},
+      "gematria": {
+        "standard": 1326,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "εργα",
+      "lemma": [
+        "G2041"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G2041",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4669,
+    "ordinal": 98,
+    "reduced": 106
+  }
+}

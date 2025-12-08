@@ -1,0 +1,145 @@
+{
+  "text": "λεγουσιν αυτω διδασκαλε αυτη η γυνη κατειληφθη επαυτοφωρω μοιχευομενη",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγουσιν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "διδασκαλε",
+      "lemma": [
+        "G1320"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G1320",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 45,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "αυτη",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSF",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "γυνη",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατειληφθη",
+      "lemma": [
+        "G2638"
+      ],
+      "morph": "robinson:V-2API-3S",
+      "strongs": "G2638",
+      "metadata": {},
+      "gematria": {
+        "standard": 891,
+        "ordinal": 55,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 8,
+      "text": "επαυτοφωρω",
+      "lemma": [
+        "G1888"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1888",
+      "metadata": {},
+      "gematria": {
+        "standard": 3056,
+        "ordinal": 55,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 9,
+      "text": "μοιχευομενη",
+      "lemma": [
+        "G3431"
+      ],
+      "morph": "robinson:V-PPP-NSF",
+      "strongs": "G3431",
+      "metadata": {},
+      "gematria": {
+        "standard": 1298,
+        "ordinal": 66,
+        "reduced": 56
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8967,
+    "ordinal": 288,
+    "reduced": 264
+  }
+}

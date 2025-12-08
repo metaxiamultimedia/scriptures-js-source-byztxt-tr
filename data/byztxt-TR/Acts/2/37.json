@@ -1,0 +1,280 @@
+{
+  "text": "ακουσαντες δε κατενυγησαν τη καρδια ειπον τε προς τον πετρον και τους λοιπους αποστολους τι ποιησομεν ανδρες αδελφοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "ακουσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατενυγησαν",
+      "lemma": [
+        "G2660"
+      ],
+      "morph": "robinson:V-2API-3P",
+      "strongs": "G2660",
+      "metadata": {},
+      "gematria": {
+        "standard": 1038,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 4,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "καρδια",
+      "lemma": [
+        "G2588"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2588",
+      "metadata": {},
+      "gematria": {
+        "standard": 136,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "ειπον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G5037",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "πετρον",
+      "lemma": [
+        "G4074"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G4074",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "λοιπους",
+      "lemma": [
+        "G3062"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G3062",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "αποστολους",
+      "lemma": [
+        "G652"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G652",
+      "metadata": {},
+      "gematria": {
+        "standard": 1421,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 15,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-ASN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 16,
+      "text": "ποιησομεν",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-FAI-1P",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 45,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 17,
+      "text": "ανδρες",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9838,
+    "ordinal": 399,
+    "reduced": 388
+  }
+}

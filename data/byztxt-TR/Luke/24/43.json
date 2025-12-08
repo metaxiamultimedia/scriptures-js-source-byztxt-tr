@@ -1,0 +1,85 @@
+{
+  "text": "και λαβων ενωπιον αυτων εφαγεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "λαβων",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 883,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ενωπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1799",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 4,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "εφαγεν",
+      "lemma": [
+        "G5315"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G5315",
+      "metadata": {},
+      "gematria": {
+        "standard": 564,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4094,
+    "ordinal": 85,
+    "reduced": 107
+  }
+}

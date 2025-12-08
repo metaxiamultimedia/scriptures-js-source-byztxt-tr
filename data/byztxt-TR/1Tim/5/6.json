@@ -1,0 +1,85 @@
+{
+  "text": "η δε σπαταλωσα ζωσα τεθνηκεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "σπαταλωσα",
+      "lemma": [
+        "G4684"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G4684",
+      "metadata": {},
+      "gematria": {
+        "standard": 1613,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ζωσα",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1008,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "τεθνηκεν",
+      "lemma": [
+        "G2348"
+      ],
+      "morph": "robinson:V-RAI-3S",
+      "strongs": "G2348",
+      "metadata": {},
+      "gematria": {
+        "standard": 447,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3085,
+    "ordinal": 95,
+    "reduced": 106
+  }
+}

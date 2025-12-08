@@ -1,0 +1,250 @@
+{
+  "text": "ου δυνασθε ποτηριον κυριου πινειν και ποτηριον δαιμονιων ου δυνασθε τραπεζης κυριου μετεχειν και τραπεζης δαιμονιων",
+  "words": [
+    {
+      "position": 1,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δυνασθε",
+      "lemma": [
+        "G1410"
+      ],
+      "morph": "robinson:V-PNI-2P",
+      "strongs": "G1410",
+      "metadata": {},
+      "gematria": {
+        "standard": 669,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "ποτηριον",
+      "lemma": [
+        "G4221"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G4221",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 4,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "πινειν",
+      "lemma": [
+        "G4095"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G4095",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "ποτηριον",
+      "lemma": [
+        "G4221"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G4221",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "δαιμονιων",
+      "lemma": [
+        "G1140"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G1140",
+      "metadata": {},
+      "gematria": {
+        "standard": 1035,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 9,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "δυνασθε",
+      "lemma": [
+        "G1410"
+      ],
+      "morph": "robinson:V-PNI-2P",
+      "strongs": "G1410",
+      "metadata": {},
+      "gematria": {
+        "standard": 669,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "τραπεζης",
+      "lemma": [
+        "G5132"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G5132",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 12,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "μετεχειν",
+      "lemma": [
+        "G3348"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G3348",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "τραπεζης",
+      "lemma": [
+        "G5132"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G5132",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 16,
+      "text": "δαιμονιων",
+      "lemma": [
+        "G1140"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G1140",
+      "metadata": {},
+      "gematria": {
+        "standard": 1035,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10408,
+    "ordinal": 407,
+    "reduced": 409
+  }
+}

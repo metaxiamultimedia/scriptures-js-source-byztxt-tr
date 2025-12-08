@@ -1,0 +1,115 @@
+{
+  "text": "ων το στομα αρας και πικριας γεμει",
+  "words": [
+    {
+      "position": 1,
+      "text": "ων",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GPM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "στομα",
+      "lemma": [
+        "G4750"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G4750",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "αρας",
+      "lemma": [
+        "G685"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G685",
+      "metadata": {},
+      "gematria": {
+        "standard": 302,
+        "ordinal": 10,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "πικριας",
+      "lemma": [
+        "G4088"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4088",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 28,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "γεμει",
+      "lemma": [
+        "G1073"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1073",
+      "metadata": {},
+      "gematria": {
+        "standard": 63,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2648,
+    "ordinal": 80,
+    "reduced": 83
+  }
+}

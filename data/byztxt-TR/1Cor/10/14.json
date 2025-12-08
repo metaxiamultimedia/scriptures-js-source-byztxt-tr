@@ -1,0 +1,115 @@
+{
+  "text": "διοπερ αγαπητοι μου φευγετε απο της ειδωλολατρειας",
+  "words": [
+    {
+      "position": 1,
+      "text": "διοπερ",
+      "lemma": [
+        "G1355"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1355",
+      "metadata": {},
+      "gematria": {
+        "standard": 269,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "αγαπητοι",
+      "lemma": [
+        "G27"
+      ],
+      "morph": "robinson:A-VPM",
+      "strongs": "G27",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "φευγετε",
+      "lemma": [
+        "G5343"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G5343",
+      "metadata": {},
+      "gematria": {
+        "standard": 1218,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "απο",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "ειδωλολατρειας",
+      "lemma": [
+        "G1495"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1495",
+      "metadata": {},
+      "gematria": {
+        "standard": 1566,
+        "ordinal": 105,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4695,
+    "ordinal": 208,
+    "reduced": 177
+  }
+}

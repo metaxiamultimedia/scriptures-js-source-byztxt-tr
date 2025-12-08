@@ -1,0 +1,280 @@
+{
+  "text": "επι πασιν αναλαβοντες τον θυρεον της πιστεως εν ω δυνησεσθε παντα τα βελη του πονηρου τα πεπυρωμενα σβεσαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "πασιν",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-DPN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "αναλαβοντες",
+      "lemma": [
+        "G353"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G353",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 66,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "θυρεον",
+      "lemma": [
+        "G2375"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2375",
+      "metadata": {},
+      "gematria": {
+        "standard": 634,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "πιστεως",
+      "lemma": [
+        "G4102"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4102",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "ω",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-DSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 10,
+      "text": "δυνησεσθε",
+      "lemma": [
+        "G1410"
+      ],
+      "morph": "robinson:V-FDI-2P",
+      "strongs": "G1410",
+      "metadata": {},
+      "gematria": {
+        "standard": 881,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 11,
+      "text": "παντα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "βελη",
+      "lemma": [
+        "G956"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G956",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "πονηρου",
+      "lemma": [
+        "G4190"
+      ],
+      "morph": "robinson:A-GSM",
+      "strongs": "G4190",
+      "metadata": {},
+      "gematria": {
+        "standard": 778,
+        "ordinal": 28,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 16,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "πεπυρωμενα",
+      "lemma": [
+        "G4448"
+      ],
+      "morph": "robinson:V-RPP-APN",
+      "strongs": "G4448",
+      "metadata": {},
+      "gematria": {
+        "standard": 1561,
+        "ordinal": 55,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 18,
+      "text": "σβεσαι",
+      "lemma": [
+        "G4570"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G4570",
+      "metadata": {},
+      "gematria": {
+        "standard": 418,
+        "ordinal": 21,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10645,
+    "ordinal": 338,
+    "reduced": 376
+  }
+}

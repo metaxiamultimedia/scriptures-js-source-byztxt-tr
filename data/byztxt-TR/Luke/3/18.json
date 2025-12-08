@@ -1,0 +1,145 @@
+{
+  "text": "πολλα μεν ουν και ετερα παρακαλων ευηγγελιζετο τον λαον",
+  "words": [
+    {
+      "position": 1,
+      "text": "πολλα",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "ετερα",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "παρακαλων",
+      "lemma": [
+        "G3870"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G3870",
+      "metadata": {},
+      "gematria": {
+        "standard": 1083,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "ευηγγελιζετο",
+      "lemma": [
+        "G2097"
+      ],
+      "morph": "robinson:V-IMI-3S",
+      "strongs": "G2097",
+      "metadata": {},
+      "gematria": {
+        "standard": 846,
+        "ordinal": 78,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 8,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "λαον",
+      "lemma": [
+        "G2992"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2992",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3768,
+    "ordinal": 187,
+    "reduced": 186
+  }
+}

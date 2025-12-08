@@ -1,0 +1,130 @@
+{
+  "text": "επει πολλοι καυχωνται κατα την σαρκα καγω καυχησομαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "επει",
+      "lemma": [
+        "G1893"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1893",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "πολλοι",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "καυχωνται",
+      "lemma": [
+        "G2744"
+      ],
+      "morph": "robinson:V-PNI-3P",
+      "strongs": "G2744",
+      "metadata": {},
+      "gematria": {
+        "standard": 2182,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "σαρκα",
+      "lemma": [
+        "G4561"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4561",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "καγω",
+      "lemma": [
+        "G2504"
+      ],
+      "morph": "robinson:P-1NS-K",
+      "strongs": "G2504",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "καυχησομαι",
+      "lemma": [
+        "G2744"
+      ],
+      "morph": "robinson:V-FDI-1S",
+      "strongs": "G2744",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5748,
+    "ordinal": 172,
+    "reduced": 159
+  }
+}

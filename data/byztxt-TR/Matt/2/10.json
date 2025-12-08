@@ -1,0 +1,130 @@
+{
+  "text": "ιδοντες δε τον αστερα εχαρησαν χαραν μεγαλην σφοδρα",
+  "words": [
+    {
+      "position": 1,
+      "text": "ιδοντες",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "αστερα",
+      "lemma": [
+        "G792"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G792",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 21,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "εχαρησαν",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-2AOI-3P",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 965,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "χαραν",
+      "lemma": [
+        "G5479"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5479",
+      "metadata": {},
+      "gematria": {
+        "standard": 752,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "μεγαλην",
+      "lemma": [
+        "G3173"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G3173",
+      "metadata": {},
+      "gematria": {
+        "standard": 137,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "σφοδρα",
+      "lemma": [
+        "G4970"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4970",
+      "metadata": {},
+      "gematria": {
+        "standard": 875,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4404,
+    "ordinal": 158,
+    "reduced": 156
+  }
+}

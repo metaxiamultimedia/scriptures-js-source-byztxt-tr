@@ -1,0 +1,340 @@
+{
+  "text": "εις ην το δωδεκαφυλον ημων εν εκτενεια νυκτα και ημεραν λατρευον ελπιζει καταντησαι περι ης ελπιδος εγκαλουμαι βασιλευ αγριππα υπο των ιουδαιων",
+  "words": [
+    {
+      "position": 1,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "ην",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "δωδεκαφυλον",
+      "lemma": [
+        "G1429"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G1429",
+      "metadata": {},
+      "gematria": {
+        "standard": 1884,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 5,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "εκτενεια",
+      "lemma": [
+        "G1616"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1616",
+      "metadata": {},
+      "gematria": {
+        "standard": 396,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "νυκτα",
+      "lemma": [
+        "G3571"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3571",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "ημεραν",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 204,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "λατρευον",
+      "lemma": [
+        "G3000"
+      ],
+      "morph": "robinson:V-PAP-NSN",
+      "strongs": "G3000",
+      "metadata": {},
+      "gematria": {
+        "standard": 956,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "ελπιζει",
+      "lemma": [
+        "G1679"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1679",
+      "metadata": {},
+      "gematria": {
+        "standard": 147,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "καταντησαι",
+      "lemma": [
+        "G2658"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G2658",
+      "metadata": {},
+      "gematria": {
+        "standard": 891,
+        "ordinal": 55,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 14,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "ης",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "ελπιδος",
+      "lemma": [
+        "G1680"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1680",
+      "metadata": {},
+      "gematria": {
+        "standard": 399,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "εγκαλουμαι",
+      "lemma": [
+        "G1458"
+      ],
+      "morph": "robinson:V-PPI-1S",
+      "strongs": "G1458",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 55,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 18,
+      "text": "βασιλευ",
+      "lemma": [
+        "G935"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G935",
+      "metadata": {},
+      "gematria": {
+        "standard": 648,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "αγριππα",
+      "lemma": [
+        "G67"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G67",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 20,
+      "text": "υπο",
+      "lemma": [
+        "G5259"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5259",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 21,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "ιουδαιων",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12226,
+    "ordinal": 488,
+    "reduced": 463
+  }
+}

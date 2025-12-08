@@ -1,0 +1,130 @@
+{
+  "text": "ακουσας δε οχλου διαπορευομενου επυνθανετο τι ειη τουτο",
+  "words": [
+    {
+      "position": 1,
+      "text": "ακουσας",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οχλου",
+      "lemma": [
+        "G3793"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3793",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "διαπορευομενου",
+      "lemma": [
+        "G1279"
+      ],
+      "morph": "robinson:V-PNP-GSM",
+      "strongs": "G1279",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 105,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 5,
+      "text": "επυνθανετο",
+      "lemma": [
+        "G4441"
+      ],
+      "morph": "robinson:V-INI-3S",
+      "strongs": "G4441",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 55,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 6,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-NSN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "ειη",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAO-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 23,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "τουτο",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5819,
+    "ordinal": 230,
+    "reduced": 212
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "text": "και ταυτα ειπων απελυσεν την εκκλησιαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ταυτα",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-APN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ειπων",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 945,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "απελυσεν",
+      "lemma": [
+        "G630"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G630",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "εκκλησιαν",
+      "lemma": [
+        "G1577"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1577",
+      "metadata": {},
+      "gematria": {
+        "standard": 344,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3451,
+    "ordinal": 123,
+    "reduced": 121
+  }
+}

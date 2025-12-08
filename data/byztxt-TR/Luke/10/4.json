@@ -1,0 +1,205 @@
+{
+  "text": "μη βασταζετε βαλαντιον μη πηραν μηδε υποδηματα και μηδενα κατα την οδον ασπασησθε",
+  "words": [
+    {
+      "position": 1,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "βασταζετε",
+      "lemma": [
+        "G941"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G941",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "βαλαντιον",
+      "lemma": [
+        "G905"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G905",
+      "metadata": {},
+      "gematria": {
+        "standard": 514,
+        "ordinal": 45,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "πηραν",
+      "lemma": [
+        "G4082"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4082",
+      "metadata": {},
+      "gematria": {
+        "standard": 239,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "μηδε",
+      "lemma": [
+        "G3366"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3366",
+      "metadata": {},
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "υποδηματα",
+      "lemma": [
+        "G5266"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G5266",
+      "metadata": {},
+      "gematria": {
+        "standard": 904,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "μηδενα",
+      "lemma": [
+        "G3367"
+      ],
+      "morph": "robinson:A-ASM-N",
+      "strongs": "G3367",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 10,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "οδον",
+      "lemma": [
+        "G3598"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3598",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "ασπασησθε",
+      "lemma": [
+        "G782"
+      ],
+      "morph": "robinson:V-ADS-2P",
+      "strongs": "G782",
+      "metadata": {},
+      "gematria": {
+        "standard": 704,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4348,
+    "ordinal": 264,
+    "reduced": 280
+  }
+}

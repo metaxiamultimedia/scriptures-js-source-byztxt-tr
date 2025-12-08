@@ -1,0 +1,235 @@
+{
+  "text": "εχαρην γαρ λιαν ερχομενων αδελφων και μαρτυρουντων σου τη αληθεια καθως συ εν αληθεια περιπατεις",
+  "words": [
+    {
+      "position": 1,
+      "text": "εχαρην",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-2AOI-1S",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "λιαν",
+      "lemma": [
+        "G3029"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3029",
+      "metadata": {},
+      "gematria": {
+        "standard": 91,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ερχομενων",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-PNP-GPM",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 1720,
+        "ordinal": 45,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 5,
+      "text": "αδελφων",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 1390,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "μαρτυρουντων",
+      "lemma": [
+        "G3140"
+      ],
+      "morph": "robinson:V-PAP-GPM",
+      "strongs": "G3140",
+      "metadata": {},
+      "gematria": {
+        "standard": 2611,
+        "ordinal": 78,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "αληθεια",
+      "lemma": [
+        "G225"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G225",
+      "metadata": {},
+      "gematria": {
+        "standard": 64,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "καθως",
+      "lemma": [
+        "G2531"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2531",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "συ",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "αληθεια",
+      "lemma": [
+        "G225"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G225",
+      "metadata": {},
+      "gematria": {
+        "standard": 64,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "περιπατεις",
+      "lemma": [
+        "G4043"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G4043",
+      "metadata": {},
+      "gematria": {
+        "standard": 791,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10293,
+    "ordinal": 335,
+    "reduced": 321
+  }
+}

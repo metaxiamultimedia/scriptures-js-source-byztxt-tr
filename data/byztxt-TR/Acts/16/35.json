@@ -1,0 +1,205 @@
+{
+  "text": "ημερας δε γενομενης απεστειλαν οι στρατηγοι τους ραβδουχους λεγοντες απολυσον τους ανθρωπους εκεινους",
+  "words": [
+    {
+      "position": 1,
+      "text": "ημερας",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "γενομενης",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-2ADP-GSF",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 4,
+      "text": "απεστειλαν",
+      "lemma": [
+        "G649"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G649",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 55,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "στρατηγοι",
+      "lemma": [
+        "G4755"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G4755",
+      "metadata": {},
+      "gematria": {
+        "standard": 992,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ραβδουχους",
+      "lemma": [
+        "G4465"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G4465",
+      "metadata": {},
+      "gematria": {
+        "standard": 1847,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "απολυσον",
+      "lemma": [
+        "G630"
+      ],
+      "morph": "robinson:V-AAM-2S",
+      "strongs": "G630",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ανθρωπους",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1710,
+        "ordinal": 45,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 13,
+      "text": "εκεινους",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-APM",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 760,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10369,
+    "ordinal": 400,
+    "reduced": 361
+  }
+}

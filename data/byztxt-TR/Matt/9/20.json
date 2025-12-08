@@ -1,0 +1,220 @@
+{
+  "text": "και ιδου γυνη αιμορροουσα δωδεκα ετη προσελθουσα οπισθεν ηψατο του κρασπεδου του ιματιου αυτου",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ιδου",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "γυνη",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "αιμορροουσα",
+      "lemma": [
+        "G131"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G131",
+      "metadata": {},
+      "gematria": {
+        "standard": 1062,
+        "ordinal": 66,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "δωδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1427",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "ετη",
+      "lemma": [
+        "G2094"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G2094",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "προσελθουσα",
+      "lemma": [
+        "G4334"
+      ],
+      "morph": "robinson:V-2AAP-NSF",
+      "strongs": "G4334",
+      "metadata": {},
+      "gematria": {
+        "standard": 1165,
+        "ordinal": 66,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 8,
+      "text": "οπισθεν",
+      "lemma": [
+        "G3693"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3693",
+      "metadata": {},
+      "gematria": {
+        "standard": 424,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "ηψατο",
+      "lemma": [
+        "G680"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G680",
+      "metadata": {},
+      "gematria": {
+        "standard": 1079,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "κρασπεδου",
+      "lemma": [
+        "G2899"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G2899",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "ιματιου",
+      "lemma": [
+        "G2440"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G2440",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10275,
+    "ordinal": 328,
+    "reduced": 330
+  }
+}

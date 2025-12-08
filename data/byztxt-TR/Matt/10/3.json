@@ -1,0 +1,265 @@
+{
+  "text": "φιλιππος και βαρθολομαιος θωμας και ματθαιος ο τελωνης ιακωβος ο του αλφαιου και λεββαιος ο επικληθεις θαδδαιος",
+  "words": [
+    {
+      "position": 1,
+      "text": "φιλιππος",
+      "lemma": [
+        "G5376"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5376",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "βαρθολομαιος",
+      "lemma": [
+        "G918"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G918",
+      "metadata": {},
+      "gematria": {
+        "standard": 603,
+        "ordinal": 78,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 4,
+      "text": "θωμας",
+      "lemma": [
+        "G2381"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2381",
+      "metadata": {},
+      "gematria": {
+        "standard": 1050,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "ματθαιος",
+      "lemma": [
+        "G3156"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3156",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "τελωνης",
+      "lemma": [
+        "G5057"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5057",
+      "metadata": {},
+      "gematria": {
+        "standard": 1393,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 9,
+      "text": "ιακωβος",
+      "lemma": [
+        "G2385"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2385",
+      "metadata": {},
+      "gematria": {
+        "standard": 1103,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "αλφαιου",
+      "lemma": [
+        "G256"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G256",
+      "metadata": {},
+      "gematria": {
+        "standard": 1012,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "λεββαιος",
+      "lemma": [
+        "G3002"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3002",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "επικληθεις",
+      "lemma": [
+        "G1941"
+      ],
+      "morph": "robinson:V-APP-NSM",
+      "strongs": "G1941",
+      "metadata": {},
+      "gematria": {
+        "standard": 377,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 17,
+      "text": "θαδδαιος",
+      "lemma": [
+        "G2280"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2280",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8841,
+    "ordinal": 403,
+    "reduced": 354
+  }
+}

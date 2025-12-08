@@ -1,0 +1,325 @@
+{
+  "text": "εαν δε βραδυνω ινα ειδης πως δει εν οικω θεου αναστρεφεσθαι ητις εστιν εκκλησια θεου ζωντος στυλος και εδραιωμα της αληθειας",
+  "words": [
+    {
+      "position": 1,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "βραδυνω",
+      "lemma": [
+        "G1019"
+      ],
+      "morph": "robinson:V-PAS-1S",
+      "strongs": "G1019",
+      "metadata": {},
+      "gematria": {
+        "standard": 1357,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "ειδης",
+      "lemma": [
+        "G1492"
+      ],
+      "morph": "robinson:V-RAS-2S",
+      "strongs": "G1492",
+      "metadata": {},
+      "gematria": {
+        "standard": 227,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "πως",
+      "lemma": [
+        "G4459"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4459",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "δει",
+      "lemma": [
+        "G1163"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1163",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "οικω",
+      "lemma": [
+        "G3624"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3624",
+      "metadata": {},
+      "gematria": {
+        "standard": 900,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "αναστρεφεσθαι",
+      "lemma": [
+        "G390"
+      ],
+      "morph": "robinson:V-PPN",
+      "strongs": "G390",
+      "metadata": {},
+      "gematria": {
+        "standard": 1382,
+        "ordinal": 91,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 12,
+      "text": "ητις",
+      "lemma": [
+        "G3748"
+      ],
+      "morph": "robinson:R-NSF",
+      "strongs": "G3748",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "εκκλησια",
+      "lemma": [
+        "G1577"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1577",
+      "metadata": {},
+      "gematria": {
+        "standard": 294,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "ζωντος",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1427,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "στυλος",
+      "lemma": [
+        "G4769"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4769",
+      "metadata": {},
+      "gematria": {
+        "standard": 1200,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 19,
+      "text": "εδραιωμα",
+      "lemma": [
+        "G1477"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G1477",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 20,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 21,
+      "text": "αληθειας",
+      "lemma": [
+        "G225"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G225",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11882,
+    "ordinal": 381,
+    "reduced": 398
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "text": "ος και ικανωσεν ημας διακονους καινης διαθηκης ου γραμματος αλλα πνευματος το γαρ γραμμα αποκτεινει το δε πνευμα ζωοποιει",
+  "words": [
+    {
+      "position": 1,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "ικανωσεν",
+      "lemma": [
+        "G2427"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2427",
+      "metadata": {},
+      "gematria": {
+        "standard": 1136,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ημας",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "διακονους",
+      "lemma": [
+        "G1249"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G1249",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "καινης",
+      "lemma": [
+        "G2537"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G2537",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "διαθηκης",
+      "lemma": [
+        "G1242"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1242",
+      "metadata": {},
+      "gematria": {
+        "standard": 260,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "γραμματος",
+      "lemma": [
+        "G1121"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G1121",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "πνευματος",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 1146,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 12,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 14,
+      "text": "γραμμα",
+      "lemma": [
+        "G1121"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G1121",
+      "metadata": {},
+      "gematria": {
+        "standard": 185,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "αποκτεινει",
+      "lemma": [
+        "G615"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G615",
+      "metadata": {},
+      "gematria": {
+        "standard": 551,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 16,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "πνευμα",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 19,
+      "text": "ζωοποιει",
+      "lemma": [
+        "G2227"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2227",
+      "metadata": {},
+      "gematria": {
+        "standard": 1052,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8710,
+    "ordinal": 408,
+    "reduced": 385
+  }
+}

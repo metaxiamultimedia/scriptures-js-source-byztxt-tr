@@ -1,0 +1,100 @@
+{
+  "text": "και ελθον ευρισκει σεσαρωμενον και κεκοσμημενον",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ελθον",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAP-NSN",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ευρισκει",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 36,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "σεσαρωμενον",
+      "lemma": [
+        "G4563"
+      ],
+      "morph": "robinson:V-RPP-ASM",
+      "strongs": "G4563",
+      "metadata": {},
+      "gematria": {
+        "standard": 1521,
+        "ordinal": 66,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "κεκοσμημενον",
+      "lemma": [
+        "G2885"
+      ],
+      "morph": "robinson:V-RPP-ASM",
+      "strongs": "G2885",
+      "metadata": {},
+      "gematria": {
+        "standard": 578,
+        "ordinal": 78,
+        "reduced": 56
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3075,
+    "ordinal": 207,
+    "reduced": 159
+  }
+}

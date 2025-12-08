@@ -1,0 +1,115 @@
+{
+  "text": "γυνη εν ησυχια μανθανετω εν παση υποταγη",
+  "words": [
+    {
+      "position": 1,
+      "text": "γυνη",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "ησυχια",
+      "lemma": [
+        "G2271"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2271",
+      "metadata": {},
+      "gematria": {
+        "standard": 1219,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "μανθανετω",
+      "lemma": [
+        "G3129"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G3129",
+      "metadata": {},
+      "gematria": {
+        "standard": 1256,
+        "ordinal": 45,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "παση",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-DSF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "υποταγη",
+      "lemma": [
+        "G5292"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G5292",
+      "metadata": {},
+      "gematria": {
+        "standard": 862,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4197,
+    "ordinal": 120,
+    "reduced": 156
+  }
+}

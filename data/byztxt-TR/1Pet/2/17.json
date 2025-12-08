@@ -1,0 +1,175 @@
+{
+  "text": "παντας τιμησατε την αδελφοτητα αγαπατε τον θεον φοβεισθε τον βασιλεα τιματε",
+  "words": [
+    {
+      "position": 1,
+      "text": "παντας",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "τιμησατε",
+      "lemma": [
+        "G5091"
+      ],
+      "morph": "robinson:V-AAM-2P",
+      "strongs": "G5091",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 3,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "αδελφοτητα",
+      "lemma": [
+        "G81"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G81",
+      "metadata": {},
+      "gematria": {
+        "standard": 1219,
+        "ordinal": 55,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "αγαπατε",
+      "lemma": [
+        "G25"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G25",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεον",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "φοβεισθε",
+      "lemma": [
+        "G5399"
+      ],
+      "morph": "robinson:V-PNM-2P",
+      "strongs": "G5399",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 9,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "βασιλεα",
+      "lemma": [
+        "G935"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G935",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 28,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "τιματε",
+      "lemma": [
+        "G5091"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G5091",
+      "metadata": {},
+      "gematria": {
+        "standard": 656,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6144,
+    "ordinal": 253,
+    "reduced": 249
+  }
+}

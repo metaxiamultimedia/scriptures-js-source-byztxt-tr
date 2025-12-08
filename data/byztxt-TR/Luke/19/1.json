@@ -1,0 +1,85 @@
+{
+  "text": "και εισελθων διηρχετο την ιεριχω",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "εισελθων",
+      "lemma": [
+        "G1525"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G1525",
+      "metadata": {},
+      "gematria": {
+        "standard": 1109,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "διηρχετο",
+      "lemma": [
+        "G1330"
+      ],
+      "morph": "robinson:V-INI-3S",
+      "strongs": "G1330",
+      "metadata": {},
+      "gematria": {
+        "standard": 1097,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ιεριχω",
+      "lemma": [
+        "G2410"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2410",
+      "metadata": {},
+      "gematria": {
+        "standard": 1525,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4120,
+    "ordinal": 105,
+    "reduced": 115
+  }
+}

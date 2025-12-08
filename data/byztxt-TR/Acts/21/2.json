@@ -1,0 +1,130 @@
+{
+  "text": "και ευροντες πλοιον διαπερων εις φοινικην επιβαντες ανηχθημεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ευροντες",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 1130,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "πλοιον",
+      "lemma": [
+        "G4143"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G4143",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "διαπερων",
+      "lemma": [
+        "G1276"
+      ],
+      "morph": "robinson:V-PAP-ASN",
+      "strongs": "G1276",
+      "metadata": {},
+      "gematria": {
+        "standard": 1050,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "φοινικην",
+      "lemma": [
+        "G5403"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5403",
+      "metadata": {},
+      "gematria": {
+        "standard": 718,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "επιβαντες",
+      "lemma": [
+        "G1910"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G1910",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "ανηχθημεν",
+      "lemma": [
+        "G321"
+      ],
+      "morph": "robinson:V-API-1P",
+      "strongs": "G321",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 45,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4878,
+    "ordinal": 231,
+    "reduced": 225
+  }
+}

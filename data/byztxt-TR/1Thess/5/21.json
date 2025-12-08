@@ -1,0 +1,85 @@
+{
+  "text": "παντα δοκιμαζετε το καλον κατεχετε",
+  "words": [
+    {
+      "position": 1,
+      "text": "παντα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "δοκιμαζετε",
+      "lemma": [
+        "G1381"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G1381",
+      "metadata": {},
+      "gematria": {
+        "standard": 462,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "καλον",
+      "lemma": [
+        "G2570"
+      ],
+      "morph": "robinson:A-ASN",
+      "strongs": "G2570",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατεχετε",
+      "lemma": [
+        "G2722"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G2722",
+      "metadata": {},
+      "gematria": {
+        "standard": 1236,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2671,
+    "ordinal": 124,
+    "reduced": 115
+  }
+}

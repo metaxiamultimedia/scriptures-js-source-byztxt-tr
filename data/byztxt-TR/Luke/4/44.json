@@ -1,0 +1,130 @@
+{
+  "text": "και ην κηρυσσων εν ταις συναγωγαις της γαλιλαιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "κηρυσσων",
+      "lemma": [
+        "G2784"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2784",
+      "metadata": {},
+      "gematria": {
+        "standard": 1778,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "ταις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "συναγωγαις",
+      "lemma": [
+        "G4864"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G4864",
+      "metadata": {},
+      "gematria": {
+        "standard": 1668,
+        "ordinal": 55,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "γαλιλαιας",
+      "lemma": [
+        "G1056"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1056",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 45,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4895,
+    "ordinal": 164,
+    "reduced": 125
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "text": "παντοτε χαιρετε",
+  "words": [
+    {
+      "position": 1,
+      "text": "παντοτε",
+      "lemma": [
+        "G3842"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3842",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "χαιρετε",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1827,
+    "ordinal": 56,
+    "reduced": 54
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "text": "λεγει αυτω η γυνη κυριε ουτε αντλημα εχεις και το φρεαρ εστιν βαθυ ποθεν ουν εχεις το υδωρ το ζων",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "γυνη",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "κυριε",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "ουτε",
+      "lemma": [
+        "G3777"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3777",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "αντλημα",
+      "lemma": [
+        "G502"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G502",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "εχεις",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "φρεαρ",
+      "lemma": [
+        "G5421"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G5421",
+      "metadata": {},
+      "gematria": {
+        "standard": 706,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "βαθυ",
+      "lemma": [
+        "G901"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G901",
+      "metadata": {},
+      "gematria": {
+        "standard": 412,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "ποθεν",
+      "lemma": [
+        "G4159"
+      ],
+      "morph": "robinson:ADV-I",
+      "strongs": "G4159",
+      "metadata": {},
+      "gematria": {
+        "standard": 214,
+        "ordinal": 15,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "εχεις",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "υδωρ",
+      "lemma": [
+        "G5204"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G5204",
+      "metadata": {},
+      "gematria": {
+        "standard": 1304,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 19,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "ζων",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAP-ASN",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 857,
+        "ordinal": 6,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11122,
+    "ordinal": 211,
+    "reduced": 322
+  }
+}

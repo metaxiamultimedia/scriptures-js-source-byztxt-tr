@@ -1,0 +1,310 @@
+{
+  "text": "παρεκαλεσα τιτον και συναπεστειλα τον αδελφον μη τι επλεονεκτησεν υμας τιτος ου τω αυτω πνευματι περιεπατησαμεν ου τοις αυτοις ιχνεσιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "παρεκαλεσα",
+      "lemma": [
+        "G3870"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G3870",
+      "metadata": {},
+      "gematria": {
+        "standard": 443,
+        "ordinal": 55,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "τιτον",
+      "lemma": [
+        "G5103"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G5103",
+      "metadata": {},
+      "gematria": {
+        "standard": 730,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "συναπεστειλα",
+      "lemma": [
+        "G4882"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G4882",
+      "metadata": {},
+      "gematria": {
+        "standard": 1282,
+        "ordinal": 78,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "αδελφον",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "τι",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-ASN",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "επλεονεκτησεν",
+      "lemma": [
+        "G4122"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G4122",
+      "metadata": {},
+      "gematria": {
+        "standard": 828,
+        "ordinal": 91,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 10,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "τιτος",
+      "lemma": [
+        "G5103"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5103",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "πνευματι",
+      "lemma": [
+        "G4151"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G4151",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 16,
+      "text": "περιεπατησαμεν",
+      "lemma": [
+        "G4043"
+      ],
+      "morph": "robinson:V-AAI-1P",
+      "strongs": "G4043",
+      "metadata": {},
+      "gematria": {
+        "standard": 885,
+        "ordinal": 105,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 17,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 19,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 20,
+      "text": "ιχνεσιν",
+      "lemma": [
+        "G2487"
+      ],
+      "morph": "robinson:N-DPN",
+      "strongs": "G2487",
+      "metadata": {},
+      "gematria": {
+        "standard": 925,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14071,
+    "ordinal": 529,
+    "reduced": 436
+  }
+}

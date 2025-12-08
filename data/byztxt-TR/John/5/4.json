@@ -1,0 +1,415 @@
+{
+  "text": "αγγελος γαρ κατα καιρον κατεβαινεν εν τη κολυμβηθρα και εταρασσεν το υδωρ ο ουν πρωτος εμβας μετα την ταραχην του υδατος υγιης εγινετο ω δηποτε κατειχετο νοσηματι",
+  "words": [
+    {
+      "position": 1,
+      "text": "αγγελος",
+      "lemma": [
+        "G32"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G32",
+      "metadata": {},
+      "gematria": {
+        "standard": 312,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "καιρον",
+      "lemma": [
+        "G2540"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2540",
+      "metadata": {},
+      "gematria": {
+        "standard": 251,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατεβαινεν",
+      "lemma": [
+        "G2597"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G2597",
+      "metadata": {},
+      "gematria": {
+        "standard": 444,
+        "ordinal": 55,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "κολυμβηθρα",
+      "lemma": [
+        "G2861"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G2861",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 55,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "εταρασσεν",
+      "lemma": [
+        "G5015"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G5015",
+      "metadata": {},
+      "gematria": {
+        "standard": 862,
+        "ordinal": 45,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "υδωρ",
+      "lemma": [
+        "G5204"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G5204",
+      "metadata": {},
+      "gematria": {
+        "standard": 1304,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "πρωτος",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-NSM-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "εμβας",
+      "lemma": [
+        "G1684"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G1684",
+      "metadata": {},
+      "gematria": {
+        "standard": 248,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "ταραχην",
+      "lemma": [
+        "G5016"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5016",
+      "metadata": {},
+      "gematria": {
+        "standard": 1060,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 20,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "υδατος",
+      "lemma": [
+        "G5204"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G5204",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 22,
+      "text": "υγιης",
+      "lemma": [
+        "G5199"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G5199",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 23,
+      "text": "εγινετο",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-INI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 443,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 24,
+      "text": "ω",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-DSN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 25,
+      "text": "δηποτε",
+      "lemma": [
+        "G1221"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G1221",
+      "metadata": {},
+      "gematria": {
+        "standard": 467,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 26,
+      "text": "κατειχετο",
+      "lemma": [
+        "G2722"
+      ],
+      "morph": "robinson:V-IPI-3S",
+      "strongs": "G2722",
+      "metadata": {},
+      "gematria": {
+        "standard": 1311,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 27,
+      "text": "νοσηματι",
+      "lemma": [
+        "G3553"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G3553",
+      "metadata": {},
+      "gematria": {
+        "standard": 679,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15261,
+    "ordinal": 505,
+    "reduced": 510
+  }
+}

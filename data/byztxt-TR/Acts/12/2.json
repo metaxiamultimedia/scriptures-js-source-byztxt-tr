@@ -1,0 +1,115 @@
+{
+  "text": "ανειλεν δε ιακωβον τον αδελφον ιωαννου μαχαιρα",
+  "words": [
+    {
+      "position": 1,
+      "text": "ανειλεν",
+      "lemma": [
+        "G337"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G337",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιακωβον",
+      "lemma": [
+        "G2385"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2385",
+      "metadata": {},
+      "gematria": {
+        "standard": 953,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "αδελφον",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιωαννου",
+      "lemma": [
+        "G2491"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2491",
+      "metadata": {},
+      "gematria": {
+        "standard": 1381,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "μαχαιρα",
+      "lemma": [
+        "G3162"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G3162",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 28,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4327,
+    "ordinal": 149,
+    "reduced": 151
+  }
+}

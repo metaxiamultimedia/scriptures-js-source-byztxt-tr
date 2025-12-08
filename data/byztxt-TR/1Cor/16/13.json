@@ -1,0 +1,115 @@
+{
+  "text": "γρηγορειτε στηκετε εν τη πιστει ανδριζεσθε κραταιουσθε",
+  "words": [
+    {
+      "position": 1,
+      "text": "γρηγορειτε",
+      "lemma": [
+        "G1127"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G1127",
+      "metadata": {},
+      "gematria": {
+        "standard": 604,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 2,
+      "text": "στηκετε",
+      "lemma": [
+        "G4739"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G4739",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "πιστει",
+      "lemma": [
+        "G4102"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4102",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "ανδριζεσθε",
+      "lemma": [
+        "G407"
+      ],
+      "morph": "robinson:V-PNM-2P",
+      "strongs": "G407",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 55,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 7,
+      "text": "κραταιουσθε",
+      "lemma": [
+        "G2901"
+      ],
+      "morph": "robinson:V-PPM-2P",
+      "strongs": "G2901",
+      "metadata": {},
+      "gematria": {
+        "standard": 1116,
+        "ordinal": 66,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3917,
+    "ordinal": 231,
+    "reduced": 182
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "text": "εδακρυσεν ο ιησους",
+  "words": [
+    {
+      "position": 1,
+      "text": "εδακρυσεν",
+      "lemma": [
+        "G1145"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1145",
+      "metadata": {},
+      "gematria": {
+        "standard": 785,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1743,
+    "ordinal": 67,
+    "reduced": 60
+  }
+}

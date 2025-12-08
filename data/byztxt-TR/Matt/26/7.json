@@ -1,0 +1,220 @@
+{
+  "text": "προσηλθεν αυτω γυνη αλαβαστρον μυρου εχουσα βαρυτιμου και κατεχεεν επι την κεφαλην αυτου ανακειμενου",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσηλθεν",
+      "lemma": [
+        "G4334"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G4334",
+      "metadata": {},
+      "gematria": {
+        "standard": 552,
+        "ordinal": 45,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "γυνη",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "αλαβαστρον",
+      "lemma": [
+        "G211"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G211",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 55,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "μυρου",
+      "lemma": [
+        "G3464"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G3464",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "εχουσα",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "βαρυτιμου",
+      "lemma": [
+        "G927"
+      ],
+      "morph": "robinson:A-GSN",
+      "strongs": "G927",
+      "metadata": {},
+      "gematria": {
+        "standard": 1323,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "κατεχεεν",
+      "lemma": [
+        "G2708"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2708",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "κεφαλην",
+      "lemma": [
+        "G2776"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2776",
+      "metadata": {},
+      "gematria": {
+        "standard": 614,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "ανακειμενου",
+      "lemma": [
+        "G345"
+      ],
+      "morph": "robinson:V-PNP-GSM",
+      "strongs": "G345",
+      "metadata": {},
+      "gematria": {
+        "standard": 652,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10785,
+    "ordinal": 364,
+    "reduced": 336
+  }
+}

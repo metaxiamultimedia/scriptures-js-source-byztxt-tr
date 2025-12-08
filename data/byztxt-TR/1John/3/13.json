@@ -1,0 +1,145 @@
+{
+  "text": "μη θαυμαζετε αδελφοι μου ει μισει υμας ο κοσμος",
+  "words": [
+    {
+      "position": 1,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "θαυμαζετε",
+      "lemma": [
+        "G2296"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G2296",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "μου",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "μισει",
+      "lemma": [
+        "G3404"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3404",
+      "metadata": {},
+      "gematria": {
+        "standard": 265,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "κοσμος",
+      "lemma": [
+        "G2889"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2889",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3537,
+    "ordinal": 132,
+    "reduced": 153
+  }
+}

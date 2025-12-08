@@ -1,0 +1,130 @@
+{
+  "text": "ει γαρ νεκροι ουκ εγειρονται ουδε χριστος εγηγερται",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "νεκροι",
+      "lemma": [
+        "G3498"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3498",
+      "metadata": {},
+      "gematria": {
+        "standard": 255,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "εγειρονται",
+      "lemma": [
+        "G1453"
+      ],
+      "morph": "robinson:V-PPI-3P",
+      "strongs": "G1453",
+      "metadata": {},
+      "gematria": {
+        "standard": 554,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "ουδε",
+      "lemma": [
+        "G3761"
+      ],
+      "morph": "robinson:CONJ-N",
+      "strongs": "G3761",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "χριστος",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "εγηγερται",
+      "lemma": [
+        "G1453"
+      ],
+      "morph": "robinson:V-RPI-3S",
+      "strongs": "G1453",
+      "metadata": {},
+      "gematria": {
+        "standard": 435,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3812,
+    "ordinal": 174,
+    "reduced": 149
+  }
+}

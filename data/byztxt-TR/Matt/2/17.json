@@ -1,0 +1,145 @@
+{
+  "text": "τοτε επληρωθη το ρηθεν υπο ιερεμιου του προφητου λεγοντος",
+  "words": [
+    {
+      "position": 1,
+      "text": "τοτε",
+      "lemma": [
+        "G5119"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5119",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "επληρωθη",
+      "lemma": [
+        "G4137"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G4137",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 36,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 3,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ρηθεν",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-APP-NSN",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 172,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "υπο",
+      "lemma": [
+        "G5259"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5259",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιερεμιου",
+      "lemma": [
+        "G2408"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2408",
+      "metadata": {},
+      "gematria": {
+        "standard": 640,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "προφητου",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1528,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "λεγοντος",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 728,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6473,
+    "ordinal": 184,
+    "reduced": 245
+  }
+}

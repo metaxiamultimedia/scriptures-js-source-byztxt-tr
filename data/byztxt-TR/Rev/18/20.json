@@ -1,0 +1,310 @@
+{
+  "text": "ευφραινου επ αυτην ουρανε και οι αγιοι αποστολοι και οι προφηται οτι εκρινεν ο θεος το κριμα υμων εx αυτης",
+  "words": [
+    {
+      "position": 1,
+      "text": "ευφραινου",
+      "lemma": [
+        "G2165"
+      ],
+      "morph": "robinson:V-PPM-2S",
+      "strongs": "G2165",
+      "metadata": {},
+      "gematria": {
+        "standard": 1536,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 2,
+      "text": "επ",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτην",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "ουρανε",
+      "lemma": [
+        "G3772"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G3772",
+      "metadata": {},
+      "gematria": {
+        "standard": 626,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "αγιοι",
+      "lemma": [
+        "G40"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G40",
+      "metadata": {},
+      "gematria": {
+        "standard": 94,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "αποστολοι",
+      "lemma": [
+        "G652"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G652",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "προφηται",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1069,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "εκρινεν",
+      "lemma": [
+        "G2919"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2919",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "κριμα",
+      "lemma": [
+        "G2917"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G2917",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "εx",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 5,
+        "ordinal": 1,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 20,
+      "text": "αυτης",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8941,
+    "ordinal": 287,
+    "reduced": 328
+  }
+}

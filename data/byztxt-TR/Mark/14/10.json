@@ -1,0 +1,250 @@
+{
+  "text": "και ο ιουδας ο ισκαριωτης εις των δωδεκα απηλθεν προς τους αρχιερεις ινα παραδω αυτον αυτοις",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιουδας",
+      "lemma": [
+        "G2455"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2455",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "ισκαριωτης",
+      "lemma": [
+        "G2469"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2469",
+      "metadata": {},
+      "gematria": {
+        "standard": 1649,
+        "ordinal": 55,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "εις",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "δωδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1427",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "απηλθεν",
+      "lemma": [
+        "G565"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G565",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "αρχιερεις",
+      "lemma": [
+        "G749"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G749",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 45,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "παραδω",
+      "lemma": [
+        "G3860"
+      ],
+      "morph": "robinson:V-2AAS-3S",
+      "strongs": "G3860",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10187,
+    "ordinal": 273,
+    "reduced": 278
+  }
+}

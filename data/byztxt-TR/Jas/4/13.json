@@ -1,0 +1,415 @@
+{
+  "text": "αγε νυν οι λεγοντες σημερον και η αυριον πορευσωμεθα πορευσομεθα εις τηνδε την πολιν και ποιησωμεν ποιησομεν εκει ενιαυτον ενα και εμπορευσωμεθα και κερδησωμεν εμπορευσομεθα και κερδησομεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "αγε",
+      "lemma": [
+        "G71"
+      ],
+      "morph": "robinson:V-PAM-2S",
+      "strongs": "G71",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "νυν",
+      "lemma": [
+        "G3568"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3568",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "σημερον",
+      "lemma": [
+        "G4594"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4594",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "αυριον",
+      "lemma": [
+        "G839"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G839",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "πορευσωμεθα",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-ADS-1P",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1710,
+        "ordinal": 66,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 15,
+      "text": "πορευσομεθα",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-FDI-1P",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 66,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 17,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 18,
+      "text": "τηνδε",
+      "lemma": [
+        "G3592"
+      ],
+      "morph": "robinson:D-ASF",
+      "strongs": "G3592",
+      "metadata": {},
+      "gematria": {
+        "standard": 367,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "πολιν",
+      "lemma": [
+        "G4172"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4172",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 21,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 23,
+      "text": "ποιησωμεν",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-AAS-1P",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 1263,
+        "ordinal": 45,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 25,
+      "text": "ποιησομεν",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-FAI-1P",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 45,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 27,
+      "text": "εκει",
+      "lemma": [
+        "G1563"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1563",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 28,
+      "text": "ενιαυτον",
+      "lemma": [
+        "G1763"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G1763",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 29,
+      "text": "ενα",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 30,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 32,
+      "text": "εμπορευσωμεθα",
+      "lemma": [
+        "G1710"
+      ],
+      "morph": "robinson:V-ADS-1P",
+      "strongs": "G1710",
+      "metadata": {},
+      "gematria": {
+        "standard": 1755,
+        "ordinal": 91,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 33,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 34,
+      "text": "κερδησωμεν",
+      "lemma": [
+        "G2770"
+      ],
+      "morph": "robinson:V-AAS-1P",
+      "strongs": "G2770",
+      "metadata": {},
+      "gematria": {
+        "standard": 1232,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 36,
+      "text": "εμπορευσομεθα",
+      "lemma": [
+        "G1710"
+      ],
+      "morph": "robinson:V-FDI-1P",
+      "strongs": "G1710",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 91,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 37,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 38,
+      "text": "κερδησομεν",
+      "lemma": [
+        "G2770"
+      ],
+      "morph": "robinson:V-FAI-1P",
+      "strongs": "G2770",
+      "metadata": {},
+      "gematria": {
+        "standard": 502,
+        "ordinal": 55,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13681,
+    "ordinal": 739,
+    "reduced": 685
+  }
+}

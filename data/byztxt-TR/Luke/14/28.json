@@ -1,0 +1,280 @@
+{
+  "text": "τις γαρ εx υμων θελων πυργον οικοδομησαι ουχι πρωτον καθισας ψηφιζει την δαπανην ει εχει τα προς απαρτισμον",
+  "words": [
+    {
+      "position": 1,
+      "text": "τις",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-NSM",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "εx",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 5,
+        "ordinal": 1,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 4,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "θελων",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 894,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "πυργον",
+      "lemma": [
+        "G4444"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G4444",
+      "metadata": {},
+      "gematria": {
+        "standard": 703,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "οικοδομησαι",
+      "lemma": [
+        "G3618"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G3618",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 66,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 8,
+      "text": "ουχι",
+      "lemma": [
+        "G3780"
+      ],
+      "morph": "robinson:PRT-I",
+      "strongs": "G3780",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "πρωτον",
+      "lemma": [
+        "G4412"
+      ],
+      "morph": "robinson:ADV-S",
+      "strongs": "G4412",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "καθισας",
+      "lemma": [
+        "G2523"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G2523",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "ψηφιζει",
+      "lemma": [
+        "G5585"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G5585",
+      "metadata": {},
+      "gematria": {
+        "standard": 1240,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "δαπανην",
+      "lemma": [
+        "G1160"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1160",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "εχει",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "απαρτισμον",
+      "lemma": [
+        "G535"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G535",
+      "metadata": {},
+      "gematria": {
+        "standard": 852,
+        "ordinal": 55,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10960,
+    "ordinal": 327,
+    "reduced": 367
+  }
+}

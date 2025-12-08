@@ -1,0 +1,190 @@
+{
+  "text": "αναμιμνησκεσθε δε τας προτερον ημερας εν αις φωτισθεντες πολλην αθλησιν υπεμεινατε παθηματων",
+  "words": [
+    {
+      "position": 1,
+      "text": "αναμιμνησκεσθε",
+      "lemma": [
+        "G363"
+      ],
+      "morph": "robinson:V-PMM-2P",
+      "strongs": "G363",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 105,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τας",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "προτερον",
+      "lemma": [
+        "G4386"
+      ],
+      "morph": "robinson:ADV-C",
+      "strongs": "G4386",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "ημερας",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "αις",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-DPF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "φωτισθεντες",
+      "lemma": [
+        "G5461"
+      ],
+      "morph": "robinson:V-APP-NPM",
+      "strongs": "G5461",
+      "metadata": {},
+      "gematria": {
+        "standard": 2379,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 9,
+      "text": "πολλην",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 268,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 10,
+      "text": "αθλησιν",
+      "lemma": [
+        "G119"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G119",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "υπεμεινατε",
+      "lemma": [
+        "G5278"
+      ],
+      "morph": "robinson:V-AAI-2P",
+      "strongs": "G5278",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 55,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 12,
+      "text": "παθηματων",
+      "lemma": [
+        "G3804"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G3804",
+      "metadata": {},
+      "gematria": {
+        "standard": 1289,
+        "ordinal": 45,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7684,
+    "ordinal": 395,
+    "reduced": 340
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "text": "ιησους δε επορευθη εις το ορος των ελαιων",
+  "words": [
+    {
+      "position": 1,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "επορευθη",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-AOI-3S",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 36,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "ορος",
+      "lemma": [
+        "G3735"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G3735",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ελαιων",
+      "lemma": [
+        "G1636"
+      ],
+      "morph": "robinson:N-GPF",
+      "strongs": "G1636",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4645,
+    "ordinal": 106,
+    "reduced": 154
+  }
+}

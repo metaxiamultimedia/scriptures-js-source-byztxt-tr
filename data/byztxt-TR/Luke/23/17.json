@@ -1,0 +1,130 @@
+{
+  "text": "αναγκην δε ειχεν απολυειν αυτοις κατα εορτην ενα",
+  "words": [
+    {
+      "position": 1,
+      "text": "αναγκην",
+      "lemma": [
+        "G318"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G318",
+      "metadata": {},
+      "gematria": {
+        "standard": 133,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ειχεν",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "απολυειν",
+      "lemma": [
+        "G630"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G630",
+      "metadata": {},
+      "gematria": {
+        "standard": 646,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "αυτοις",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "εορτην",
+      "lemma": [
+        "G1859"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1859",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "ενα",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3350,
+    "ordinal": 140,
+    "reduced": 155
+  }
+}

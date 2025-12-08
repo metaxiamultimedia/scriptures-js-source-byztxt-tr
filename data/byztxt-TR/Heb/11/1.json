@@ -1,0 +1,145 @@
+{
+  "text": "εστιν δε πιστις ελπιζομενων υποστασις πραγματων ελεγχος ου βλεπομενων",
+  "words": [
+    {
+      "position": 1,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πιστις",
+      "lemma": [
+        "G4102"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4102",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "ελπιζομενων",
+      "lemma": [
+        "G1679"
+      ],
+      "morph": "robinson:V-PPP-GPN",
+      "strongs": "G1679",
+      "metadata": {},
+      "gematria": {
+        "standard": 1147,
+        "ordinal": 66,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 5,
+      "text": "υποστασις",
+      "lemma": [
+        "G5287"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G5287",
+      "metadata": {},
+      "gematria": {
+        "standard": 1461,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "πραγματων",
+      "lemma": [
+        "G4229"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G4229",
+      "metadata": {},
+      "gematria": {
+        "standard": 1375,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "ελεγχος",
+      "lemma": [
+        "G1650"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G1650",
+      "metadata": {},
+      "gematria": {
+        "standard": 913,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "βλεπομενων",
+      "lemma": [
+        "G991"
+      ],
+      "morph": "robinson:V-PPP-GPN",
+      "strongs": "G991",
+      "metadata": {},
+      "gematria": {
+        "standard": 1132,
+        "ordinal": 55,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7872,
+    "ordinal": 281,
+    "reduced": 258
+  }
+}

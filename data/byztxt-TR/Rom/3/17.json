@@ -1,0 +1,85 @@
+{
+  "text": "και οδον ειρηνης ουκ εγνωσαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "οδον",
+      "lemma": [
+        "G3598"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3598",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "ειρηνης",
+      "lemma": [
+        "G1515"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1515",
+      "metadata": {},
+      "gematria": {
+        "standard": 381,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "εγνωσαν",
+      "lemma": [
+        "G1097"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G1097",
+      "metadata": {},
+      "gematria": {
+        "standard": 1109,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2205,
+    "ordinal": 78,
+    "reduced": 99
+  }
+}

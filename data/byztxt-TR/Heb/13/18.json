@@ -1,0 +1,220 @@
+{
+  "text": "προσευχεσθε περι ημων πεποιθαμεν γαρ οτι καλην συνειδησιν εχομεν εν πασιν καλως θελοντες αναστρεφεσθαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσευχεσθε",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-PNM-2P",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 1674,
+        "ordinal": 66,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 2,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "πεποιθαμεν",
+      "lemma": [
+        "G3982"
+      ],
+      "morph": "robinson:V-2RAI-1P",
+      "strongs": "G3982",
+      "metadata": {},
+      "gematria": {
+        "standard": 350,
+        "ordinal": 55,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 5,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 6,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "καλην",
+      "lemma": [
+        "G2570"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G2570",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "συνειδησιν",
+      "lemma": [
+        "G4893"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4893",
+      "metadata": {},
+      "gematria": {
+        "standard": 937,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "εχομεν",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "πασιν",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-DPN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "καλως",
+      "lemma": [
+        "G2573"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2573",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "θελοντες",
+      "lemma": [
+        "G2309"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G2309",
+      "metadata": {},
+      "gematria": {
+        "standard": 669,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 14,
+      "text": "αναστρεφεσθαι",
+      "lemma": [
+        "G390"
+      ],
+      "morph": "robinson:V-PPN",
+      "strongs": "G390",
+      "metadata": {},
+      "gematria": {
+        "standard": 1382,
+        "ordinal": 91,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8915,
+    "ordinal": 404,
+    "reduced": 374
+  }
+}

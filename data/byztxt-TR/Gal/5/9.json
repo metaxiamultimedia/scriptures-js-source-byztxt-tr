@@ -1,0 +1,100 @@
+{
+  "text": "μικρα ζυμη ολον το φυραμα ζυμοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "μικρα",
+      "lemma": [
+        "G3398"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G3398",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 15,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ζυμη",
+      "lemma": [
+        "G2219"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2219",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "ολον",
+      "lemma": [
+        "G3650"
+      ],
+      "morph": "robinson:A-ASN",
+      "strongs": "G3650",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "φυραμα",
+      "lemma": [
+        "G5445"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G5445",
+      "metadata": {},
+      "gematria": {
+        "standard": 1042,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ζυμοι",
+      "lemma": [
+        "G2220"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2220",
+      "metadata": {},
+      "gematria": {
+        "standard": 527,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2785,
+    "ordinal": 74,
+    "reduced": 103
+  }
+}

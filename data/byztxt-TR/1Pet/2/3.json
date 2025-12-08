@@ -1,0 +1,100 @@
+{
+  "text": "ειπερ εγευσασθε οτι χρηστος ο κυριος",
+  "words": [
+    {
+      "position": 1,
+      "text": "ειπερ",
+      "lemma": [
+        "G1512"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1512",
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "εγευσασθε",
+      "lemma": [
+        "G1089"
+      ],
+      "morph": "robinson:V-ADI-2P",
+      "strongs": "G1089",
+      "metadata": {},
+      "gematria": {
+        "standard": 828,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "χρηστος",
+      "lemma": [
+        "G5543"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G5543",
+      "metadata": {},
+      "gematria": {
+        "standard": 1478,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "κυριος",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3756,
+    "ordinal": 116,
+    "reduced": 120
+  }
+}

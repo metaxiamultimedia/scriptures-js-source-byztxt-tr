@@ -1,0 +1,280 @@
+{
+  "text": "και οι κλαιοντες ως μη κλαιοντες και οι χαιροντες ως μη χαιροντες και οι αγοραζοντες ως μη κατεχοντες",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "κλαιοντες",
+      "lemma": [
+        "G2799"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G2799",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "κλαιοντες",
+      "lemma": [
+        "G2799"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G2799",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "χαιροντες",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 1336,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "χαιροντες",
+      "lemma": [
+        "G5463"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G5463",
+      "metadata": {},
+      "gematria": {
+        "standard": 1336,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "αγοραζοντες",
+      "lemma": [
+        "G59"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G59",
+      "metadata": {},
+      "gematria": {
+        "standard": 807,
+        "ordinal": 66,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 16,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "κατεχοντες",
+      "lemma": [
+        "G2722"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G2722",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9879,
+    "ordinal": 346,
+    "reduced": 303
+  }
+}

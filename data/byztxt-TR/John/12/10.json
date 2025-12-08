@@ -1,0 +1,145 @@
+{
+  "text": "εβουλευσαντο δε οι αρχιερεις ινα και τον λαζαρον αποκτεινωσιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "εβουλευσαντο",
+      "lemma": [
+        "G1011"
+      ],
+      "morph": "robinson:V-ADI-3P",
+      "strongs": "G1011",
+      "metadata": {},
+      "gematria": {
+        "standard": 1533,
+        "ordinal": 78,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "αρχιερεις",
+      "lemma": [
+        "G749"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G749",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 45,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "λαζαρον",
+      "lemma": [
+        "G2976"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2976",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "αποκτεινωσιν",
+      "lemma": [
+        "G615"
+      ],
+      "morph": "robinson:V-AAS-3P",
+      "strongs": "G615",
+      "metadata": {},
+      "gematria": {
+        "standard": 1596,
+        "ordinal": 78,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5020,
+    "ordinal": 253,
+    "reduced": 187
+  }
+}

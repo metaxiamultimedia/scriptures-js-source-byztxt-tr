@@ -1,0 +1,220 @@
+{
+  "text": "και λεγει αυτω εταιρε πως εισηλθες ωδε μη εχων ενδυμα γαμου ο δε εφιμωθη",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "εταιρε",
+      "lemma": [
+        "G2083"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2083",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "πως",
+      "lemma": [
+        "G4459"
+      ],
+      "morph": "robinson:ADV-I",
+      "strongs": "G4459",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "εισηλθες",
+      "lemma": [
+        "G1525"
+      ],
+      "morph": "robinson:V-2AAI-2S",
+      "strongs": "G1525",
+      "metadata": {},
+      "gematria": {
+        "standard": 467,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "ωδε",
+      "lemma": [
+        "G5602"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5602",
+      "metadata": {},
+      "gematria": {
+        "standard": 809,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "εχων",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "ενδυμα",
+      "lemma": [
+        "G1742"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G1742",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "γαμου",
+      "lemma": [
+        "G1062"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G1062",
+      "metadata": {},
+      "gematria": {
+        "standard": 514,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "εφιμωθη",
+      "lemma": [
+        "G5392"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G5392",
+      "metadata": {},
+      "gematria": {
+        "standard": 1372,
+        "ordinal": 28,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8330,
+    "ordinal": 181,
+    "reduced": 257
+  }
+}

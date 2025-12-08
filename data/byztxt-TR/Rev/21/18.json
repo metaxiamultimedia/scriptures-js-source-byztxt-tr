@@ -1,0 +1,250 @@
+{
+  "text": "και ην η ενδομησις του τειχους αυτης ιασπις και η πολις χρυσιον καθαρον ομοια υαλω καθαρω",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "ενδομησις",
+      "lemma": [
+        "G1739"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1739",
+      "metadata": {},
+      "gematria": {
+        "standard": 587,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "τειχους",
+      "lemma": [
+        "G5038"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G5038",
+      "metadata": {},
+      "gematria": {
+        "standard": 1585,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτης",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "ιασπις",
+      "lemma": [
+        "G2393"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2393",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "πολις",
+      "lemma": [
+        "G4172"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4172",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "χρυσιον",
+      "lemma": [
+        "G5553"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G5553",
+      "metadata": {},
+      "gematria": {
+        "standard": 1430,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "καθαρον",
+      "lemma": [
+        "G2513"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G2513",
+      "metadata": {},
+      "gematria": {
+        "standard": 251,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 14,
+      "text": "ομοια",
+      "lemma": [
+        "G3664"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G3664",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "υαλω",
+      "lemma": [
+        "G5194"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5194",
+      "metadata": {},
+      "gematria": {
+        "standard": 1231,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "καθαρω",
+      "lemma": [
+        "G2513"
+      ],
+      "morph": "robinson:A-DSM",
+      "strongs": "G2513",
+      "metadata": {},
+      "gematria": {
+        "standard": 931,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8912,
+    "ordinal": 249,
+    "reduced": 281
+  }
+}

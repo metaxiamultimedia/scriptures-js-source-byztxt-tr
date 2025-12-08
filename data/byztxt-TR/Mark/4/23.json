@@ -1,0 +1,100 @@
+{
+  "text": "ει τις εχει ωτα ακουειν ακουετω",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NSM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "εχει",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "ωτα",
+      "lemma": [
+        "G3775"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G3775",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "ακουειν",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ακουετω",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1596,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4398,
+    "ordinal": 81,
+    "reduced": 96
+  }
+}

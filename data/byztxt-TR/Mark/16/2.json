@@ -1,0 +1,205 @@
+{
+  "text": "και λιαν πρωι της μιας σαββατων ερχονται επι το μνημειον ανατειλαντος του ηλιου",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "λιαν",
+      "lemma": [
+        "G3029"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3029",
+      "metadata": {},
+      "gematria": {
+        "standard": 91,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρωι",
+      "lemma": [
+        "G4404"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4404",
+      "metadata": {},
+      "gematria": {
+        "standard": 990,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "μιας",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 251,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "σαββατων",
+      "lemma": [
+        "G4521"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G4521",
+      "metadata": {},
+      "gematria": {
+        "standard": 1356,
+        "ordinal": 36,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "ερχονται",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-PNI-3P",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 1136,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "μνημειον",
+      "lemma": [
+        "G3419"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G3419",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "ανατειλαντος",
+      "lemma": [
+        "G393"
+      ],
+      "morph": "robinson:V-AAP-GSM",
+      "strongs": "G393",
+      "metadata": {},
+      "gematria": {
+        "standard": 1018,
+        "ordinal": 78,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 12,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "ηλιου",
+      "lemma": [
+        "G2246"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2246",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7407,
+    "ordinal": 258,
+    "reduced": 243
+  }
+}

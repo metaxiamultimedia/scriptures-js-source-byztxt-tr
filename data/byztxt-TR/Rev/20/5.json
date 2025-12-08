@@ -1,0 +1,265 @@
+{
+  "text": "οι δε λοιποι των νεκρων ουκ ανεζησαν εως τελεσθη τα χιλια ετη αυτη η αναστασις η πρωτη",
+  "words": [
+    {
+      "position": 1,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "λοιποι",
+      "lemma": [
+        "G3062"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3062",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "νεκρων",
+      "lemma": [
+        "G3498"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G3498",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "ουκ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "ανεζησαν",
+      "lemma": [
+        "G326"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G326",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "εως",
+      "lemma": [
+        "G2193"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2193",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "τελεσθη",
+      "lemma": [
+        "G5055"
+      ],
+      "morph": "robinson:V-APS-3S",
+      "strongs": "G5055",
+      "metadata": {},
+      "gematria": {
+        "standard": 557,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "χιλια",
+      "lemma": [
+        "G5507"
+      ],
+      "morph": "robinson:A-NPN",
+      "strongs": "G5507",
+      "metadata": {},
+      "gematria": {
+        "standard": 651,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "ετη",
+      "lemma": [
+        "G2094"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G2094",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "αυτη",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSF",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "αναστασις",
+      "lemma": [
+        "G386"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G386",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "πρωτη",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-NSF-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9149,
+    "ordinal": 226,
+    "reduced": 293
+  }
+}

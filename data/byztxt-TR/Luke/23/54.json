@@ -1,0 +1,115 @@
+{
+  "text": "και ημερα ην παρασκευη και σαββατον επεφωσκεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ημερα",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "παρασκευη",
+      "lemma": [
+        "G3904"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G3904",
+      "metadata": {},
+      "gematria": {
+        "standard": 815,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "σαββατον",
+      "lemma": [
+        "G4521"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G4521",
+      "metadata": {},
+      "gematria": {
+        "standard": 626,
+        "ordinal": 36,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "επεφωσκεν",
+      "lemma": [
+        "G2020"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G2020",
+      "metadata": {},
+      "gematria": {
+        "standard": 1665,
+        "ordinal": 45,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3380,
+    "ordinal": 156,
+    "reduced": 140
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "text": "ει τις ετεροδιδασκαλει και μη προσερχεται υγιαινουσιν λογοις τοις του κυριου ημων ιησου χριστου και τη κατ ευσεβειαν διδασκαλια",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NSM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "ετεροδιδασκαλει",
+      "lemma": [
+        "G2085"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2085",
+      "metadata": {},
+      "gematria": {
+        "standard": 765,
+        "ordinal": 120,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "προσερχεται",
+      "lemma": [
+        "G4334"
+      ],
+      "morph": "robinson:V-PNI-3S",
+      "strongs": "G4334",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 7,
+      "text": "υγιαινουσιν",
+      "lemma": [
+        "G5198"
+      ],
+      "morph": "robinson:V-PAP-DPM",
+      "strongs": "G5198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1204,
+        "ordinal": 66,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "λογοις",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 21,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "κυριου",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "ιησου",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "χριστου",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 28,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 16,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "κατ",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "ευσεβειαν",
+      "lemma": [
+        "G2150"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2150",
+      "metadata": {},
+      "gematria": {
+        "standard": 678,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "διδασκαλια",
+      "lemma": [
+        "G1319"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1319",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 55,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11662,
+    "ordinal": 496,
+    "reduced": 358
+  }
+}

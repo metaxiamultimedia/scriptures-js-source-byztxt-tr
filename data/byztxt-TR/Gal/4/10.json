@@ -1,0 +1,130 @@
+{
+  "text": "ημερας παρατηρεισθε και μηνας και καιρους και ενιαυτους",
+  "words": [
+    {
+      "position": 1,
+      "text": "ημερας",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "παρατηρεισθε",
+      "lemma": [
+        "G3906"
+      ],
+      "morph": "robinson:V-PMI-2P",
+      "strongs": "G3906",
+      "metadata": {},
+      "gematria": {
+        "standard": 819,
+        "ordinal": 78,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "μηνας",
+      "lemma": [
+        "G3376"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G3376",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "καιρους",
+      "lemma": [
+        "G2540"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G2540",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "ενιαυτους",
+      "lemma": [
+        "G1763"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G1763",
+      "metadata": {},
+      "gematria": {
+        "standard": 1436,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3802,
+    "ordinal": 205,
+    "reduced": 148
+  }
+}

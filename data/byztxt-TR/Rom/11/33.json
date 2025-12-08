@@ -1,0 +1,280 @@
+{
+  "text": "ω βαθος πλουτου και σοφιας και γνωσεως θεου ως ανεxερευνητα τα κριματα αυτου και ανεxιχνιαστοι αι οδοι αυτου",
+  "words": [
+    {
+      "position": 1,
+      "text": "ω",
+      "lemma": [
+        "G5599"
+      ],
+      "morph": "robinson:INJ",
+      "strongs": "G5599",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "βαθος",
+      "lemma": [
+        "G899"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G899",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "πλουτου",
+      "lemma": [
+        "G4149"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G4149",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 28,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "σοφιας",
+      "lemma": [
+        "G4678"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4678",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "γνωσεως",
+      "lemma": [
+        "G1108"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1108",
+      "metadata": {},
+      "gematria": {
+        "standard": 2058,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "ανεxερευνητα",
+      "lemma": [
+        "G419"
+      ],
+      "morph": "robinson:A-NPN",
+      "strongs": "G419",
+      "metadata": {},
+      "gematria": {
+        "standard": 925,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "κριματα",
+      "lemma": [
+        "G2917"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G2917",
+      "metadata": {},
+      "gematria": {
+        "standard": 472,
+        "ordinal": 28,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 13,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "ανεxιχνιαστοι",
+      "lemma": [
+        "G421"
+      ],
+      "morph": "robinson:A-NPF",
+      "strongs": "G421",
+      "metadata": {},
+      "gematria": {
+        "standard": 1307,
+        "ordinal": 78,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 16,
+      "text": "αι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 17,
+      "text": "οδοι",
+      "lemma": [
+        "G3598"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G3598",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12560,
+    "ordinal": 342,
+    "reduced": 320
+  }
+}

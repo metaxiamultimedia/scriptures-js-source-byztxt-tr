@@ -1,0 +1,220 @@
+{
+  "text": "εν τω λεγειν καινην πεπαλαιωκεν την πρωτην το δε παλαιουμενον και γηρασκον εγγυς αφανισμου",
+  "words": [
+    {
+      "position": 1,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "λεγειν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "καινην",
+      "lemma": [
+        "G2537"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G2537",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "πεπαλαιωκεν",
+      "lemma": [
+        "G3822"
+      ],
+      "morph": "robinson:V-RAI-3S",
+      "strongs": "G3822",
+      "metadata": {},
+      "gematria": {
+        "standard": 1082,
+        "ordinal": 66,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρωτην",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-ASF-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1338,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "παλαιουμενον",
+      "lemma": [
+        "G3822"
+      ],
+      "morph": "robinson:V-PPP-NSN",
+      "strongs": "G3822",
+      "metadata": {},
+      "gematria": {
+        "standard": 807,
+        "ordinal": 78,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "γηρασκον",
+      "lemma": [
+        "G1095"
+      ],
+      "morph": "robinson:V-PAP-NSN",
+      "strongs": "G1095",
+      "metadata": {},
+      "gematria": {
+        "standard": 452,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "εγγυς",
+      "lemma": [
+        "G1451"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G1451",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "αφανισμου",
+      "lemma": [
+        "G854"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G854",
+      "metadata": {},
+      "gematria": {
+        "standard": 1272,
+        "ordinal": 45,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7727,
+    "ordinal": 327,
+    "reduced": 311
+  }
+}

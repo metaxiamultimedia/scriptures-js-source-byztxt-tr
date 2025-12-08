@@ -1,0 +1,130 @@
+{
+  "text": "ημεις αγαπωμεν αυτον οτι αυτος πρωτος ηγαπησεν ημας",
+  "words": [
+    {
+      "position": 1,
+      "text": "ημεις",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 263,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "αγαπωμεν",
+      "lemma": [
+        "G25"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G25",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "αυτος",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-NSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "πρωτος",
+      "lemma": [
+        "G4413"
+      ],
+      "morph": "robinson:A-NSM-S",
+      "strongs": "G4413",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "ηγαπησεν",
+      "lemma": [
+        "G25"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G25",
+      "metadata": {},
+      "gematria": {
+        "standard": 355,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "ημας",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5569,
+    "ordinal": 154,
+    "reduced": 187
+  }
+}

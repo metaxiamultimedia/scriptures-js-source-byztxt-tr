@@ -1,0 +1,85 @@
+{
+  "text": "τους νεωτερους ωσαυτως παρακαλει σωφρονειν",
+  "words": [
+    {
+      "position": 1,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "νεωτερους",
+      "lemma": [
+        "G3501"
+      ],
+      "morph": "robinson:A-APM-C",
+      "strongs": "G3501",
+      "metadata": {},
+      "gematria": {
+        "standard": 1930,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 3,
+      "text": "ωσαυτως",
+      "lemma": [
+        "G5615"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5615",
+      "metadata": {},
+      "gematria": {
+        "standard": 2701,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "παρακαλει",
+      "lemma": [
+        "G3870"
+      ],
+      "morph": "robinson:V-PAM-2S",
+      "strongs": "G3870",
+      "metadata": {},
+      "gematria": {
+        "standard": 248,
+        "ordinal": 45,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "σωφρονειν",
+      "lemma": [
+        "G4993"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G4993",
+      "metadata": {},
+      "gematria": {
+        "standard": 1785,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7634,
+    "ordinal": 173,
+    "reduced": 146
+  }
+}

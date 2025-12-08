@@ -1,0 +1,265 @@
+{
+  "text": "και ειδεν δυο πλοια εστωτα παρα την λιμνην οι δε αλιεις αποβαντες απ αυτων απεπλυναν τα δικτυα",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ειδεν",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "δυο",
+      "lemma": [
+        "G1417"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1417",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "πλοια",
+      "lemma": [
+        "G4143"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G4143",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "εστωτα",
+      "lemma": [
+        "G2476"
+      ],
+      "morph": "robinson:V-RAP-APN",
+      "strongs": "G2476",
+      "metadata": {},
+      "gematria": {
+        "standard": 1606,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "παρα",
+      "lemma": [
+        "G3844"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3844",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "λιμνην",
+      "lemma": [
+        "G3041"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3041",
+      "metadata": {},
+      "gematria": {
+        "standard": 188,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 10,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "αλιεις",
+      "lemma": [
+        "G231"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G231",
+      "metadata": {},
+      "gematria": {
+        "standard": 256,
+        "ordinal": 21,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "αποβαντες",
+      "lemma": [
+        "G576"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G576",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "απ",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "απεπλυναν",
+      "lemma": [
+        "G637"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G637",
+      "metadata": {},
+      "gematria": {
+        "standard": 697,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 16,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "δικτυα",
+      "lemma": [
+        "G1350"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G1350",
+      "metadata": {},
+      "gematria": {
+        "standard": 735,
+        "ordinal": 21,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7523,
+    "ordinal": 259,
+    "reduced": 287
+  }
+}

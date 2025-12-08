@@ -1,0 +1,100 @@
+{
+  "text": "απεκριθη ο πιλατος ο γεγραφα γεγραφα",
+  "words": [
+    {
+      "position": 1,
+      "text": "απεκριθη",
+      "lemma": [
+        "G611"
+      ],
+      "morph": "robinson:V-ADI-3S",
+      "strongs": "G611",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "πιλατος",
+      "lemma": [
+        "G4091"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4091",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "γεγραφα",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-2RAI-1S",
+      "strongs": "G1125",
+      "metadata": {},
+      "gematria": {
+        "standard": 613,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "γεγραφα",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-2RAI-1S",
+      "strongs": "G1125",
+      "metadata": {},
+      "gematria": {
+        "standard": 613,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2290,
+    "ordinal": 122,
+    "reduced": 112
+  }
+}

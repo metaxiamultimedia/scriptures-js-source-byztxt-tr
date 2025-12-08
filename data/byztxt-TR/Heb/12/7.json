@@ -1,0 +1,265 @@
+{
+  "text": "ει παιδειαν υπομενετε ως υιοις υμιν προσφερεται ο θεος τις γαρ εστιν υιος ον ου παιδευει πατηρ",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "παιδειαν",
+      "lemma": [
+        "G3809"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3809",
+      "metadata": {},
+      "gematria": {
+        "standard": 161,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "υπομενετε",
+      "lemma": [
+        "G5278"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G5278",
+      "metadata": {},
+      "gematria": {
+        "standard": 955,
+        "ordinal": 45,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "ως",
+      "lemma": [
+        "G5613"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "υιοις",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "προσφερεται",
+      "lemma": [
+        "G4374"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G4374",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 8,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "θεος",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "τις",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-NSM",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 12,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "υιος",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ον",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "παιδευει",
+      "lemma": [
+        "G3811"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3811",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 17,
+      "text": "πατηρ",
+      "lemma": [
+        "G3962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3962",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8499,
+    "ordinal": 283,
+    "reduced": 300
+  }
+}

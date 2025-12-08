@@ -1,0 +1,145 @@
+{
+  "text": "ει δε ο ου βλεπομεν ελπιζομεν δι υπομονης απεκδεχομεθα",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "βλεπομεν",
+      "lemma": [
+        "G991"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G991",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "ελπιζομεν",
+      "lemma": [
+        "G1679"
+      ],
+      "morph": "robinson:V-PAI-1P",
+      "strongs": "G1679",
+      "metadata": {},
+      "gematria": {
+        "standard": 297,
+        "ordinal": 45,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 7,
+      "text": "δι",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 3,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 8,
+      "text": "υπομονης",
+      "lemma": [
+        "G5281"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G5281",
+      "metadata": {},
+      "gematria": {
+        "standard": 918,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "απεκδεχομεθα",
+      "lemma": [
+        "G553"
+      ],
+      "morph": "robinson:V-PNI-1P",
+      "strongs": "G553",
+      "metadata": {},
+      "gematria": {
+        "standard": 840,
+        "ordinal": 78,
+        "reduced": 57
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2915,
+    "ordinal": 208,
+    "reduced": 224
+  }
+}

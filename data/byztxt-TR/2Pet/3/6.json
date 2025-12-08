@@ -1,0 +1,130 @@
+{
+  "text": "δι ων ο τοτε κοσμος υδατι κατακλυσθεις απωλετο",
+  "words": [
+    {
+      "position": 1,
+      "text": "δι",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 3,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ων",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GPN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοτε",
+      "lemma": [
+        "G5119"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5119",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "κοσμος",
+      "lemma": [
+        "G2889"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2889",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "υδατι",
+      "lemma": [
+        "G5204"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G5204",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατακλυσθεις",
+      "lemma": [
+        "G2626"
+      ],
+      "morph": "robinson:V-APP-NSM",
+      "strongs": "G2626",
+      "metadata": {},
+      "gematria": {
+        "standard": 1196,
+        "ordinal": 78,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "απωλετο",
+      "lemma": [
+        "G622"
+      ],
+      "morph": "robinson:V-2AMI-3S",
+      "strongs": "G622",
+      "metadata": {},
+      "gematria": {
+        "standard": 1286,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5406,
+    "ordinal": 159,
+    "reduced": 150
+  }
+}

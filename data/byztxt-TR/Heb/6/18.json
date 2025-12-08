@@ -1,0 +1,295 @@
+{
+  "text": "ινα δια δυο πραγματων αμεταθετων εν οις αδυνατον ψευσασθαι θεον ισχυραν παρακλησιν εχωμεν οι καταφυγοντες κρατησαι της προκειμενης ελπιδος",
+  "words": [
+    {
+      "position": 1,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "δυο",
+      "lemma": [
+        "G1417"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G1417",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "πραγματων",
+      "lemma": [
+        "G4229"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G4229",
+      "metadata": {},
+      "gematria": {
+        "standard": 1375,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "αμεταθετων",
+      "lemma": [
+        "G276"
+      ],
+      "morph": "robinson:A-GPN",
+      "strongs": "G276",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "οις",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-DPN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "αδυνατον",
+      "lemma": [
+        "G102"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G102",
+      "metadata": {},
+      "gematria": {
+        "standard": 876,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "ψευσασθαι",
+      "lemma": [
+        "G5574"
+      ],
+      "morph": "robinson:V-ADN",
+      "strongs": "G5574",
+      "metadata": {},
+      "gematria": {
+        "standard": 1526,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "θεον",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "ισχυραν",
+      "lemma": [
+        "G2478"
+      ],
+      "morph": "robinson:A-ASF",
+      "strongs": "G2478",
+      "metadata": {},
+      "gematria": {
+        "standard": 1361,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "παρακλησιν",
+      "lemma": [
+        "G3874"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3874",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "εχωμεν",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAS-1P",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 14,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "καταφυγοντες",
+      "lemma": [
+        "G2703"
+      ],
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": "G2703",
+      "metadata": {},
+      "gematria": {
+        "standard": 1850,
+        "ordinal": 78,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 16,
+      "text": "κρατησαι",
+      "lemma": [
+        "G2902"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G2902",
+      "metadata": {},
+      "gematria": {
+        "standard": 640,
+        "ordinal": 36,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "προκειμενης",
+      "lemma": [
+        "G4295"
+      ],
+      "morph": "robinson:V-PNP-GSF",
+      "strongs": "G4295",
+      "metadata": {},
+      "gematria": {
+        "standard": 588,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 19,
+      "text": "ελπιδος",
+      "lemma": [
+        "G1680"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1680",
+      "metadata": {},
+      "gematria": {
+        "standard": 399,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13733,
+    "ordinal": 539,
+    "reduced": 458
+  }
+}

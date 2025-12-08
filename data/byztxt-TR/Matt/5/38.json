@@ -1,0 +1,160 @@
+{
+  "text": "ηκουσατε οτι ερρεθη οφθαλμον αντι οφθαλμου και οδοντα αντι οδοντος",
+  "words": [
+    {
+      "position": 1,
+      "text": "ηκουσατε",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAI-2P",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ερρεθη",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 227,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "οφθαλμον",
+      "lemma": [
+        "G3788"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3788",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "αντι",
+      "lemma": [
+        "G473"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G473",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "οφθαλμου",
+      "lemma": [
+        "G3788"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3788",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 36,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "οδοντα",
+      "lemma": [
+        "G3599"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3599",
+      "metadata": {},
+      "gematria": {
+        "standard": 495,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "αντι",
+      "lemma": [
+        "G473"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G473",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "οδοντος",
+      "lemma": [
+        "G3599"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G3599",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5513,
+    "ordinal": 210,
+    "reduced": 239
+  }
+}

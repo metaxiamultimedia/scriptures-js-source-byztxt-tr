@@ -1,0 +1,115 @@
+{
+  "text": "αλλα φιλοxενον φιλαγαθον σωφρονα δικαιον οσιον εγκρατη",
+  "words": [
+    {
+      "position": 1,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "φιλοxενον",
+      "lemma": [
+        "G5382"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G5382",
+      "metadata": {},
+      "gematria": {
+        "standard": 785,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "φιλαγαθον",
+      "lemma": [
+        "G5358"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G5358",
+      "metadata": {},
+      "gematria": {
+        "standard": 674,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "σωφρονα",
+      "lemma": [
+        "G4998"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G4998",
+      "metadata": {},
+      "gematria": {
+        "standard": 1721,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "δικαιον",
+      "lemma": [
+        "G1342"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G1342",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "οσιον",
+      "lemma": [
+        "G3741"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G3741",
+      "metadata": {},
+      "gematria": {
+        "standard": 400,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "εγκρατη",
+      "lemma": [
+        "G1468"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G1468",
+      "metadata": {},
+      "gematria": {
+        "standard": 437,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4244,
+    "ordinal": 190,
+    "reduced": 176
+  }
+}

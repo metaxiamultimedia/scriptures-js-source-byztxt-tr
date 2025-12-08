@@ -1,0 +1,130 @@
+{
+  "text": "τον αρτον ημων τον επιουσιον δος ημιν σημερον",
+  "words": [
+    {
+      "position": 1,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "αρτον",
+      "lemma": [
+        "G740"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G740",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "ημων",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1GP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "επιουσιον",
+      "lemma": [
+        "G1967"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G1967",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "δος",
+      "lemma": [
+        "G1325"
+      ],
+      "morph": "robinson:V-2AAM-2S",
+      "strongs": "G1325",
+      "metadata": {},
+      "gematria": {
+        "standard": 274,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "ημιν",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DP",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "σημερον",
+      "lemma": [
+        "G4594"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G4594",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4009,
+    "ordinal": 126,
+    "reduced": 175
+  }
+}

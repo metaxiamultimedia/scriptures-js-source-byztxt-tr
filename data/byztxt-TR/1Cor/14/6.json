@@ -1,0 +1,430 @@
+{
+  "text": "νυνι δε αδελφοι εαν ελθω προς υμας γλωσσαις λαλων τι υμας ωφελησω εαν μη υμιν λαλησω η εν αποκαλυψει η εν γνωσει η εν προφητεια η εν διδαχη",
+  "words": [
+    {
+      "position": 1,
+      "text": "νυνι",
+      "lemma": [
+        "G3570"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3570",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αδελφοι",
+      "lemma": [
+        "G80"
+      ],
+      "morph": "robinson:N-VPM",
+      "strongs": "G80",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ελθω",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2AAS-1S",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 844,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "προς",
+      "lemma": [
+        "G4314"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4314",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "γλωσσαις",
+      "lemma": [
+        "G1100"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G1100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1444,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "λαλων",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "τι",
+      "lemma": [
+        "G5101"
+      ],
+      "morph": "robinson:I-ASN",
+      "strongs": "G5101",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ωφελησω",
+      "lemma": [
+        "G5623"
+      ],
+      "morph": "robinson:V-FAI-1S",
+      "strongs": "G5623",
+      "metadata": {},
+      "gematria": {
+        "standard": 2343,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "εαν",
+      "lemma": [
+        "G1437"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1437",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "λαλησω",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-AAS-1S",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 1069,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 18,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "αποκαλυψει",
+      "lemma": [
+        "G602"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G602",
+      "metadata": {},
+      "gematria": {
+        "standard": 1317,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 20,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 21,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "γνωσει",
+      "lemma": [
+        "G1108"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1108",
+      "metadata": {},
+      "gematria": {
+        "standard": 1068,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 23,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 24,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 25,
+      "text": "προφητεια",
+      "lemma": [
+        "G4394"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4394",
+      "metadata": {},
+      "gematria": {
+        "standard": 1074,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 26,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 27,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 28,
+      "text": "διδαχη",
+      "lemma": [
+        "G1322"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1322",
+      "metadata": {},
+      "gematria": {
+        "standard": 627,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14790,
+    "ordinal": 367,
+    "reduced": 471
+  }
+}

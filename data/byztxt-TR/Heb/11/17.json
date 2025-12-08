@@ -1,0 +1,220 @@
+{
+  "text": "πιστει προσενηνοχεν αβρααμ τον ισαακ πειραζομενος και τον μονογενη προσεφερεν ο τας επαγγελιας αναδεxαμενος",
+  "words": [
+    {
+      "position": 1,
+      "text": "πιστει",
+      "lemma": [
+        "G4102"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4102",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσενηνοχεν",
+      "lemma": [
+        "G4374"
+      ],
+      "morph": "robinson:V-2RAI-3S-ATT",
+      "strongs": "G4374",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 78,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 3,
+      "text": "αβρααμ",
+      "lemma": [
+        "G11"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G11",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ισαακ",
+      "lemma": [
+        "G2464"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2464",
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "πειραζομενος",
+      "lemma": [
+        "G3985"
+      ],
+      "morph": "robinson:V-PPP-NSM",
+      "strongs": "G3985",
+      "metadata": {},
+      "gematria": {
+        "standard": 638,
+        "ordinal": 78,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "μονογενη",
+      "lemma": [
+        "G3439"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G3439",
+      "metadata": {},
+      "gematria": {
+        "standard": 296,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "προσεφερεν",
+      "lemma": [
+        "G4374"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G4374",
+      "metadata": {},
+      "gematria": {
+        "standard": 1115,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 11,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "τας",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "επαγγελιας",
+      "lemma": [
+        "G1860"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G1860",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "αναδεxαμενος",
+      "lemma": [
+        "G324"
+      ],
+      "morph": "robinson:V-ADP-NSM",
+      "strongs": "G324",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 66,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6526,
+    "ordinal": 450,
+    "reduced": 361
+  }
+}

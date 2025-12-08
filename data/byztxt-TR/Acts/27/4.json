@@ -1,0 +1,175 @@
+{
+  "text": "κακειθεν αναχθεντες υπεπλευσαμεν την κυπρον δια το τους ανεμους ειναι εναντιους",
+  "words": [
+    {
+      "position": 1,
+      "text": "κακειθεν",
+      "lemma": [
+        "G2547"
+      ],
+      "morph": "robinson:ADV-K",
+      "strongs": "G2547",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "αναχθεντες",
+      "lemma": [
+        "G321"
+      ],
+      "morph": "robinson:V-APP-NPM",
+      "strongs": "G321",
+      "metadata": {},
+      "gematria": {
+        "standard": 1221,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 3,
+      "text": "υπεπλευσαμεν",
+      "lemma": [
+        "G5284"
+      ],
+      "morph": "robinson:V-AAI-1P",
+      "strongs": "G5284",
+      "metadata": {},
+      "gematria": {
+        "standard": 1296,
+        "ordinal": 78,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 4,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "κυπρον",
+      "lemma": [
+        "G2954"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2954",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ανεμους",
+      "lemma": [
+        "G417"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G417",
+      "metadata": {},
+      "gematria": {
+        "standard": 766,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "ειναι",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "εναντιους",
+      "lemma": [
+        "G1727"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G1727",
+      "metadata": {},
+      "gematria": {
+        "standard": 1086,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6998,
+    "ordinal": 303,
+    "reduced": 275
+  }
+}

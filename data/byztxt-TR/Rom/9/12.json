@@ -1,0 +1,130 @@
+{
+  "text": "ερρηθη αυτη οτι ο μειζων δουλευσει τω ελασσονι",
+  "words": [
+    {
+      "position": 1,
+      "text": "ερρηθη",
+      "lemma": [
+        "G2046"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G2046",
+      "metadata": {},
+      "gematria": {
+        "standard": 230,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "αυτη",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "μειζων",
+      "lemma": [
+        "G3173"
+      ],
+      "morph": "robinson:A-NSM-C",
+      "strongs": "G3173",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "δουλευσει",
+      "lemma": [
+        "G1398"
+      ],
+      "morph": "robinson:V-FAI-3S",
+      "strongs": "G1398",
+      "metadata": {},
+      "gematria": {
+        "standard": 1124,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ελασσονι",
+      "lemma": [
+        "G1640"
+      ],
+      "morph": "robinson:A-DSM",
+      "strongs": "G1640",
+      "metadata": {},
+      "gematria": {
+        "standard": 566,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5091,
+    "ordinal": 143,
+    "reduced": 168
+  }
+}

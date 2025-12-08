@@ -1,0 +1,145 @@
+{
+  "text": "μηδεις το εαυτου ζητειτω αλλα το του ετερου εκαστος",
+  "words": [
+    {
+      "position": 1,
+      "text": "μηδεις",
+      "lemma": [
+        "G3367"
+      ],
+      "morph": "robinson:A-NSM-N",
+      "strongs": "G3367",
+      "metadata": {},
+      "gematria": {
+        "standard": 267,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "εαυτου",
+      "lemma": [
+        "G1438"
+      ],
+      "morph": "robinson:F-3GSM",
+      "strongs": "G1438",
+      "metadata": {},
+      "gematria": {
+        "standard": 1176,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "ζητειτω",
+      "lemma": [
+        "G2212"
+      ],
+      "morph": "robinson:V-PAM-3S",
+      "strongs": "G2212",
+      "metadata": {},
+      "gematria": {
+        "standard": 1430,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "ετερου",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-GSM",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "εκαστος",
+      "lemma": [
+        "G1538"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G1538",
+      "metadata": {},
+      "gematria": {
+        "standard": 796,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6121,
+    "ordinal": 141,
+    "reduced": 172
+  }
+}

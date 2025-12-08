@@ -1,0 +1,145 @@
+{
+  "text": "πιστει τα τειχη ιεριχω επεσεν κυκλωθεντα επι επτα ημερας",
+  "words": [
+    {
+      "position": 1,
+      "text": "πιστει",
+      "lemma": [
+        "G4102"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4102",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "τειχη",
+      "lemma": [
+        "G5038"
+      ],
+      "morph": "robinson:N-NPN",
+      "strongs": "G5038",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιεριχω",
+      "lemma": [
+        "G2410"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2410",
+      "metadata": {},
+      "gematria": {
+        "standard": 1525,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "επεσεν",
+      "lemma": [
+        "G4098"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G4098",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "κυκλωθεντα",
+      "lemma": [
+        "G2944"
+      ],
+      "morph": "robinson:V-APP-NPN",
+      "strongs": "G2944",
+      "metadata": {},
+      "gematria": {
+        "standard": 1635,
+        "ordinal": 55,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "επι",
+      "lemma": [
+        "G1909"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1909",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "επτα",
+      "lemma": [
+        "G2033"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G2033",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "ημερας",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6169,
+    "ordinal": 173,
+    "reduced": 193
+  }
+}

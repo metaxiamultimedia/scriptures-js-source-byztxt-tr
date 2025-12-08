@@ -1,0 +1,115 @@
+{
+  "text": "υμεις ουν ακουσατε την παραβολην του σπειροντος",
+  "words": [
+    {
+      "position": 1,
+      "text": "υμεις",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ακουσατε",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAM-2P",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 997,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "παραβολην",
+      "lemma": [
+        "G3850"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3850",
+      "metadata": {},
+      "gematria": {
+        "standard": 342,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "σπειροντος",
+      "lemma": [
+        "G4687"
+      ],
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": "G4687",
+      "metadata": {},
+      "gematria": {
+        "standard": 1085,
+        "ordinal": 55,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4727,
+    "ordinal": 169,
+    "reduced": 164
+  }
+}

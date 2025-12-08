@@ -1,0 +1,385 @@
+{
+  "text": "εκ γαρ πολλης θλιψεως και συνοχης καρδιας εγραψα υμιν δια πολλων δακρυων ουχ ινα λυπηθητε αλλα την αγαπην ινα γνωτε ην εχω περισσοτερως εις υμας",
+  "words": [
+    {
+      "position": 1,
+      "text": "εκ",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "πολλης",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-GSF",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 418,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "θλιψεως",
+      "lemma": [
+        "G2347"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2347",
+      "metadata": {},
+      "gematria": {
+        "standard": 1754,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
+      "text": "συνοχης",
+      "lemma": [
+        "G4928"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G4928",
+      "metadata": {},
+      "gematria": {
+        "standard": 1528,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "καρδιας",
+      "lemma": [
+        "G2588"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G2588",
+      "metadata": {},
+      "gematria": {
+        "standard": 336,
+        "ordinal": 28,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "εγραψα",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-AAI-1S",
+      "strongs": "G1125",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "υμιν",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2DP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "δια",
+      "lemma": [
+        "G1223"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1223",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "πολλων",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-GPN",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 1060,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "δακρυων",
+      "lemma": [
+        "G1144"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G1144",
+      "metadata": {},
+      "gematria": {
+        "standard": 1375,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "ουχ",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "λυπηθητε",
+      "lemma": [
+        "G3076"
+      ],
+      "morph": "robinson:V-APS-2P",
+      "strongs": "G3076",
+      "metadata": {},
+      "gematria": {
+        "standard": 840,
+        "ordinal": 36,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 16,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "αγαπην",
+      "lemma": [
+        "G26"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G26",
+      "metadata": {},
+      "gematria": {
+        "standard": 143,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 19,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "γνωτε",
+      "lemma": [
+        "G1097"
+      ],
+      "morph": "robinson:V-2AAS-2P",
+      "strongs": "G1097",
+      "metadata": {},
+      "gematria": {
+        "standard": 1158,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 21,
+      "text": "ην",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 22,
+      "text": "εχω",
+      "lemma": [
+        "G2192"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2192",
+      "metadata": {},
+      "gematria": {
+        "standard": 1405,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 23,
+      "text": "περισσοτερως",
+      "lemma": [
+        "G4057"
+      ],
+      "morph": "robinson:ADV-C",
+      "strongs": "G4057",
+      "metadata": {},
+      "gematria": {
+        "standard": 2070,
+        "ordinal": 78,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 24,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 25,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16098,
+    "ordinal": 415,
+    "reduced": 474
+  }
+}

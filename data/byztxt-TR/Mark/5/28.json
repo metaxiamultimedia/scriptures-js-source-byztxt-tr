@@ -1,0 +1,145 @@
+{
+  "text": "ελεγεν γαρ οτι καν των ιματιων αυτου αψωμαι σωθησομαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "ελεγεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "καν",
+      "lemma": [
+        "G2579"
+      ],
+      "morph": "robinson:COND-K",
+      "strongs": "G2579",
+      "metadata": {},
+      "gematria": {
+        "standard": 71,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιματιων",
+      "lemma": [
+        "G2440"
+      ],
+      "morph": "robinson:N-GPN",
+      "strongs": "G2440",
+      "metadata": {},
+      "gematria": {
+        "standard": 1211,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "αψωμαι",
+      "lemma": [
+        "G680"
+      ],
+      "morph": "robinson:V-AMS-1S",
+      "strongs": "G680",
+      "metadata": {},
+      "gematria": {
+        "standard": 1552,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "σωθησομαι",
+      "lemma": [
+        "G4982"
+      ],
+      "morph": "robinson:V-FPI-1S",
+      "strongs": "G4982",
+      "metadata": {},
+      "gematria": {
+        "standard": 1338,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7075,
+    "ordinal": 154,
+    "reduced": 172
+  }
+}

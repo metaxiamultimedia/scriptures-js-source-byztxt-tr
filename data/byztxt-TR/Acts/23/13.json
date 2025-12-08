@@ -1,0 +1,145 @@
+{
+  "text": "ησαν δε πλειους τεσσαρακοντα οι ταυτην την συνωμοσιαν πεποιηκοτες",
+  "words": [
+    {
+      "position": 1,
+      "text": "ησαν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πλειους",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-NPM-C",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 795,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "τεσσαρακοντα",
+      "lemma": [
+        "G5062"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G5062",
+      "metadata": {},
+      "gematria": {
+        "standard": 1248,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "ταυτην",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-ASF",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1059,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "συνωμοσιαν",
+      "lemma": [
+        "G4945"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G4945",
+      "metadata": {},
+      "gematria": {
+        "standard": 1821,
+        "ordinal": 55,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 9,
+      "text": "πεποιηκοτες",
+      "lemma": [
+        "G4160"
+      ],
+      "morph": "robinson:V-RAP-NPM",
+      "strongs": "G4160",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 66,
+        "reduced": 56
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6477,
+    "ordinal": 270,
+    "reduced": 231
+  }
+}

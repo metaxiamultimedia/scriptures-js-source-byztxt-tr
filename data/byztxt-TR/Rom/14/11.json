@@ -1,0 +1,265 @@
+{
+  "text": "γεγραπται γαρ ζω εγω λεγει κυριος οτι εμοι καμψει παν γονυ και πασα γλωσσα εxομολογησεται τω θεω",
+  "words": [
+    {
+      "position": 1,
+      "text": "γεγραπται",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-RPI-3S",
+      "strongs": "G1125",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 45,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "ζω",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAI-1S",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 807,
+        "ordinal": 3,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "εγω",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1NS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "κυριος",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "εμοι",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "καμψει",
+      "lemma": [
+        "G2578"
+      ],
+      "morph": "robinson:V-FAI-3S",
+      "strongs": "G2578",
+      "metadata": {},
+      "gematria": {
+        "standard": 776,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "παν",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "γονυ",
+      "lemma": [
+        "G1119"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G1119",
+      "metadata": {},
+      "gematria": {
+        "standard": 523,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "πασα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NSF",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "γλωσσα",
+      "lemma": [
+        "G1100"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1100",
+      "metadata": {},
+      "gematria": {
+        "standard": 1234,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "εxομολογησεται",
+      "lemma": [
+        "G1843"
+      ],
+      "morph": "robinson:V-FMI-3S",
+      "strongs": "G1843",
+      "metadata": {},
+      "gematria": {
+        "standard": 812,
+        "ordinal": 91,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 16,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9283,
+    "ordinal": 286,
+    "reduced": 301
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "text": "μακαριοι οι πενθουντες οτι αυτοι παρακληθησονται",
+  "words": [
+    {
+      "position": 1,
+      "text": "μακαριοι",
+      "lemma": [
+        "G3107"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3107",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "πενθουντες",
+      "lemma": [
+        "G3996"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3996",
+      "metadata": {},
+      "gematria": {
+        "standard": 1169,
+        "ordinal": 55,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 4,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "αυτοι",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-NPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "παρακληθησονται",
+      "lemma": [
+        "G3870"
+      ],
+      "morph": "robinson:V-FPI-3P",
+      "strongs": "G3870",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 120,
+        "reduced": 60
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3550,
+    "ordinal": 235,
+    "reduced": 166
+  }
+}

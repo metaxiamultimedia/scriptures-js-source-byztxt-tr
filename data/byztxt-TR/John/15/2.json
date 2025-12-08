@@ -1,0 +1,310 @@
+{
+  "text": "παν κλημα εν εμοι μη φερον καρπον αιρει αυτο και παν το καρπον φερον καθαιρει αυτο ινα πλειονα καρπον φερη",
+  "words": [
+    {
+      "position": 1,
+      "text": "παν",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-ASN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "κλημα",
+      "lemma": [
+        "G2814"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G2814",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "εμοι",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "φερον",
+      "lemma": [
+        "G5342"
+      ],
+      "morph": "robinson:V-PAP-ASN",
+      "strongs": "G5342",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "καρπον",
+      "lemma": [
+        "G2590"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2590",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "αιρει",
+      "lemma": [
+        "G142"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G142",
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 15,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "αυτο",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "παν",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-ASN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "καρπον",
+      "lemma": [
+        "G2590"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2590",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "φερον",
+      "lemma": [
+        "G5342"
+      ],
+      "morph": "robinson:V-PAP-ASN",
+      "strongs": "G5342",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "καθαιρει",
+      "lemma": [
+        "G2508"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G2508",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 36,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "αυτο",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "πλειονα",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-ASM-C",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 246,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "καρπον",
+      "lemma": [
+        "G2590"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2590",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 20,
+      "text": "φερη",
+      "lemma": [
+        "G5342"
+      ],
+      "morph": "robinson:V-PAS-3S",
+      "strongs": "G5342",
+      "metadata": {},
+      "gematria": {
+        "standard": 613,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6147,
+    "ordinal": 260,
+    "reduced": 333
+  }
+}

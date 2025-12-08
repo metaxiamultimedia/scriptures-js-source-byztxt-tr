@@ -1,0 +1,250 @@
+{
+  "text": "μετα δε ταυτας τας ημερας συνελαβεν ελισαβετ η γυνη αυτου και περιεκρυβεν εαυτην μηνας πεντε λεγουσα",
+  "words": [
+    {
+      "position": 1,
+      "text": "μετα",
+      "lemma": [
+        "G3326"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3326",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ταυτας",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-APF",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1202,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "τας",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "ημερας",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "συνελαβεν",
+      "lemma": [
+        "G4815"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G4815",
+      "metadata": {},
+      "gematria": {
+        "standard": 743,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "ελισαβετ",
+      "lemma": [
+        "G1665"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G1665",
+      "metadata": {},
+      "gematria": {
+        "standard": 553,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "γυνη",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "περιεκρυβεν",
+      "lemma": [
+        "G4032"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G4032",
+      "metadata": {},
+      "gematria": {
+        "standard": 777,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "εαυτην",
+      "lemma": [
+        "G1438"
+      ],
+      "morph": "robinson:F-3ASF",
+      "strongs": "G1438",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 14,
+      "text": "μηνας",
+      "lemma": [
+        "G3376"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G3376",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "πεντε",
+      "lemma": [
+        "G4002"
+      ],
+      "morph": "robinson:A-NUI",
+      "strongs": "G4002",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 16,
+      "text": "λεγουσα",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8368,
+    "ordinal": 319,
+    "reduced": 304
+  }
+}

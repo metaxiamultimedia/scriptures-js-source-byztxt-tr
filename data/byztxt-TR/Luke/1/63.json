@@ -1,0 +1,205 @@
+{
+  "text": "και αιτησας πινακιδιον εγραψεν λεγων ιωαννης εστιν το ονομα αυτου και εθαυμασαν παντες",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "αιτησας",
+      "lemma": [
+        "G154"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G154",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "πινακιδιον",
+      "lemma": [
+        "G4093"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G4093",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "εγραψεν",
+      "lemma": [
+        "G1125"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1125",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "λεγων",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "ιωαννης",
+      "lemma": [
+        "G2491"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2491",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "εστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "ονομα",
+      "lemma": [
+        "G3686"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G3686",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "εθαυμασαν",
+      "lemma": [
+        "G2296"
+      ],
+      "morph": "robinson:V-AAI-3P",
+      "strongs": "G2296",
+      "metadata": {},
+      "gematria": {
+        "standard": 707,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "παντες",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7638,
+    "ordinal": 280,
+    "reduced": 267
+  }
+}

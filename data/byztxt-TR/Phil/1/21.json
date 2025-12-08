@@ -1,0 +1,145 @@
+{
+  "text": "εμοι γαρ το ζην χριστος και το αποθανειν κερδος",
+  "words": [
+    {
+      "position": 1,
+      "text": "εμοι",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1DS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ζην",
+      "lemma": [
+        "G2198"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G2198",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 6,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "χριστος",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "αποθανειν",
+      "lemma": [
+        "G599"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G599",
+      "metadata": {},
+      "gematria": {
+        "standard": 276,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "κερδος",
+      "lemma": [
+        "G2771"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G2771",
+      "metadata": {},
+      "gematria": {
+        "standard": 399,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3220,
+    "ordinal": 128,
+    "reduced": 151
+  }
+}

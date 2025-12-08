@@ -1,0 +1,40 @@
+{
+  "text": "αδιαλειπτως προσευχεσθε",
+  "words": [
+    {
+      "position": 1,
+      "text": "αδιαλειπτως",
+      "lemma": [
+        "G89"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G89",
+      "metadata": {},
+      "gematria": {
+        "standard": 1441,
+        "ordinal": 66,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσευχεσθε",
+      "lemma": [
+        "G4336"
+      ],
+      "morph": "robinson:V-PNM-2P",
+      "strongs": "G4336",
+      "metadata": {},
+      "gematria": {
+        "standard": 1674,
+        "ordinal": 66,
+        "reduced": 54
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3115,
+    "ordinal": 132,
+    "reduced": 91
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "text": "φρυγιαν τε και παμφυλιαν αιγυπτον και τα μερη της λιβυης της κατα κυρηνην και οι επιδημουντες ρωμαιοι ιουδαιοι τε και προσηλυτοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "φρυγιαν",
+      "lemma": [
+        "G5435"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5435",
+      "metadata": {},
+      "gematria": {
+        "standard": 1064,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G5037",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "παμφυλιαν",
+      "lemma": [
+        "G3828"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3828",
+      "metadata": {},
+      "gematria": {
+        "standard": 1112,
+        "ordinal": 45,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "αιγυπτον",
+      "lemma": [
+        "G125"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G125",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "μερη",
+      "lemma": [
+        "G3313"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G3313",
+      "metadata": {},
+      "gematria": {
+        "standard": 153,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "λιβυης",
+      "lemma": [
+        "G3033"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3033",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "κυρηνην",
+      "lemma": [
+        "G2957"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2957",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 14,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 16,
+      "text": "επιδημουντες",
+      "lemma": [
+        "G1927"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G1927",
+      "metadata": {},
+      "gematria": {
+        "standard": 1172,
+        "ordinal": 78,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 17,
+      "text": "ρωμαιοι",
+      "lemma": [
+        "G4514"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G4514",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "ιουδαιοι",
+      "lemma": [
+        "G2453"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G2453",
+      "metadata": {},
+      "gematria": {
+        "standard": 575,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 19,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G5037",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 21,
+      "text": "προσηλυτοι",
+      "lemma": [
+        "G4339"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G4339",
+      "metadata": {},
+      "gematria": {
+        "standard": 1268,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11028,
+    "ordinal": 423,
+    "reduced": 381
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "text": "ος ην συν τω ανθυπατω σεργιω παυλω ανδρι συνετω ουτος προσκαλεσαμενος βαρναβαν και σαυλον επεζητησεν ακουσαι τον λογον του θεου",
+  "words": [
+    {
+      "position": 1,
+      "text": "ος",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NSM",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ην",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-IAI-3S",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "συν",
+      "lemma": [
+        "G4862"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4862",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "τω",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανθυπατω",
+      "lemma": [
+        "G446"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G446",
+      "metadata": {},
+      "gematria": {
+        "standard": 1641,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "σεργιω",
+      "lemma": [
+        "G4588"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G4588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1118,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "παυλω",
+      "lemma": [
+        "G3972"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G3972",
+      "metadata": {},
+      "gematria": {
+        "standard": 1311,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "ανδρι",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "συνετω",
+      "lemma": [
+        "G4908"
+      ],
+      "morph": "robinson:A-DSM",
+      "strongs": "G4908",
+      "metadata": {},
+      "gematria": {
+        "standard": 1755,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 10,
+      "text": "ουτος",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-NSM",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "προσκαλεσαμενος",
+      "lemma": [
+        "G4341"
+      ],
+      "morph": "robinson:V-ADP-NSM",
+      "strongs": "G4341",
+      "metadata": {},
+      "gematria": {
+        "standard": 1072,
+        "ordinal": 120,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 12,
+      "text": "βαρναβαν",
+      "lemma": [
+        "G921"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G921",
+      "metadata": {},
+      "gematria": {
+        "standard": 207,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "σαυλον",
+      "lemma": [
+        "G4569"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G4569",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "επεζητησεν",
+      "lemma": [
+        "G1934"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1934",
+      "metadata": {},
+      "gematria": {
+        "standard": 668,
+        "ordinal": 55,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 16,
+      "text": "ακουσαι",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAN",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 28,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 17,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "λογον",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14436,
+    "ordinal": 441,
+    "reduced": 441
+  }
+}

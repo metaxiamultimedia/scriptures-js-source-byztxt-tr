@@ -1,0 +1,85 @@
+{
+  "text": "υποτασσομενοι αλληλοις εν φοβω θεου",
+  "words": [
+    {
+      "position": 1,
+      "text": "υποτασσομενοι",
+      "lemma": [
+        "G5293"
+      ],
+      "morph": "robinson:V-PPP-NPM",
+      "strongs": "G5293",
+      "metadata": {},
+      "gematria": {
+        "standard": 1496,
+        "ordinal": 91,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 2,
+      "text": "αλληλοις",
+      "lemma": [
+        "G240"
+      ],
+      "morph": "robinson:C-DPM",
+      "strongs": "G240",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "φοβω",
+      "lemma": [
+        "G5401"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G5401",
+      "metadata": {},
+      "gematria": {
+        "standard": 1372,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3786,
+    "ordinal": 150,
+    "reduced": 141
+  }
+}

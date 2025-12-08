@@ -1,0 +1,265 @@
+{
+  "text": "προσδραμων δε ο φιλιππος ηκουσεν αυτου αναγινωσκοντος τον προφητην ησαιαν και ειπεν αρα γε γινωσκεις α αναγινωσκεις",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσδραμων",
+      "lemma": [
+        "G4370"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G4370",
+      "metadata": {},
+      "gematria": {
+        "standard": 1445,
+        "ordinal": 55,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "φιλιππος",
+      "lemma": [
+        "G5376"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5376",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "ηκουσεν",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "αναγινωσκοντος",
+      "lemma": [
+        "G314"
+      ],
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": "G314",
+      "metadata": {},
+      "gematria": {
+        "standard": 1825,
+        "ordinal": 105,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 8,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "προφητην",
+      "lemma": [
+        "G4396"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G4396",
+      "metadata": {},
+      "gematria": {
+        "standard": 1116,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 10,
+      "text": "ησαιαν",
+      "lemma": [
+        "G2268"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2268",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "ειπεν",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "αρα",
+      "lemma": [
+        "G687"
+      ],
+      "morph": "robinson:PRT-I",
+      "strongs": "G687",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 6,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 14,
+      "text": "γε",
+      "lemma": [
+        "G1065"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G1065",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "γινωσκεις",
+      "lemma": [
+        "G1097"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G1097",
+      "metadata": {},
+      "gematria": {
+        "standard": 1298,
+        "ordinal": 45,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "α",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-APN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 17,
+      "text": "αναγινωσκεις",
+      "lemma": [
+        "G314"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G314",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 78,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10999,
+    "ordinal": 460,
+    "reduced": 379
+  }
+}

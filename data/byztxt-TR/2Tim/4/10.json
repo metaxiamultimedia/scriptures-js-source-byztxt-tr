@@ -1,0 +1,280 @@
+{
+  "text": "δημας γαρ με εγκατελιπεν αγαπησας τον νυν αιωνα και επορευθη εις θεσσαλονικην κρησκης εις γαλατιαν τιτος εις δαλματιαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "δημας",
+      "lemma": [
+        "G1214"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G1214",
+      "metadata": {},
+      "gematria": {
+        "standard": 253,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "με",
+      "lemma": [
+        "G1473"
+      ],
+      "morph": "robinson:P-1AS",
+      "strongs": "G1473",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "εγκατελιπεν",
+      "lemma": [
+        "G1459"
+      ],
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": "G1459",
+      "metadata": {},
+      "gematria": {
+        "standard": 509,
+        "ordinal": 66,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "αγαπησας",
+      "lemma": [
+        "G25"
+      ],
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": "G25",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "νυν",
+      "lemma": [
+        "G3568"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3568",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "αιωνα",
+      "lemma": [
+        "G165"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G165",
+      "metadata": {},
+      "gematria": {
+        "standard": 862,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "επορευθη",
+      "lemma": [
+        "G4198"
+      ],
+      "morph": "robinson:V-AOI-3S",
+      "strongs": "G4198",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 36,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 11,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "θεσσαλονικην",
+      "lemma": [
+        "G2332"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2332",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 78,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 13,
+      "text": "κρησκης",
+      "lemma": [
+        "G2913"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2913",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "γαλατιαν",
+      "lemma": [
+        "G1053"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1053",
+      "metadata": {},
+      "gematria": {
+        "standard": 396,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "τιτος",
+      "lemma": [
+        "G5103"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5103",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 18,
+      "text": "δαλματιαν",
+      "lemma": [
+        "G1149"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G1149",
+      "metadata": {},
+      "gematria": {
+        "standard": 437,
+        "ordinal": 45,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7462,
+    "ordinal": 415,
+    "reduced": 352
+  }
+}

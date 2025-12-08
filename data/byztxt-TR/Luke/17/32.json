@@ -1,0 +1,70 @@
+{
+  "text": "μνημονευετε της γυναικος λωτ",
+  "words": [
+    {
+      "position": 1,
+      "text": "μνημονευετε",
+      "lemma": [
+        "G3421"
+      ],
+      "morph": "robinson:V-PAM-2P",
+      "strongs": "G3421",
+      "metadata": {},
+      "gematria": {
+        "standard": 973,
+        "ordinal": 66,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 2,
+      "text": "της",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "γυναικος",
+      "lemma": [
+        "G1135"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G1135",
+      "metadata": {},
+      "gematria": {
+        "standard": 754,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "λωτ",
+      "lemma": [
+        "G3091"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G3091",
+      "metadata": {},
+      "gematria": {
+        "standard": 1130,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3365,
+    "ordinal": 114,
+    "reduced": 107
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "text": "λογιζομαι γαρ μηδεν υστερηκεναι των υπερ λιαν αποστολων",
+  "words": [
+    {
+      "position": 1,
+      "text": "λογιζομαι",
+      "lemma": [
+        "G3049"
+      ],
+      "morph": "robinson:V-PNI-1S",
+      "strongs": "G3049",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "μηδεν",
+      "lemma": [
+        "G3367"
+      ],
+      "morph": "robinson:A-ASN-N",
+      "strongs": "G3367",
+      "metadata": {},
+      "gematria": {
+        "standard": 107,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "υστερηκεναι",
+      "lemma": [
+        "G5302"
+      ],
+      "morph": "robinson:V-RAN",
+      "strongs": "G5302",
+      "metadata": {},
+      "gematria": {
+        "standard": 1099,
+        "ordinal": 66,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "υπερ",
+      "lemma": [
+        "G5228"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G5228",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "λιαν",
+      "lemma": [
+        "G3029"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3029",
+      "metadata": {},
+      "gematria": {
+        "standard": 91,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "αποστολων",
+      "lemma": [
+        "G652"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G652",
+      "metadata": {},
+      "gematria": {
+        "standard": 1601,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4978,
+    "ordinal": 203,
+    "reduced": 190
+  }
+}

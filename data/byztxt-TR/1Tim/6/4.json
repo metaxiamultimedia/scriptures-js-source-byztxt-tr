@@ -1,0 +1,265 @@
+{
+  "text": "τετυφωται μηδεν επισταμενος αλλα νοσων περι ζητησεις και λογομαχιας εx ων γινεται φθονος ερις βλασφημιαι υπονοιαι πονηραι",
+  "words": [
+    {
+      "position": 1,
+      "text": "τετυφωται",
+      "lemma": [
+        "G5187"
+      ],
+      "morph": "robinson:V-RPI-3S",
+      "strongs": "G5187",
+      "metadata": {},
+      "gematria": {
+        "standard": 2616,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 2,
+      "text": "μηδεν",
+      "lemma": [
+        "G3367"
+      ],
+      "morph": "robinson:A-ASN-N",
+      "strongs": "G3367",
+      "metadata": {},
+      "gematria": {
+        "standard": 107,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "επισταμενος",
+      "lemma": [
+        "G1987"
+      ],
+      "morph": "robinson:V-PNP-NSM",
+      "strongs": "G1987",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "αλλα",
+      "lemma": [
+        "G235"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G235",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "νοσων",
+      "lemma": [
+        "G3552"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G3552",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "περι",
+      "lemma": [
+        "G4012"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4012",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ζητησεις",
+      "lemma": [
+        "G2214"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G2214",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 8,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 9,
+      "text": "λογομαχιας",
+      "lemma": [
+        "G3055"
+      ],
+      "morph": "robinson:N-APF",
+      "strongs": "G3055",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "εx",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 5,
+        "ordinal": 1,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 11,
+      "text": "ων",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GPF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "γινεται",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-PNI-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "φθονος",
+      "lemma": [
+        "G5355"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5355",
+      "metadata": {},
+      "gematria": {
+        "standard": 899,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "ερις",
+      "lemma": [
+        "G2054"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G2054",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 10,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "βλασφημιαι",
+      "lemma": [
+        "G988"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G988",
+      "metadata": {},
+      "gematria": {
+        "standard": 802,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "υπονοιαι",
+      "lemma": [
+        "G5283"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G5283",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 17,
+      "text": "πονηραι",
+      "lemma": [
+        "G4190"
+      ],
+      "morph": "robinson:A-NPF",
+      "strongs": "G4190",
+      "metadata": {},
+      "gematria": {
+        "standard": 319,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11165,
+    "ordinal": 440,
+    "reduced": 401
+  }
+}

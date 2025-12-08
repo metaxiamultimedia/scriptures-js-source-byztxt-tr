@@ -1,0 +1,235 @@
+{
+  "text": "σωφρονας αγνας οικουρους αγαθας υποτασσομενας τοις ιδιοις ανδρασιν ινα μη ο λογος του θεου βλασφημηται",
+  "words": [
+    {
+      "position": 1,
+      "text": "σωφρονας",
+      "lemma": [
+        "G4998"
+      ],
+      "morph": "robinson:A-APF",
+      "strongs": "G4998",
+      "metadata": {},
+      "gematria": {
+        "standard": 1921,
+        "ordinal": 36,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "αγνας",
+      "lemma": [
+        "G53"
+      ],
+      "morph": "robinson:A-APF",
+      "strongs": "G53",
+      "metadata": {},
+      "gematria": {
+        "standard": 255,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "οικουρους",
+      "lemma": [
+        "G3626"
+      ],
+      "morph": "robinson:A-APF",
+      "strongs": "G3626",
+      "metadata": {},
+      "gematria": {
+        "standard": 1340,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "αγαθας",
+      "lemma": [
+        "G18"
+      ],
+      "morph": "robinson:A-APF",
+      "strongs": "G18",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "υποτασσομενας",
+      "lemma": [
+        "G5293"
+      ],
+      "morph": "robinson:V-PPP-APF",
+      "strongs": "G5293",
+      "metadata": {},
+      "gematria": {
+        "standard": 1617,
+        "ordinal": 91,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιδιοις",
+      "lemma": [
+        "G2398"
+      ],
+      "morph": "robinson:A-DPM",
+      "strongs": "G2398",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ανδρασιν",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 416,
+        "ordinal": 36,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "ινα",
+      "lemma": [
+        "G2443"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2443",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "λογος",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "βλασφημηται",
+      "lemma": [
+        "G987"
+      ],
+      "morph": "robinson:V-PPS-3S",
+      "strongs": "G987",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 66,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9554,
+    "ordinal": 382,
+    "reduced": 320
+  }
+}

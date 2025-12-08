@@ -1,0 +1,115 @@
+{
+  "text": "εισερχομενοι δε εις την οικιαν ασπασασθε αυτην",
+  "words": [
+    {
+      "position": 1,
+      "text": "εισερχομενοι",
+      "lemma": [
+        "G1525"
+      ],
+      "morph": "robinson:V-PNP-NPM",
+      "strongs": "G1525",
+      "metadata": {},
+      "gematria": {
+        "standard": 1165,
+        "ordinal": 78,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "την",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "οικιαν",
+      "lemma": [
+        "G3614"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G3614",
+      "metadata": {},
+      "gematria": {
+        "standard": 161,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "ασπασασθε",
+      "lemma": [
+        "G782"
+      ],
+      "morph": "robinson:V-ADM-2P",
+      "strongs": "G782",
+      "metadata": {},
+      "gematria": {
+        "standard": 697,
+        "ordinal": 45,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτην",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASF",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3364,
+    "ordinal": 174,
+    "reduced": 151
+  }
+}

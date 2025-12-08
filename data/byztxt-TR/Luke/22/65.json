@@ -1,0 +1,115 @@
+{
+  "text": "και ετερα πολλα βλασφημουντες ελεγον εις αυτον",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "ετερα",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "πολλα",
+      "lemma": [
+        "G4183"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G4183",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "βλασφημουντες",
+      "lemma": [
+        "G987"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G987",
+      "metadata": {},
+      "gematria": {
+        "standard": 1806,
+        "ordinal": 91,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 5,
+      "text": "ελεγον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτον",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-ASM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3658,
+    "ordinal": 169,
+    "reduced": 148
+  }
+}

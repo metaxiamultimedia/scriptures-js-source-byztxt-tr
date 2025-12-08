@@ -1,0 +1,250 @@
+{
+  "text": "ελευσονται δε ημεραι οταν απαρθη απ αυτων ο νυμφιος και τοτε νηστευσουσιν εν εκειναις ταις ημεραις",
+  "words": [
+    {
+      "position": 1,
+      "text": "ελευσονται",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-FDI-3P",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ημεραι",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "οταν",
+      "lemma": [
+        "G3752"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3752",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "απαρθη",
+      "lemma": [
+        "G522"
+      ],
+      "morph": "robinson:V-APS-3S",
+      "strongs": "G522",
+      "metadata": {},
+      "gematria": {
+        "standard": 199,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "απ",
+      "lemma": [
+        "G575"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G575",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "νυμφιος",
+      "lemma": [
+        "G3566"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3566",
+      "metadata": {},
+      "gematria": {
+        "standard": 1270,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοτε",
+      "lemma": [
+        "G5119"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5119",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "νηστευσουσιν",
+      "lemma": [
+        "G3522"
+      ],
+      "morph": "robinson:V-FAI-3P",
+      "strongs": "G3522",
+      "metadata": {},
+      "gematria": {
+        "standard": 1893,
+        "ordinal": 78,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 13,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "εκειναις",
+      "lemma": [
+        "G1565"
+      ],
+      "morph": "robinson:D-DPF",
+      "strongs": "G1565",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "ταις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "ημεραις",
+      "lemma": [
+        "G2250"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G2250",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8666,
+    "ordinal": 328,
+    "reduced": 305
+  }
+}

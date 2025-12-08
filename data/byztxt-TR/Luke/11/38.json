@@ -1,0 +1,190 @@
+{
+  "text": "ο δε φαρισαιος ιδων εθαυμασεν οτι ου πρωτον εβαπτισθη προ του αριστου",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "φαρισαιος",
+      "lemma": [
+        "G5330"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5330",
+      "metadata": {},
+      "gematria": {
+        "standard": 1092,
+        "ordinal": 45,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "ιδων",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "εθαυμασεν",
+      "lemma": [
+        "G2296"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2296",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "πρωτον",
+      "lemma": [
+        "G4412"
+      ],
+      "morph": "robinson:ADV-S",
+      "strongs": "G4412",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 9,
+      "text": "εβαπτισθη",
+      "lemma": [
+        "G907"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G907",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 45,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "προ",
+      "lemma": [
+        "G4253"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G4253",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "αριστου",
+      "lemma": [
+        "G712"
+      ],
+      "morph": "robinson:N-GSN",
+      "strongs": "G712",
+      "metadata": {},
+      "gematria": {
+        "standard": 1081,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7712,
+    "ordinal": 219,
+    "reduced": 233
+  }
+}

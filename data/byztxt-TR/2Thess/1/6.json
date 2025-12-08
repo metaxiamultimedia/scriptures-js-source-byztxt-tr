@@ -1,0 +1,145 @@
+{
+  "text": "ειπερ δικαιον παρα θεω ανταποδουναι τοις θλιβουσιν υμας θλιψιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ειπερ",
+      "lemma": [
+        "G1512"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1512",
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "δικαιον",
+      "lemma": [
+        "G1342"
+      ],
+      "morph": "robinson:A-NSN",
+      "strongs": "G1342",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 28,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "παρα",
+      "lemma": [
+        "G3844"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3844",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεω",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 814,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανταποδουναι",
+      "lemma": [
+        "G467"
+      ],
+      "morph": "robinson:V-2AAN",
+      "strongs": "G467",
+      "metadata": {},
+      "gematria": {
+        "standard": 1037,
+        "ordinal": 78,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "θλιβουσιν",
+      "lemma": [
+        "G2346"
+      ],
+      "morph": "robinson:V-PAP-DPM",
+      "strongs": "G2346",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "υμας",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "θλιψιν",
+      "lemma": [
+        "G2347"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G2347",
+      "metadata": {},
+      "gematria": {
+        "standard": 809,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5209,
+    "ordinal": 223,
+    "reduced": 205
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "text": "ει τινος το εργον μενει ο επωκοδομησεν μισθον ληψεται",
+  "words": [
+    {
+      "position": 1,
+      "text": "ει",
+      "lemma": [
+        "G1487"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1487",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "τινος",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-GSM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "εργον",
+      "lemma": [
+        "G2041"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G2041",
+      "metadata": {},
+      "gematria": {
+        "standard": 228,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "μενει",
+      "lemma": [
+        "G3306"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3306",
+      "metadata": {},
+      "gematria": {
+        "standard": 110,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "ο",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "επωκοδομησεν",
+      "lemma": [
+        "G2026"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2026",
+      "metadata": {},
+      "gematria": {
+        "standard": 1352,
+        "ordinal": 78,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 8,
+      "text": "μισθον",
+      "lemma": [
+        "G3408"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3408",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ληψεται",
+      "lemma": [
+        "G2983"
+      ],
+      "morph": "robinson:V-FDI-3S",
+      "strongs": "G2983",
+      "metadata": {},
+      "gematria": {
+        "standard": 1054,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4208,
+    "ordinal": 179,
+    "reduced": 203
+  }
+}

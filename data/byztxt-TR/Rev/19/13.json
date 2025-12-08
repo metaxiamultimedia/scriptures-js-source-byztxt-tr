@@ -1,0 +1,220 @@
+{
+  "text": "και περιβεβλημενος ιματιον βεβαμμενον αιματι και καλειται το ονομα αυτου ο λογος του θεου",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "περιβεβλημενος",
+      "lemma": [
+        "G4016"
+      ],
+      "morph": "robinson:V-RPP-NSM",
+      "strongs": "G4016",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 105,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 3,
+      "text": "ιματιον",
+      "lemma": [
+        "G2440"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G2440",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "βεβαμμενον",
+      "lemma": [
+        "G911"
+      ],
+      "morph": "robinson:V-RPP-ASN",
+      "strongs": "G911",
+      "metadata": {},
+      "gematria": {
+        "standard": 265,
+        "ordinal": 55,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "αιματι",
+      "lemma": [
+        "G129"
+      ],
+      "morph": "robinson:N-DSN",
+      "strongs": "G129",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 21,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "καλειται",
+      "lemma": [
+        "G2564"
+      ],
+      "morph": "robinson:V-PPI-3S",
+      "strongs": "G2564",
+      "metadata": {},
+      "gematria": {
+        "standard": 377,
+        "ordinal": 36,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "ονομα",
+      "lemma": [
+        "G3686"
+      ],
+      "morph": "robinson:N-NSN",
+      "strongs": "G3686",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "λογος",
+      "lemma": [
+        "G3056"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3056",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5623,
+    "ordinal": 322,
+    "reduced": 277
+  }
+}

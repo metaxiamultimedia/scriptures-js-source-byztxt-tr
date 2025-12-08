@@ -1,0 +1,295 @@
+{
+  "text": "εληλυθεν ο υιος του ανθρωπου εσθιων και πινων και λεγετε ιδου ανθρωπος φαγος και οινοποτης τελωνων φιλος και αμαρτωλων",
+  "words": [
+    {
+      "position": 1,
+      "text": "εληλυθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "morph": "robinson:V-2RAI-3S",
+      "strongs": "G2064",
+      "metadata": {},
+      "gematria": {
+        "standard": 537,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 2,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "υιος",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "του",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "ανθρωπου",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 6,
+      "text": "εσθιων",
+      "lemma": [
+        "G2068"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2068",
+      "metadata": {},
+      "gematria": {
+        "standard": 1074,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "πινων",
+      "lemma": [
+        "G4095"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G4095",
+      "metadata": {},
+      "gematria": {
+        "standard": 990,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "λεγετε",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-2P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 348,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "ιδου",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ανθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G444",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 13,
+      "text": "φαγος",
+      "lemma": [
+        "G5314"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5314",
+      "metadata": {},
+      "gematria": {
+        "standard": 774,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "οινοποτης",
+      "lemma": [
+        "G3630"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G3630",
+      "metadata": {},
+      "gematria": {
+        "standard": 858,
+        "ordinal": 45,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 16,
+      "text": "τελωνων",
+      "lemma": [
+        "G5057"
+      ],
+      "morph": "robinson:N-GPM",
+      "strongs": "G5057",
+      "metadata": {},
+      "gematria": {
+        "standard": 2035,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 17,
+      "text": "φιλος",
+      "lemma": [
+        "G5384"
+      ],
+      "morph": "robinson:A-NSM",
+      "strongs": "G5384",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 19,
+      "text": "αμαρτωλων",
+      "lemma": [
+        "G268"
+      ],
+      "morph": "robinson:A-GPM",
+      "strongs": "G268",
+      "metadata": {},
+      "gematria": {
+        "standard": 2122,
+        "ordinal": 45,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14496,
+    "ordinal": 364,
+    "reduced": 429
+  }
+}

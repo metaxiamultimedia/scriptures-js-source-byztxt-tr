@@ -1,0 +1,100 @@
+{
+  "text": "παντα ευσχημονως και κατα ταxιν γινεσθω",
+  "words": [
+    {
+      "position": 1,
+      "text": "παντα",
+      "lemma": [
+        "G3956"
+      ],
+      "morph": "robinson:A-NPN",
+      "strongs": "G3956",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ευσχημονως",
+      "lemma": [
+        "G2156"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G2156",
+      "metadata": {},
+      "gematria": {
+        "standard": 2373,
+        "ordinal": 55,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 3,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "κατα",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "ταxιν",
+      "lemma": [
+        "G5010"
+      ],
+      "morph": "robinson:N-ASF",
+      "strongs": "G5010",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "γινεσθω",
+      "lemma": [
+        "G1096"
+      ],
+      "morph": "robinson:V-PNM-3S",
+      "strongs": "G1096",
+      "metadata": {},
+      "gematria": {
+        "standard": 1077,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4596,
+    "ordinal": 124,
+    "reduced": 123
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "text": "λεγοντας οτι ηγερθη ο κυριος οντως και ωφθη σιμωνι",
+  "words": [
+    {
+      "position": 1,
+      "text": "λεγοντας",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-APM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 659,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ηγερθη",
+      "lemma": [
+        "G1453"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G1453",
+      "metadata": {},
+      "gematria": {
+        "standard": 133,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "κυριος",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "οντως",
+      "lemma": [
+        "G3689"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G3689",
+      "metadata": {},
+      "gematria": {
+        "standard": 1420,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "ωφθη",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 1317,
+        "ordinal": 10,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "σιμωνι",
+      "lemma": [
+        "G4613"
+      ],
+      "morph": "robinson:N-DSM",
+      "strongs": "G4613",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5920,
+    "ordinal": 137,
+    "reduced": 178
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "text": "τοτε υπεβαλον ανδρας λεγοντας οτι ακηκοαμεν αυτου λαλουντος ρηματα βλασφημα εις μωσην και τον θεον",
+  "words": [
+    {
+      "position": 1,
+      "text": "τοτε",
+      "lemma": [
+        "G5119"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5119",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "υπεβαλον",
+      "lemma": [
+        "G5260"
+      ],
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": "G5260",
+      "metadata": {},
+      "gematria": {
+        "standard": 638,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "ανδρας",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-APM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 356,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "λεγοντας",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-APM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 659,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ακηκοαμεν",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-2RAI-1P-ATT",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "αυτου",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "λαλουντος",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 1151,
+        "ordinal": 45,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 9,
+      "text": "ρηματα",
+      "lemma": [
+        "G4487"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G4487",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "βλασφημα",
+      "lemma": [
+        "G989"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G989",
+      "metadata": {},
+      "gematria": {
+        "standard": 782,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "μωσην",
+      "lemma": [
+        "G3475"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G3475",
+      "metadata": {},
+      "gematria": {
+        "standard": 1098,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "θεον",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8375,
+    "ordinal": 314,
+    "reduced": 320
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "text": "ειγε και ενδυσαμενοι ου γυμνοι ευρεθησομεθα",
+  "words": [
+    {
+      "position": 1,
+      "text": "ειγε",
+      "lemma": [
+        "G1489"
+      ],
+      "morph": "robinson:COND",
+      "strongs": "G1489",
+      "metadata": {},
+      "gematria": {
+        "standard": 23,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "ενδυσαμενοι",
+      "lemma": [
+        "G1746"
+      ],
+      "morph": "robinson:V-AMP-NPM",
+      "strongs": "G1746",
+      "metadata": {},
+      "gematria": {
+        "standard": 835,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "γυμνοι",
+      "lemma": [
+        "G1131"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G1131",
+      "metadata": {},
+      "gematria": {
+        "standard": 573,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "ευρεθησομεθα",
+      "lemma": [
+        "G2147"
+      ],
+      "morph": "robinson:V-FPI-1P",
+      "strongs": "G2147",
+      "metadata": {},
+      "gematria": {
+        "standard": 852,
+        "ordinal": 78,
+        "reduced": 60
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2784,
+    "ordinal": 184,
+    "reduced": 156
+  }
+}

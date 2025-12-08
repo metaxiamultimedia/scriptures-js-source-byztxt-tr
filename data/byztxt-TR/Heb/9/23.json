@@ -1,0 +1,295 @@
+{
+  "text": "αναγκη ουν τα μεν υποδειγματα των εν τοις ουρανοις τουτοις καθαριζεσθαι αυτα δε τα επουρανια κρειττοσιν θυσιαις παρα ταυτας",
+  "words": [
+    {
+      "position": 1,
+      "text": "αναγκη",
+      "lemma": [
+        "G318"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G318",
+      "metadata": {},
+      "gematria": {
+        "standard": 83,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "μεν",
+      "lemma": [
+        "G3303"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G3303",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "υποδειγματα",
+      "lemma": [
+        "G5262"
+      ],
+      "morph": "robinson:N-APN",
+      "strongs": "G5262",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 66,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 6,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "εν",
+      "lemma": [
+        "G1722"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1722",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοις",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "ουρανοις",
+      "lemma": [
+        "G3772"
+      ],
+      "morph": "robinson:N-DPM",
+      "strongs": "G3772",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "τουτοις",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-DPN",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 11,
+      "text": "καθαριζεσθαι",
+      "lemma": [
+        "G2511"
+      ],
+      "morph": "robinson:V-PPN",
+      "strongs": "G2511",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 78,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "αυτα",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-APN",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 10,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "τα",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "επουρανια",
+      "lemma": [
+        "G2032"
+      ],
+      "morph": "robinson:A-APN",
+      "strongs": "G2032",
+      "metadata": {},
+      "gematria": {
+        "standard": 717,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "κρειττοσιν",
+      "lemma": [
+        "G2909"
+      ],
+      "morph": "robinson:A-DPF-C",
+      "strongs": "G2909",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 55,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "θυσιαις",
+      "lemma": [
+        "G2378"
+      ],
+      "morph": "robinson:N-DPF",
+      "strongs": "G2378",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "παρα",
+      "lemma": [
+        "G3844"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G3844",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ταυτας",
+      "lemma": [
+        "G3778"
+      ],
+      "morph": "robinson:D-APF",
+      "strongs": "G3778",
+      "metadata": {},
+      "gematria": {
+        "standard": 1202,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11330,
+    "ordinal": 438,
+    "reduced": 359
+  }
+}

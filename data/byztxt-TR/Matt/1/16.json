@@ -1,0 +1,235 @@
+{
+  "text": "ιακωβ δε εγεννησεν τον ιωσηφ τον ανδρα μαριας εx ης εγεννηθη ιησους ο λεγομενος χριστος",
+  "words": [
+    {
+      "position": 1,
+      "text": "ιακωβ",
+      "lemma": [
+        "G2384"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2384",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 15,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εγεννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1080",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 45,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ιωσηφ",
+      "lemma": [
+        "G2501"
+      ],
+      "morph": "robinson:N-PRI",
+      "strongs": "G2501",
+      "metadata": {},
+      "gematria": {
+        "standard": 1518,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "τον",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ανδρα",
+      "lemma": [
+        "G435"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G435",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "μαριας",
+      "lemma": [
+        "G3137"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3137",
+      "metadata": {},
+      "gematria": {
+        "standard": 352,
+        "ordinal": 21,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "εx",
+      "lemma": [
+        "G1537"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1537",
+      "metadata": {},
+      "gematria": {
+        "standard": 5,
+        "ordinal": 1,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 10,
+      "text": "ης",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-GSF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "εγεννηθη",
+      "lemma": [
+        "G1080"
+      ],
+      "morph": "robinson:V-API-3S",
+      "strongs": "G1080",
+      "metadata": {},
+      "gematria": {
+        "standard": 138,
+        "ordinal": 36,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 12,
+      "text": "ιησους",
+      "lemma": [
+        "G2424"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G2424",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "λεγομενος",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PPP-NSM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 45,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 15,
+      "text": "χριστος",
+      "lemma": [
+        "G5547"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G5547",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 28,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7346,
+    "ordinal": 261,
+    "reduced": 299
+  }
+}

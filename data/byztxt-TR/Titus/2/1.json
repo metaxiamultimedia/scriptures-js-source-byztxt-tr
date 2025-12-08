@@ -1,0 +1,130 @@
+{
+  "text": "συ δε λαλει α πρεπει τη υγιαινουση διδασκαλια",
+  "words": [
+    {
+      "position": 1,
+      "text": "συ",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2NS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δε",
+      "lemma": [
+        "G1161"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1161",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "λαλει",
+      "lemma": [
+        "G2980"
+      ],
+      "morph": "robinson:V-PAM-2S",
+      "strongs": "G2980",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "α",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-NPN",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρεπει",
+      "lemma": [
+        "G4241"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G4241",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "τη",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-DSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "υγιαινουση",
+      "lemma": [
+        "G5198"
+      ],
+      "morph": "robinson:V-PAP-DSF",
+      "strongs": "G5198",
+      "metadata": {},
+      "gematria": {
+        "standard": 1152,
+        "ordinal": 55,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 8,
+      "text": "διδασκαλια",
+      "lemma": [
+        "G1319"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G1319",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 55,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2707,
+    "ordinal": 156,
+    "reduced": 124
+  }
+}

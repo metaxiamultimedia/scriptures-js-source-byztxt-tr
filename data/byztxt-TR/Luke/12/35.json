@@ -1,0 +1,145 @@
+{
+  "text": "εστωσαν υμων αι οσφυες περιεζωσμεναι και οι λυχνοι καιομενοι",
+  "words": [
+    {
+      "position": 1,
+      "text": "εστωσαν",
+      "lemma": [
+        "G1510"
+      ],
+      "morph": "robinson:V-PAM-3P",
+      "strongs": "G1510",
+      "metadata": {},
+      "gematria": {
+        "standard": 1556,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "υμων",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2GP",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "αι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 4,
+      "text": "οσφυες",
+      "lemma": [
+        "G3751"
+      ],
+      "morph": "robinson:N-NPF",
+      "strongs": "G3751",
+      "metadata": {},
+      "gematria": {
+        "standard": 1375,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "περιεζωσμεναι",
+      "lemma": [
+        "G4024"
+      ],
+      "morph": "robinson:V-RPP-NPF",
+      "strongs": "G4024",
+      "metadata": {},
+      "gematria": {
+        "standard": 1313,
+        "ordinal": 91,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 6,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "λυχνοι",
+      "lemma": [
+        "G3088"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G3088",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "καιομενοι",
+      "lemma": [
+        "G2545"
+      ],
+      "morph": "robinson:V-PPP-NPM",
+      "strongs": "G2545",
+      "metadata": {},
+      "gematria": {
+        "standard": 276,
+        "ordinal": 45,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7092,
+    "ordinal": 228,
+    "reduced": 198
+  }
+}

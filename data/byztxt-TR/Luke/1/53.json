@@ -1,0 +1,115 @@
+{
+  "text": "πεινωντας ενεπλησεν αγαθων και πλουτουντας εxαπεστειλεν κενους",
+  "words": [
+    {
+      "position": 1,
+      "text": "πεινωντας",
+      "lemma": [
+        "G3983"
+      ],
+      "morph": "robinson:V-PAP-APM",
+      "strongs": "G3983",
+      "metadata": {},
+      "gematria": {
+        "standard": 1496,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 2,
+      "text": "ενεπλησεν",
+      "lemma": [
+        "G1705"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1705",
+      "metadata": {},
+      "gematria": {
+        "standard": 433,
+        "ordinal": 45,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 3,
+      "text": "αγαθων",
+      "lemma": [
+        "G18"
+      ],
+      "morph": "robinson:A-GPN",
+      "strongs": "G18",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "πλουτουντας",
+      "lemma": [
+        "G4147"
+      ],
+      "morph": "robinson:V-PAP-APM",
+      "strongs": "G4147",
+      "metadata": {},
+      "gematria": {
+        "standard": 1901,
+        "ordinal": 66,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "εxαπεστειλεν",
+      "lemma": [
+        "G1821"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G1821",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "κενους",
+      "lemma": [
+        "G2756"
+      ],
+      "morph": "robinson:A-APM",
+      "strongs": "G2756",
+      "metadata": {},
+      "gematria": {
+        "standard": 745,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6161,
+    "ordinal": 270,
+    "reduced": 230
+  }
+}

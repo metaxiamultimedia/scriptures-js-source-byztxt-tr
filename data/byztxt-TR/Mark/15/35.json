@@ -1,0 +1,145 @@
+{
+  "text": "και τινες των παρεστηκοτων ακουσαντες ελεγον ιδου ηλιαν φωνει",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "morph": "robinson:X-NPM",
+      "strongs": "G5100",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "των",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-GPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "παρεστηκοτων",
+      "lemma": [
+        "G3936"
+      ],
+      "morph": "robinson:V-RAP-GPM",
+      "strongs": "G3936",
+      "metadata": {},
+      "gematria": {
+        "standard": 1934,
+        "ordinal": 78,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 5,
+      "text": "ακουσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": "G191",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 55,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "ελεγον",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-IAI-3P",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "ιδου",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ηλιαν",
+      "lemma": [
+        "G2243"
+      ],
+      "morph": "robinson:N-ASM",
+      "strongs": "G2243",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "φωνει",
+      "lemma": [
+        "G5455"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G5455",
+      "metadata": {},
+      "gematria": {
+        "standard": 1365,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7038,
+    "ordinal": 221,
+    "reduced": 207
+  }
+}

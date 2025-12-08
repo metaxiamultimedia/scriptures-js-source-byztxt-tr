@@ -1,0 +1,205 @@
+{
+  "text": "και αναμνησθεις ο πετρος λεγει αυτω ραββι ιδε η συκη ην κατηρασω εxηρανται",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "αναμνησθεις",
+      "lemma": [
+        "G363"
+      ],
+      "morph": "robinson:V-AOP-NSM",
+      "strongs": "G363",
+      "metadata": {},
+      "gematria": {
+        "standard": 574,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 3,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "πετρος",
+      "lemma": [
+        "G4074"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G4074",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "λεγει",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAI-3S",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ραββι",
+      "lemma": [
+        "G4461"
+      ],
+      "morph": "robinson:HEB",
+      "strongs": "G4461",
+      "metadata": {},
+      "gematria": {
+        "standard": 115,
+        "ordinal": 15,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "ιδε",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAM-2S",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "η",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSF",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 10,
+      "text": "συκη",
+      "lemma": [
+        "G4808"
+      ],
+      "morph": "robinson:N-NSF",
+      "strongs": "G4808",
+      "metadata": {},
+      "gematria": {
+        "standard": 628,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "ην",
+      "lemma": [
+        "G3739"
+      ],
+      "morph": "robinson:R-ASF",
+      "strongs": "G3739",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "κατηρασω",
+      "lemma": [
+        "G2672"
+      ],
+      "morph": "robinson:V-ADI-2S",
+      "strongs": "G2672",
+      "metadata": {},
+      "gematria": {
+        "standard": 1430,
+        "ordinal": 36,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "εxηρανται",
+      "lemma": [
+        "G3583"
+      ],
+      "morph": "robinson:V-RPI-3S",
+      "strongs": "G3583",
+      "metadata": {},
+      "gematria": {
+        "standard": 475,
+        "ordinal": 36,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5717,
+    "ordinal": 226,
+    "reduced": 218
+  }
+}

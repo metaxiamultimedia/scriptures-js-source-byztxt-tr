@@ -1,0 +1,100 @@
+{
+  "text": "και καθ οσον ου χωρις ορκωμοσιας",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "καθ",
+      "lemma": [
+        "G2596"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G2596",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "οσον",
+      "lemma": [
+        "G3745"
+      ],
+      "morph": "robinson:K-ASN",
+      "strongs": "G3745",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "χωρις",
+      "lemma": [
+        "G5565"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5565",
+      "metadata": {},
+      "gematria": {
+        "standard": 1710,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ορκωμοσιας",
+      "lemma": [
+        "G3728"
+      ],
+      "morph": "robinson:N-GSF",
+      "strongs": "G3728",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4142,
+    "ordinal": 95,
+    "reduced": 101
+  }
+}

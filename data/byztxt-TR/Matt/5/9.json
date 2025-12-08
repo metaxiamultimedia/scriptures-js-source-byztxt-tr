@@ -1,0 +1,130 @@
+{
+  "text": "μακαριοι οι ειρηνοποιοι οτι αυτοι υιοι θεου κληθησονται",
+  "words": [
+    {
+      "position": 1,
+      "text": "μακαριοι",
+      "lemma": [
+        "G3107"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G3107",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "ειρηνοποιοι",
+      "lemma": [
+        "G1518"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G1518",
+      "metadata": {},
+      "gematria": {
+        "standard": 483,
+        "ordinal": 66,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 4,
+      "text": "οτι",
+      "lemma": [
+        "G3754"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3754",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "αυτοι",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-NPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "υιοι",
+      "lemma": [
+        "G5207"
+      ],
+      "morph": "robinson:N-NPM",
+      "strongs": "G5207",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεου",
+      "lemma": [
+        "G2316"
+      ],
+      "morph": "robinson:N-GSM",
+      "strongs": "G2316",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "κληθησονται",
+      "lemma": [
+        "G2564"
+      ],
+      "morph": "robinson:V-FPI-3P",
+      "strongs": "G2564",
+      "metadata": {},
+      "gematria": {
+        "standard": 706,
+        "ordinal": 66,
+        "reduced": 49
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3656,
+    "ordinal": 212,
+    "reduced": 191
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "text": "μια γαρ προσφορα τετελειωκεν εις το διηνεκες τους αγιαζομενους",
+  "words": [
+    {
+      "position": 1,
+      "text": "μια",
+      "lemma": [
+        "G1520"
+      ],
+      "morph": "robinson:A-DSF",
+      "strongs": "G1520",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 6,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "γαρ",
+      "lemma": [
+        "G1063"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G1063",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 6,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "προσφορα",
+      "lemma": [
+        "G4376"
+      ],
+      "morph": "robinson:N-DSF",
+      "strongs": "G4376",
+      "metadata": {},
+      "gematria": {
+        "standard": 1121,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "τετελειωκεν",
+      "lemma": [
+        "G5048"
+      ],
+      "morph": "robinson:V-RAI-3S",
+      "strongs": "G5048",
+      "metadata": {},
+      "gematria": {
+        "standard": 1530,
+        "ordinal": 66,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 5,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "διηνεκες",
+      "lemma": [
+        "G1336"
+      ],
+      "morph": "robinson:A-ASN",
+      "strongs": "G1336",
+      "metadata": {},
+      "gematria": {
+        "standard": 302,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "τους",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-APM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "αγιαζομενους",
+      "lemma": [
+        "G37"
+      ],
+      "morph": "robinson:V-PPP-APM",
+      "strongs": "G37",
+      "metadata": {},
+      "gematria": {
+        "standard": 857,
+        "ordinal": 78,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5520,
+    "ordinal": 247,
+    "reduced": 201
+  }
+}

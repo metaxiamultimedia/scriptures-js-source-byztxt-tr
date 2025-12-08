@@ -1,0 +1,145 @@
+{
+  "text": "και εμβαντων αυτων εις το πλοιον εκοπασεν ο ανεμος",
+  "words": [
+    {
+      "position": 1,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "εμβαντων",
+      "lemma": [
+        "G1684"
+      ],
+      "morph": "robinson:V-2AAP-GPM",
+      "strongs": "G1684",
+      "metadata": {},
+      "gematria": {
+        "standard": 1248,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτων",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-GPM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "εις",
+      "lemma": [
+        "G1519"
+      ],
+      "morph": "robinson:PREP",
+      "strongs": "G1519",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "το",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-ASN",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "πλοιον",
+      "lemma": [
+        "G4143"
+      ],
+      "morph": "robinson:N-ASN",
+      "strongs": "G4143",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "εκοπασεν",
+      "lemma": [
+        "G2869"
+      ],
+      "morph": "robinson:V-AAI-3S",
+      "strongs": "G2869",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "ανεμος",
+      "lemma": [
+        "G417"
+      ],
+      "morph": "robinson:N-NSM",
+      "strongs": "G417",
+      "metadata": {},
+      "gematria": {
+        "standard": 366,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4592,
+    "ordinal": 145,
+    "reduced": 173
+  }
+}

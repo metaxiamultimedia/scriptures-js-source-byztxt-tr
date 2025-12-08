@@ -1,0 +1,265 @@
+{
+  "text": "τοτε αποκριθησονται αυτω οι δικαιοι λεγοντες κυριε ποτε σε ειδομεν πεινωντα και εθρεψαμεν η διψωντα και εποτισαμεν",
+  "words": [
+    {
+      "position": 1,
+      "text": "τοτε",
+      "lemma": [
+        "G5119"
+      ],
+      "morph": "robinson:ADV",
+      "strongs": "G5119",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "αποκριθησονται",
+      "lemma": [
+        "G611"
+      ],
+      "morph": "robinson:V-FOI-3P",
+      "strongs": "G611",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 105,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 3,
+      "text": "αυτω",
+      "lemma": [
+        "G846"
+      ],
+      "morph": "robinson:P-DSM",
+      "strongs": "G846",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "οι",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NPM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "δικαιοι",
+      "lemma": [
+        "G1342"
+      ],
+      "morph": "robinson:A-NPM",
+      "strongs": "G1342",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "λεγοντες",
+      "lemma": [
+        "G3004"
+      ],
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": "G3004",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 36,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "κυριε",
+      "lemma": [
+        "G2962"
+      ],
+      "morph": "robinson:N-VSM",
+      "strongs": "G2962",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "ποτε",
+      "lemma": [
+        "G4219"
+      ],
+      "morph": "robinson:PRT-I",
+      "strongs": "G4219",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "σε",
+      "lemma": [
+        "G4771"
+      ],
+      "morph": "robinson:P-2AS",
+      "strongs": "G4771",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "ειδομεν",
+      "lemma": [
+        "G3708"
+      ],
+      "morph": "robinson:V-2AAI-1P",
+      "strongs": "G3708",
+      "metadata": {},
+      "gematria": {
+        "standard": 184,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "πεινωντα",
+      "lemma": [
+        "G3983"
+      ],
+      "morph": "robinson:V-PAP-ASM",
+      "strongs": "G3983",
+      "metadata": {},
+      "gematria": {
+        "standard": 1296,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "εθρεψαμεν",
+      "lemma": [
+        "G5142"
+      ],
+      "morph": "robinson:V-AAI-1P",
+      "strongs": "G5142",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 14,
+      "text": "η",
+      "lemma": [
+        "G2228"
+      ],
+      "morph": "robinson:PRT",
+      "strongs": "G2228",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 1,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "διψωντα",
+      "lemma": [
+        "G1372"
+      ],
+      "morph": "robinson:V-PAP-ASM",
+      "strongs": "G1372",
+      "metadata": {},
+      "gematria": {
+        "standard": 1865,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "και",
+      "lemma": [
+        "G2532"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G2532",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "εποτισαμεν",
+      "lemma": [
+        "G4222"
+      ],
+      "morph": "robinson:V-AAI-1P",
+      "strongs": "G4222",
+      "metadata": {},
+      "gematria": {
+        "standard": 761,
+        "ordinal": 55,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10259,
+    "ordinal": 425,
+    "reduced": 386
+  }
+}

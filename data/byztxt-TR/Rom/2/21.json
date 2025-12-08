@@ -1,0 +1,190 @@
+{
+  "text": "ο ουν διδασκων ετερον σεαυτον ου διδασκεις ο κηρυσσων μη κλεπτειν κλεπτεις",
+  "words": [
+    {
+      "position": 1,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "ουν",
+      "lemma": [
+        "G3767"
+      ],
+      "morph": "robinson:CONJ",
+      "strongs": "G3767",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "διδασκων",
+      "lemma": [
+        "G1321"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G1321",
+      "metadata": {},
+      "gematria": {
+        "standard": 1089,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "ετερον",
+      "lemma": [
+        "G2087"
+      ],
+      "morph": "robinson:A-ASM",
+      "strongs": "G2087",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "σεαυτον",
+      "lemma": [
+        "G4572"
+      ],
+      "morph": "robinson:F-2ASM",
+      "strongs": "G4572",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "ου",
+      "lemma": [
+        "G3756"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3756",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "διδασκεις",
+      "lemma": [
+        "G1321"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G1321",
+      "metadata": {},
+      "gematria": {
+        "standard": 454,
+        "ordinal": 45,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "ο",
+      "lemma": [
+        "G3588"
+      ],
+      "morph": "robinson:T-NSM",
+      "strongs": "G3588",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 1,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "κηρυσσων",
+      "lemma": [
+        "G2784"
+      ],
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": "G2784",
+      "metadata": {},
+      "gematria": {
+        "standard": 1778,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "μη",
+      "lemma": [
+        "G3361"
+      ],
+      "morph": "robinson:PRT-N",
+      "strongs": "G3361",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "κλεπτειν",
+      "lemma": [
+        "G2813"
+      ],
+      "morph": "robinson:V-PAN",
+      "strongs": "G2813",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 36,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "κλεπτεις",
+      "lemma": [
+        "G2813"
+      ],
+      "morph": "robinson:V-PAI-2S",
+      "strongs": "G2813",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 36,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7205,
+    "ordinal": 252,
+    "reduced": 248
+  }
+}
