@@ -14,6 +14,7 @@ import { fileURLToPath } from 'url';
 import { pipeline } from 'stream/promises';
 import { createUnzip } from 'zlib';
 import { Extract } from 'unzipper';
+import { computeGreek } from '@metaxia/scriptures-core';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -51,14 +52,6 @@ const LATIN_TO_GREEK: Record<string, string> = {
   'V': 'Σ',  // final sigma uppercase
 };
 
-// Greek letter values for gematria (isopsephy)
-const GREEK_VALUES: Record<string, number> = {
-  'α': 1, 'β': 2, 'γ': 3, 'δ': 4, 'ε': 5, 'ϛ': 6, 'ζ': 7, 'η': 8, 'θ': 9,
-  'ι': 10, 'κ': 20, 'λ': 30, 'μ': 40, 'ν': 50, 'ξ': 60, 'ο': 70, 'π': 80,
-  'ϟ': 90, 'ρ': 100, 'σ': 200, 'ς': 200, 'τ': 300, 'υ': 400, 'φ': 500,
-  'χ': 600, 'ψ': 700, 'ω': 800, 'ϡ': 900,
-};
-
 interface WordEntry {
   position: number;
   text: string;
@@ -81,28 +74,6 @@ function transliterateToGreek(text: string): string {
   for (const char of text) {
     result += LATIN_TO_GREEK[char] || char;
   }
-  return result;
-}
-
-function computeGematria(text: string): Record<string, number> {
-  const result: Record<string, number> = { standard: 0, ordinal: 0, reduced: 0 };
-
-  let ordinalPos = 1;
-  for (const char of text.toLowerCase()) {
-    const val = GREEK_VALUES[char];
-    if (val) {
-      result.standard += val;
-      result.ordinal += ordinalPos;
-      ordinalPos++;
-      // Reduced: digital root
-      let reduced = val;
-      while (reduced > 9) {
-        reduced = String(reduced).split('').reduce((a, b) => a + parseInt(b, 10), 0);
-      }
-      result.reduced += reduced;
-    }
-  }
-
   return result;
 }
 
@@ -351,7 +322,7 @@ async function saveVerse(book: string, chapter: number, verse: number, words: Pa
     morph: w.morph || null,
     strongs: w.strongs,
     metadata: w.metadata,
-    gematria: computeGematria(w.text),
+    gematria: computeGreek(w.text),
   }));
 
   // Calculate gematria excluding colophon words

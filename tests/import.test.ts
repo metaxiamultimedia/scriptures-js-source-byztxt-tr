@@ -3,6 +3,7 @@
  */
 
 import { describe, it, expect } from 'vitest';
+import { computeGreek } from '@metaxia/scriptures-core';
 
 // Transliteration mapping from byztxt Latin to Greek
 const LATIN_TO_GREEK: Record<string, string> = {
@@ -71,9 +72,6 @@ function parseUtrFile(content: string, book: string): ParsedVerse[] {
 
     // Skip bare Strong's numbers - source data anomaly where a Strong's
     // number appears without a preceding Greek word.
-    // Example: 1 Corinthians 2:13 source has:
-    //   "pneumatikoiv 4152 {A-DPN} 4152 {A-DPM} pneumatika 4152 {A-APN}"
-    // The second "4152 {A-DPM}" is a bare Strong's number with no Greek word.
     if (/^\d+$/.test(tok)) {
       // Consume the morph tag if present
       if (i + 1 < tokens.length && tokens[i + 1].startsWith('{')) {
@@ -210,6 +208,55 @@ describe('parseUtrFile', () => {
       expect(verses[0].words[0].text).toBe('λαλουμεν');
       expect(verses[0].words[0].lemma).toEqual(['G2980']);
       expect(verses[0].words[0].morph).toBe('robinson:V-PAI-1P');
+    });
+  });
+});
+
+describe('computeGreek (from core)', () => {
+  describe('ordinal gematria', () => {
+    it('should use Greek alphabet positions, not letter position in word', () => {
+      // λογος (logos): λ=11, ο=15, γ=3, ο=15, σ=18 → total=62
+      // Bug would give: 1+2+3+4+5 = 15
+      const result = computeGreek('λογος');
+      expect(result.ordinal).toBe(62);
+    });
+
+    it('should calculate ordinal for single letters correctly', () => {
+      expect(computeGreek('α').ordinal).toBe(1);   // alpha = 1st letter
+      expect(computeGreek('β').ordinal).toBe(2);   // beta = 2nd letter
+      expect(computeGreek('ω').ordinal).toBe(24);  // omega = 24th letter
+    });
+
+    it('should handle final sigma same as regular sigma', () => {
+      // Both σ and ς should be position 18
+      expect(computeGreek('σ').ordinal).toBe(18);
+      expect(computeGreek('ς').ordinal).toBe(18);
+    });
+
+    it('should calculate ordinal for θεος (theos) correctly', () => {
+      // θεος: θ=8, ε=5, ο=15, σ=18 → total=46
+      const result = computeGreek('θεος');
+      expect(result.ordinal).toBe(46);
+    });
+
+    it('should be case-insensitive', () => {
+      const lower = computeGreek('λογος');
+      const upper = computeGreek('ΛΟΓΟΣ');
+      expect(lower.ordinal).toBe(upper.ordinal);
+    });
+
+    it('should ignore non-Greek characters', () => {
+      const withPunct = computeGreek('λογος,');
+      const plain = computeGreek('λογος');
+      expect(withPunct.ordinal).toBe(plain.ordinal);
+    });
+  });
+
+  describe('standard gematria (isopsephy)', () => {
+    it('should calculate standard values correctly', () => {
+      // λογος: λ=30, ο=70, γ=3, ο=70, σ=200 → total=373
+      const result = computeGreek('λογος');
+      expect(result.standard).toBe(373);
     });
   });
 });
