@@ -57,7 +57,7 @@
     "@metaxia/scriptures-core": ">=0.1.0"
   },
   "devDependencies": {
-    "@metaxia/scriptures-core": "git+ssh://git@github.com/metaxiamultimedia/scriptures-js-core",
+    "@metaxia/scriptures-core": "^0.1.0",
     "@types/unzipper": "^0.10.9",
     "tsx": "^4.7.0",
     "typescript": "^5.3.0",
