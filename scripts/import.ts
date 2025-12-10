@@ -59,6 +59,13 @@ const GREEK_VALUES: Record<string, number> = {
   'χ': 600, 'ψ': 700, 'ω': 800, 'ϡ': 900,
 };
 
+// Greek letter ordinal positions (alphabet order: α=1, β=2, γ=3, ... ω=24)
+const GREEK_ORDINAL: Record<string, number> = {
+  'α': 1, 'β': 2, 'γ': 3, 'δ': 4, 'ε': 5, 'ζ': 6, 'η': 7, 'θ': 8, 'ι': 9,
+  'κ': 10, 'λ': 11, 'μ': 12, 'ν': 13, 'ξ': 14, 'ο': 15, 'π': 16, 'ρ': 17,
+  'σ': 18, 'ς': 18, 'τ': 19, 'υ': 20, 'φ': 21, 'χ': 22, 'ψ': 23, 'ω': 24,
+};
+
 interface WordEntry {
   position: number;
   text: string;
@@ -87,13 +94,11 @@ function transliterateToGreek(text: string): string {
 function computeGematria(text: string): Record<string, number> {
   const result: Record<string, number> = { standard: 0, ordinal: 0, reduced: 0 };
 
-  let ordinalPos = 1;
   for (const char of text.toLowerCase()) {
     const val = GREEK_VALUES[char];
     if (val) {
       result.standard += val;
-      result.ordinal += ordinalPos;
-      ordinalPos++;
+      result.ordinal += GREEK_ORDINAL[char] || 0;
       // Reduced: digital root
       let reduced = val;
       while (reduced > 9) {
