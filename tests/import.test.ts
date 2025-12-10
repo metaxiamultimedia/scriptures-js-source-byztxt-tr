@@ -13,6 +13,41 @@ const LATIN_TO_GREEK: Record<string, string> = {
   'v': 'ς',
 };
 
+// Greek letter values for gematria (isopsephy)
+const GREEK_VALUES: Record<string, number> = {
+  'α': 1, 'β': 2, 'γ': 3, 'δ': 4, 'ε': 5, 'ϛ': 6, 'ζ': 7, 'η': 8, 'θ': 9,
+  'ι': 10, 'κ': 20, 'λ': 30, 'μ': 40, 'ν': 50, 'ξ': 60, 'ο': 70, 'π': 80,
+  'ϟ': 90, 'ρ': 100, 'σ': 200, 'ς': 200, 'τ': 300, 'υ': 400, 'φ': 500,
+  'χ': 600, 'ψ': 700, 'ω': 800, 'ϡ': 900,
+};
+
+// Greek letter ordinal positions (alphabet order: α=1, β=2, γ=3, ... ω=24)
+const GREEK_ORDINAL: Record<string, number> = {
+  'α': 1, 'β': 2, 'γ': 3, 'δ': 4, 'ε': 5, 'ζ': 6, 'η': 7, 'θ': 8, 'ι': 9,
+  'κ': 10, 'λ': 11, 'μ': 12, 'ν': 13, 'ξ': 14, 'ο': 15, 'π': 16, 'ρ': 17,
+  'σ': 18, 'ς': 18, 'τ': 19, 'υ': 20, 'φ': 21, 'χ': 22, 'ψ': 23, 'ω': 24,
+};
+
+function computeGematria(text: string): Record<string, number> {
+  const result: Record<string, number> = { standard: 0, ordinal: 0, reduced: 0 };
+
+  for (const char of text.toLowerCase()) {
+    const val = GREEK_VALUES[char];
+    if (val) {
+      result.standard += val;
+      result.ordinal += GREEK_ORDINAL[char] || 0;
+      // Reduced: digital root
+      let reduced = val;
+      while (reduced > 9) {
+        reduced = String(reduced).split('').reduce((a, b) => a + parseInt(b, 10), 0);
+      }
+      result.reduced += reduced;
+    }
+  }
+
+  return result;
+}
+
 function transliterateToGreek(text: string): string {
   let result = '';
   for (const char of text) {
@@ -210,6 +245,59 @@ describe('parseUtrFile', () => {
       expect(verses[0].words[0].text).toBe('λαλουμεν');
       expect(verses[0].words[0].lemma).toEqual(['G2980']);
       expect(verses[0].words[0].morph).toBe('robinson:V-PAI-1P');
+    });
+  });
+});
+
+describe('computeGematria', () => {
+  describe('ordinal gematria', () => {
+    it('should use Greek alphabet positions, not letter position in word', () => {
+      // λογος (logos): λ=11, ο=15, γ=3, ο=15, σ=18 → total=62
+      // Bug would give: 1+2+3+4+5 = 15
+      const result = computeGematria('λογος');
+      expect(result.ordinal).toBe(62);
+    });
+
+    it('should calculate ordinal for single letters correctly', () => {
+      expect(computeGematria('α').ordinal).toBe(1);   // alpha = 1st letter
+      expect(computeGematria('β').ordinal).toBe(2);   // beta = 2nd letter
+      expect(computeGematria('ω').ordinal).toBe(24);  // omega = 24th letter
+    });
+
+    it('should handle final sigma same as regular sigma', () => {
+      // Both σ and ς should be position 18
+      expect(computeGematria('σ').ordinal).toBe(18);
+      expect(computeGematria('ς').ordinal).toBe(18);
+    });
+
+    it('should calculate ordinal for θεος (theos) correctly', () => {
+      // θεος: θ=8, ε=5, ο=15, σ=18 → total=46
+      const result = computeGematria('θεος');
+      expect(result.ordinal).toBe(46);
+    });
+
+    it('should be case-insensitive', () => {
+      // Uppercase letters should work too (converted to lowercase)
+      const lower = computeGematria('λογος');
+      const upper = computeGematria('ΛΟΓΟΣ');
+      expect(lower.ordinal).toBe(upper.ordinal);
+    });
+
+    it('should ignore non-Greek characters', () => {
+      // Punctuation and spaces should not affect the result
+      const withPunct = computeGematria('λογος,');
+      const withSpace = computeGematria('λο γος');
+      const plain = computeGematria('λογος');
+      expect(withPunct.ordinal).toBe(plain.ordinal);
+      expect(withSpace.ordinal).toBe(plain.ordinal);
+    });
+  });
+
+  describe('standard gematria (isopsephy)', () => {
+    it('should calculate standard values correctly', () => {
+      // λογος: λ=30, ο=70, γ=3, ο=70, σ=200 → total=373
+      const result = computeGematria('λογος');
+      expect(result.standard).toBe(373);
     });
   });
 });
